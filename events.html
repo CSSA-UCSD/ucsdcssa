@@ -1,157 +1,224 @@
-<DOCTYPE HTML>
-<html lang="en">
-<head>
-  <meta charset="utf-8">
-  <title>CSSA Events</title>
-  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
-  <link rel="icon" href="images/favicon.ico" type="image/x-icon"/>
-  <link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon"/>
-  <link href="css/events.css" rel="stylesheet">
-  <link href="css/footer.css" rel="stylesheet">
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-  <div id="header"></div><br />
-</head>
+<!doctype html>
+<html lang='en'>
+    <head>
+        <link rel="icon" href="images/favicon.ico" type="image/x-icon"/>
+        <link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon"/>
+        <title>CSSA @ UCSD - Cognitive Science Student Association at UC San Diego</title>
+        <meta charset='utf-8'>
+        <meta name='viewport' content='width=device-width, initial-scale=1, shrink-to-fit=no'>
+        <!-- Bootstrap CSS -->
+        <link rel='stylesheet' href='https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css' integrity='sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T' crossorigin='anonymous'>
+        <link href="https://fonts.googleapis.com/css?family=Poppins:300,500,700&display=swap" rel="stylesheet">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+        <link rel='stylesheet' href='css/index.css'>
+    </head>
+    <body>
+        <!-- Header -->
+        <header class='jumbotron jumbotron-fluid small-header pt-2' id='banner'>  
+            <nav class="navbar navbar-expand-lg px-5 mt-0" style="background-color: transparent; color: white;">
+                <a class="navbar-brand" href="index.html"><img class='ucsd-logo' src='images/logo.png' width='150px' height='90px'></a>
+                <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon">
+                        <i style="font-size:24px; color: white;" class="fa p-0">&#xf0c9;</i>
+                    </span>
+                </button>
+                <div class="collapse navbar-collapse" id="navbarNavDropdown">
+                    <ul class="navbar-nav ml-auto">
+                    <li class="nav-item">
+                        <a class="nav-link" href="index.html">Home</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="about.html">About</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="events.html">Events</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="involve.html">Involvement</a>
+                    </li>
+                    <!--<li class="nav-item">
+                        <a class="nav-link" href="#">Archive</a>
+                    </li>-->
+                    </ul>
+                </div>
+                </nav>
+            <div class='container text-center'>
+                <h1>CSSA Events</h1>
+            </div>
+        </header>
 
-<body>
-  <div class="cssa-events">
-    <div class="events-head">
-      <h1>Events</h1>
-   </div>
-
-    <div class="CSSA-Upcoming-Events">
-      <h1> <strong> CSSA 2018-2019 Events </strong> </h1>
-      <div class="cal">
-          <div <div data-tockify-component="calendar" data-tockify-calendar="cssaucsd"></div>
-      </div>
-    </div>
-
-   <div class="CSSA-Past-Events">
-      <h1> <strong> Past CSSA Events </strong></h1>
-      <!--<div class="cal2”>
-          <div data-tockify-component="calendar" data-tockify-calendar="pastevents"></div>
-          <div data-tockify-component="calendar" data-tockify-calendar="pastevents"></div>
-      </div>
-    </div>-->
-    <table>
-      <thead>
-        <tr>
-          <th>Event</th>
-          <th>Date</th>
-          <th>Slides</th>
-        </tr>
-      </thead>
-      <tbody>
-        <tr>
-          <td>First GBM</td>
-          <td>10/11/2018</td>
-          <td><a href="https://docs.google.com/presentation/d/1Tg2b2onhUpmsM9Vlnyaa_Dkc08sZo0ikGfhDWO0yVgM/edit?usp=sharing">Presentation</a></td>
-        </tr>
-        <tr>
-          <td>Game Night</td>
-          <td>10/17/2018</td>
-          <td>N/A</td>
-        </tr>
-        <tr>
-        	<td>Graduate Panel</td>
-        	<td>11/2/2018</td>
-        	<td><a href="https://docs.google.com/presentation/d/1A6vqG2k935tIJv4swO23svH791o-nEOdD_YeKKeo7wo/edit?usp=sharing">Presentation</a></td>
-        </tr>
-        <tr>
-        	<td>Lab Open House</td>
-        	<td>11/16/2018</td>
-        	<td>N/A</td>
-        </tr>
-        <tr>
-        	<td>Neuroscience/CBN Talk Series</td>
-        	<td>1/17/2019</td>
-        	<td><a href="https://www.dropbox.com/s/1v4fl7mo2mc04wf/coulson-cssa.pptx.pdf?dl=0">Dr. Seana Coulson Presentation</a></td>
-        </tr>
-    <tr>
-    	<td>Design & Interaction Talk Series</td>
-    	<td>2/6/2019</td>
-    	<td><a href="images/How to get a job in UX.pdf">Presentation</a></td>
-    </tr>
-      </tbody>
-    </table>
-  </div>
-      
-
-
-
-<!-- <script data-cfasync="false" data-tockify-script="embed" src="https://public.tockify.com/browser/embed.js"></script> -->
-
-<!-- <div data-tockify-component="calendar" data-tockify-calendar="upcomingcssaevents"></div> -->
-<!-- <script data-cfasync="false" data-tockify-script="embed" src="https://public.tockify.com/browser/embed.js"></script> -->
-</body>
-
-<footer class="footer-distributed">
-    <div class="footer-left">
-      <h3><a href = "index.html"><img class="ucsd-logo" img src="images/TransparentWhite.png" style="width: 40%"></a></h3>
-      <p class="footer-links">
-        <a href = "index.html">Home</li></a>
-        ·
-        <a href="conference.html">Conference</a>
-        ·
-        <a href="events.html">Events</a>
-        <!--·
-        <a href="wiki.html">Course Wiki</a>-->
-        ·
-        <a href="sponsors.html">Sponsors</a>
-        ·
-        <a href="omegapsi.html">Omega Psi</a>
-        ·
-        <a href="membership.html">Membership</a>
-        ·
-        <a href="about.html">About</a>
-      </p>
-    </div>
-    <div class="footer-right">
-      <p>Sign up for our newsletter!</p>
-      <form id="gform" method="POST" class="pure-form pure-form-stacked"
-      action="https://script.google.com/macros/s/AKfycbxW-JNxgmn8sxAkOp9lgGHd-2HsW-c9yGKJ2j2YNjSkncJP6eo/exec">
-      <input type="text" name="email" placeholder="Email" />
-      <span id="email-invalid" style="display:none; color: white;">
-          Must be a valid email address. Please try again </span>
-      <button>Submit</button>
-    </form>
-    <div style="display:none; color:white; font-size: 11px;" id="thankyou_message">
-        <h2>Thanks for connecting with us!</br>
-        We will get back to you soon!</h2>
-    </div>
-    <p class="footer-connect">Connect With Us!</p>
-      <a href="https://www.facebook.com/webraincogsci"><i class="fa fa-facebook"></i></a>
-      <a href="https://www.instagram.com/cssaucsd/"><i class="fa fa-instagram"></i></a>
-    <a href="http://linkedin.com/company/cssa-ucsd/"><i class="fa fa-linkedin"></i></a>
-    <a href="mailto:cssa.ucsd@gmail.com"><i class="fa fa-envelope"></i></a>
-  </div>
-</footer>
+        <!-- Events List -->    
+        <div class='container list'>
+            <div class="accordion" id="accordionExample">
+                <div class="card">
+                    <div class="card-header" id="headingOne">
+                        <h1 class="mb-0">
+                            <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+                            Week One: GBM #1
+                            </button>
+                        </h1>
+                    </div>
+                    <div id="collapseOne" class="collapse show" aria-labelledby="headingOne" data-parent="#accordionExample">
+                        <div class="card-body">
+                            <div class='row'>
+                                <div class='col'>
+                                    <p>Thursday, October 10th</p>
+                                    <p>Price Center Theater</p>
+                                    <p>5 to 8 pm</p>
+                                </div>
+                                <div class='col'>
+                                    <p>Learn what CSSA is all about!</p>
+                                    <!--<a href="#" class="btn btn-primary">RSVP on Facebook</a>-->
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="card">
+                    <div class="card-header" id="headingTwo">
+                        <h1 class="mb-0">
+                            <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                            Week Three: Cognitive Science Introduction
+                            </button>
+                        </h1>
+                    </div>
+                    <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordionExample">
+                        <div class="card-body">
+                            <div class='row'>
+                                <div class='col'>
+                                    <p>Tuesday, October 15th</p>
+                                    <p>Bear Room</p>
+                                    <p>5 to 8 pm</p>
+                                </div>
+                                <div class='col'>
+                                    <p>Learn more about the world of Cognitive Science!</p>
+                                    <!--<a href="#" class="btn btn-primary">RSVP on Facebook</a>-->
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="card">
+                        <div class="card-header" id="headingThree">
+                            <h1 class="mb-0">
+                                <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+                                Week Four: Resume Workshop
+                                </button>
+                            </h1>
+                        </div>
+                        <div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#accordionExample">
+                            <div class="card-body">
+                                <div class='row'>
+                                    <div class='col'>
+                                        <p>Tuesday, October 22nd</p>
+                                        <p>Marshall Room</p>
+                                        <p>5 to 8 pm</p>
+                                    </div>
+                                    <div class='col'>
+                                        <p>Get helpful resume tips and network with fellow peers on LinkedIn!</p>
+                                        <!--<a href="#" class="btn btn-primary">RSVP on Facebook</a>-->
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                <div class="card">
+                        <div class="card-header" id="headingFour">
+                            <h1 class="mb-0">
+                                <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
+                                Week Five: Career Fair
+                                </button>
+                            </h1>
+                        </div>
+                        <div id="collapseFour" class="collapse" aria-labelledby="headingFour" data-parent="#accordionExample">
+                            <div class="card-body">
+                                <div class='row'>
+                                    <div class='col'>
+                                        <p>Saturday, November 2nd</p>
+                                        <p>TBD</p>
+                                        <p>TBD</p>
+                                    </div>
+                                    <div class='col'>
+                                        <p>Join us for the annual Career Fair!</p>
+                                        <!--<a href="#" class="btn btn-primary">RSVP on Facebook</a>-->
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                <div class="card">
+                        <div class="card-header" id="headingFive">
+                            <h1 class="mb-0">
+                                <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
+                                Week Eight: Lab Open House
+                                </button>
+                            </h1>
+                        </div>
+                        <div id="collapseFive" class="collapse" aria-labelledby="headingFive" data-parent="#accordionExample">
+                            <div class="card-body">
+                                <div class='row'>
+                                    <div class='col'>
+                                        <p>Tuesday &amp; Thursday, November 19th &amp; 21st</p>
+                                        <p>TBD</p>
+                                        <p>TBD</p>
+                                    </div>
+                                    <div class='col'>
+                                        <p>Learn what labs in the cognitive science department are up to and what opportunities they may have!</p>
+                                        <!--<a href="#" class="btn btn-primary">RSVP on Facebook</a>-->
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+            </div>
+        </div>
+        <!-- Footer -->
+        <footer class="footer-distributed">
+                <div class="footer-left">
+                    <h3><a href = "index.html"><img class="ucsd-logo" img src="images/logo.png" style="width: 40%"></a></h3>
+                    <p class="footer-links">
+                    <a href = "index.html">Home</li></a>
+                    ·
+                    <a href="events.html">Events</a>
+                    ·
+                    <a href="involve.html">Involvement</a>
+                    ·
+                    <a href="about.html">About</a>
+                    </p>
+                </div>
+                <div class="footer-right">
+                    <p>Sign up for our newsletter!</p>
+                    <form id="gform" method="POST" class="pure-form pure-form-stacked"
+                    action="https://script.google.com/macros/s/AKfycbxW-JNxgmn8sxAkOp9lgGHd-2HsW-c9yGKJ2j2YNjSkncJP6eo/exec">
+                    <input type="text" name="email" placeholder="Email" />
+                    <span id="email-invalid" style="display:none; color: white;">
+                        Must be a valid email address. Please try again </span>
+                    <button>Submit</button>
+                </form>
+                <div style="display:none; color:white; font-size: 11px;" id="thankyou_message">
+                    <h2>Thanks for connecting with us!</br>
+                    We will get back to you soon!</h2>
+                </div>
+                <p class="footer-connect">Connect With Us!</p>
+                    <a href="https://www.facebook.com/webraincogsci" target="_blank" ><i class="fa fa-facebook text-center"></i></a>
+                    <a href="https://www.instagram.com/cssaucsd/" target="_blank" ><i class="fa fa-instagram text-center"></i></a>
+                <a href="http://linkedin.com/company/cssa-ucsd/" target="_blank" ><i class="fa fa-linkedin text-center"></i></a>
+                <a href="mailto:cssa.ucsd@gmail.com" target="_blank" ><i class="fa fa-envelope text-center"></i></a>
+                </div>
+            </footer>
+        <!-- JavaScript -->
+        <script src='https://code.jquery.com/jquery-3.3.1.slim.min.js' integrity='sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo' crossorigin='anonymous'></script>
+        <script src='https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js' integrity='sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1' crossorigin='anonymous'></script>
+        <script src='https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js' integrity='sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM' crossorigin='anonymous'></script>
+        <!-- Vanta -->
+        <script src="vanta/vendor/three.r92.min.js"></script>
+        <script src="vanta/dist/vanta.net.min.js"></script>
+        <script>
+        VANTA.NET({
+          el: "#banner",
+          color: 0x9677a,
+          backgroundColor: 0x15173c
+        })
+        </script>
+    </body>
 </html>
-<script type="text/javascript">
-  $("#header").load("header.html"); 
-</script>
-<script data-cfasync="false" type="text/javascript" src="email.js">
-</script>
-
-</html>
-<script data-cfasync="false" data-tockify-script="embed" src="https://public.tockify.com/browser/embed.js"></script>
-<script type="text/javascript">
-  function openEvents(evt, Eventname) {
-    // Declare all variables
-    var i, tabcontent, tablinks;
-    // Get all elements with class="tabcontent" and hide them
-    tabcontent = document.getElementsByClassName("tabcontent");
-    for (i = 0; i < tabcontent.length; i++) {
-      tabcontent[i].style.display = "none";
-    }
-    // Get all elements with class="tablinks" and remove the class "active"
-    tablinks = document.getElementsByClassName("tablinks");
-    for (i = 0; i < tablinks.length; i++) {
-      tablinks[i].className = tablinks[i].className.replace(" active", "");
-    }
-    // Show the current tab, and add an "active" class to the button that opened the tab
-    document.getElementById(Eventname).style.display = "block";
-    evt.currentTarget.className += " active";
-  }
-    // Get the element with id="defaultOpen" and click on it
-    document.getElementById("defaultOpen").click();
-</script>
