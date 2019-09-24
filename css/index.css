@@ -35,6 +35,10 @@ header .container {
     text-align: center;
 }
 
+.btn-nav:hover {
+    text-decoration: none;
+}
+
 div.btn-about {
       background-color: rgb(86, 211, 184);
       border-right: 1px solid black;
@@ -47,6 +51,10 @@ div.btn-events {
 
 div.btn-involve {
     background-color: rgb(90, 159, 224);
+}
+
+.nav-link {
+    font-size: 22px;
 }
 
 /**** Conference ****/
@@ -378,6 +386,10 @@ form button:hover{
     background-color: rgb(6, 167, 189);
 }
 
+.btn:hover {
+    background-color: rgb(6, 167, 189);  
+}
+
 /******* Mobile Responsiveness ******/
 @media (max-width: 991.98px) {
     .ucsd-logo {
@@ -402,5 +414,11 @@ form button:hover{
     }
     .small-header .container {
         padding: 19% 0%;
+    }
+    .support {
+        text-align: center;
+    }
+    .email-input {
+        width: 80px;
     }
 }
