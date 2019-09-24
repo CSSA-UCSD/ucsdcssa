@@ -29,25 +29,23 @@ header .container {
 }
 
 /***** Navigation Buttons ****/
-.btn-group.special {
-    display: flex;
-}
-  
-.special .btn {
-    flex: 1;
+.btn-nav {
     color: white;
-    padding: 2% 0%;
+    padding: 3.5%;
+    text-align: center;
 }
 
-.special .btn-about {
+div.btn-about {
       background-color: rgb(86, 211, 184);
+      border-right: 1px solid black;
 }
 
-.special .btn-events {
+div.btn-events {
       background-color: #04D4F0;
+      border-right: 1px solid black;
 }
 
-.special .btn-involve {
+div.btn-involve {
     background-color: rgb(90, 159, 224);
 }
 
@@ -320,7 +318,7 @@ form button:hover{
 
 }
 
-/****** ABout Page *******/
+/****** About Page *******/
 .small-header .container {
     padding: 5% 0%;
 }
@@ -330,7 +328,12 @@ form button:hover{
 }
 
 .exec .card-info {
-    font-size: 15px;
+    font-size: 14px;
+}
+
+.exec .member-card {
+    align-content: center;
+    justify-content: center;
 }
 
 /***** Events ******/
@@ -361,4 +364,43 @@ form button:hover{
 .member .card-header {
     color: white;
     background-color: rgb(90, 159, 224);;
+}
+
+.news-button {
+    background-color: #04D4F0;
+    border: none;
+    color: white;
+    border-radius: 5%;
+    padding: 7px 11px;
+    font-size: 16px;
+}
+.news-button:hover {
+    background-color: rgb(6, 167, 189);
+}
+
+/******* Mobile Responsiveness ******/
+@media (max-width: 991.98px) {
+    .ucsd-logo {
+        width: 100px; 
+        height: 60px;
+    }
+    header h1 {
+        font-size: 2rem;
+    }
+    header h3 {
+        font-size: 1rem;
+    }
+    .btn-nav h1 {
+        font-size: 16px;
+    }
+    .conference-img {
+        height: 200px;
+        width: 200px;
+    }
+    header .container  {
+        padding: 14.5% 0%;   
+    }
+    .small-header .container {
+        padding: 14.5% 0%;
+    }
 }
