@@ -57,6 +57,10 @@ div.btn-involve {
     font-size: 22px;
 }
 
+.nav-link:hover {
+    color: rgb(86, 211, 184);
+}
+
 /**** Conference ****/
 .conference {
     margin-top: 7%;
@@ -419,6 +423,9 @@ form button:hover{
         text-align: center;
     }
     .email-input {
-        width: 80px;
+        width: 90px;
+    }
+    .conference {
+        text-align: center;
     }
 }
