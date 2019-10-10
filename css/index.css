@@ -359,6 +359,8 @@ form button:hover{
 .card-image img {
     height: 200px;
     width: 1000px;
+    background-color: #F8F9FA;
+    background-image: url('../images/2019logo.jpg');
 }
 
 /***** Events ******/
