@@ -40,7 +40,7 @@ header .container {
 }
 
 div.btn-about {
-      background-color: rgb(86, 211, 184);
+      background-color: #56D3B8;
       border-right: 1px solid black;
 }
 
@@ -102,6 +102,11 @@ div.btn-involve {
 }
 
 /******** Footer *****/
+input#mc-embedded-subscribe {
+    background-color: #04D4F0;
+    color: white;
+    margin: 0px;
+}
 .footer-distributed{
     background-color: #10102F;
     box-shadow: 0 1px 1px 0 rgba(0, 0, 0, 0.12);
@@ -348,6 +353,10 @@ form button:hover{
     justify-content: center;
 }
 
+.exec .card-img-top {
+    background-color: #05405c;
+}
+
 /***** Events ******/
 .list {
     margin-top: 7%;
@@ -428,4 +437,36 @@ form button:hover{
     .conference {
         text-align: center;
     }
+    .archive {
+        text-align: center;
+        margin: 0%;
+        padding: 0%;
+    }
+    .archive h4 {
+        font-size: 1rem;
+    }
+    .archive .col-12 {
+        padding: 0;
+        margin: 0;
+    }
+}
+
+/********** Archive ******/
+.text-date {
+    font-weight: bold;
+    color: rgb(6, 167, 189); 
+}
+
+.archive .btn {
+    background-color: #04D4F0;
+    color: white;
+    border: none;
+}
+
+.archive .btn:hover {
+    background-color: rgb(6, 167, 189);  
+}
+
+.archive hr {
+    width: 50%;
 }
