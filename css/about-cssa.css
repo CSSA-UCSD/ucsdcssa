@@ -33,6 +33,12 @@ header .container.main-header {
 }
 
 /***** Navigation Buttons ****/
+nav.navbar {
+    background-color: transparent;
+    border: none;
+    padding-top: 4%;
+}
+
 .btn-nav {
     color: white;
     padding: 3.5%;
