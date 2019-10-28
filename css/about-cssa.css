@@ -34,7 +34,7 @@ header .container.main-header {
 
 /***** Navigation Buttons ****/
 nav.navbar {
-    background-color: transparent;
+    background-color: transparent !important;
     border: none;
     padding-top: 4%;
 }
