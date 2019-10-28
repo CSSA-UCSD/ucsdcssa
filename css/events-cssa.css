@@ -7,6 +7,18 @@ body {
     font-weight: 300;
 }
 
+.btn.rsvp {
+    background-color: rgb(255,197,3);
+    border: none;
+}
+.btn.rsvp:hover {
+    background-color: rgb(199, 155, 9); 
+}
+
+.btn-link:hover {
+    color: rgb(199, 155, 9); 
+}
+
 /***** Header *****/
 .jumbotron {
     color: white;
@@ -21,7 +33,7 @@ body {
 header h1 {
     font-weight: 700;
     font-size: 3em;
-    padding-top: 20%;
+    padding-top: 10%;
 }
 
 h2 {
@@ -29,19 +41,7 @@ h2 {
 }
 
 header .container.main-header {
-    height: 75vh;
-}
-
-.learn-more {
-    background-color: rgb(255,197,3);
-    border: none;
-    font-size: 22px;
-    padding: 1% 2%;
-    margin-top: 2%;
-}
-
-.learn-more:hover {
-    background-color: rgb(199, 155, 9); 
+    height: 20vh;
 }
 
 /***** Navigation Buttons ****/
@@ -55,20 +55,6 @@ header .container.main-header {
     text-decoration: none;
 }
 
-/*div.btn-about {
-      background-color: #56D3B8;
-      border-right: 1px solid black;
-}
-
-div.btn-events {
-      background-color: #04D4F0;
-      border-right: 1px solid black;
-}
-
-div.btn-involve {
-    background-color: rgb(90, 159, 224);
-}*/
-
 .nav-link {
     font-size: 22px;
 }
@@ -77,43 +63,22 @@ div.btn-involve {
     color: rgb(255,197,3);
 }
 
-/**** Conference ****/
-#conference {
-    margin-bottom: 7%;
-}
-.conference .btn {
-    background-color: rgb(255,197,3);
-    color: white;
-    border: none;
-}
-/***** News ******/
-.news {
-    margin-top: 7%;
-    background-color: #F8F9FA;
-}
-.news .card-header {
-    color: white;
-    background-color: rgb(17, 16, 48);
-}
-
-.news .card-body {
-    padding: 12%;
-}
-.card-body .btn {
-    background-color: rgb(255,197,3);
-    border: none;
-}
-
-/***** Support *****/
-.support {
+/***** Events ******/
+.list {
     margin-top: 7%;
     margin-bottom: 7%;
 }
 
-.support .btn {
-    background-color: rgb(255,197,3);
+.list button {
     color: white;
-    border: none;
+}
+
+.list button:hover {
+    text-decoration: none;
+}
+
+.list .card-header {
+    background-color: rgb(4, 4, 48);
 }
 
 /******** Footer *****/
@@ -293,7 +258,6 @@ div.btn-involve {
 
 }
 
-
 /******* Mobile Responsiveness ******/
 @media (max-width: 991.98px) {
     .ucsd-logo {
@@ -340,24 +304,4 @@ div.btn-involve {
         padding: 0;
         margin: 0;
     }
-}
-
-/********** Archive ******/
-.text-date {
-    font-weight: bold;
-    color: rgb(6, 167, 189); 
-}
-
-.archive .btn {
-    background-color: #04D4F0;
-    color: white;
-    border: none;
-}
-
-.archive .btn:hover {
-    background-color: rgb(6, 167, 189);  
-}
-
-.archive hr {
-    width: 50%;
 }

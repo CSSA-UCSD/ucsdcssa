@@ -52,37 +52,41 @@
                         </ul>
                     </div>
                 </nav>
-            <div class='container text-center'>
+            <div class='container main-header text-center'>
                 <h1>Cognitive Science Student Association</h1>
                 <h3>We are a professional, academic, and social community for students with an interest in the multi-disciplinary aspects of Cognitive Science.</h3>
+                <a href='#conference' class='btn btn-primary learn-more'>Learn More</a>
             </div>
         </header>
-        <div class='container-fluid'>
+        <!--<div class='container-fluid'>
             <div class='row'>
                 <div class='col btn-about'><a href='about.html' class='btn-nav'><h1>About CSSA</h1></a></div>
                 <div class='col btn-events'><a href='events.html' class='btn-nav'><h1>Our Events</h1></a></div>
                 <div class='col btn-involve'><a href='involve.html' class='btn-nav'><h1>Get Involved</h1></a></div>
             </div>
-        </div>
+        </div>-->
         <!-- Conference -->
-        <div class='container conference'>
-            <div class='row'>
-                <div class='col-12 col-md-6'>
-                    <h2 class='mt-5'>National Cognitive Science Conference 2020</h2>
-                    <br>
-                    <p>Join us for a packed day of engaging speakers, cutting edge presentations, interactive workshops, invaluable networking, and free food!</p>
-                    <p>Our event this past year was a huge success and we are very excited for our 14th Annual Conference in 2020.</p>
-                    <!--<a  href='#' class='btn btn-primary'>Learn More</a>-->
-                </div>
-                <div class='col-12 col-md-6 text-center'>
-                    <img src='images/conference.jpg' class='img-fluid text-center conference-img' height='400px' width='400px'>
+        <div id='conference'></div>
+        <div>
+            <div class='container conference'>
+                <div class='row'>
+                    <div class='col-12 col-md-6'>
+                        <h2>National Cognitive Science Conference 2020</h2>
+                        <br>
+                        <p>Join us for a packed day of engaging speakers, cutting edge presentations, interactive workshops, invaluable networking, and free food!</p>
+                        <p>Our event this past year was a huge success and we are very excited for our 14th Annual Conference in 2020.</p>
+                        <!--<a  href='#' class='btn btn-primary'>Learn More</a>-->
+                    </div>
+                    <div class='col-12 col-md-6 text-center'>
+                        <img src='images/conference.jpg' class='img-fluid text-center conference-img' height='400px' width='400px'>
+                    </div>
                 </div>
             </div>
         </div>
         <!-- News -->
         <div class='container-fluid text-center news py-5'>
             <h2>Latest News</h2>
-            <p>Stay up to date with the latest news about Cognitive Science at UCSD and around the world! You can read our full newsletter <a href='newsletters/oct19.pdf' target='_blank'>here</a>.</p>
+            <p>Stay up to date with the latest news about Cognitive Science at UCSD and in the industry! You can read our full newsletter <a href='newsletters/oct19.pdf' target='_blank'>here</a>.</p>
             <div class='container'>
                 <div class='row justify-content-center mt-4'>
                     <div class='col-12 col-md-6'>
@@ -143,25 +147,15 @@
                 <a href='archive.html'>Archive</a>
                 </p>
             </div>
-            <!--<div class="footer-right">
+            <div class="footer-right">
                 <p>Sign up for our newsletter!</p>
-                <form id="gform" method="POST" class="pure-form pure-form-stacked"
-                action="https://script.google.com/macros/s/AKfycbxW-JNxgmn8sxAkOp9lgGHd-2HsW-c9yGKJ2j2YNjSkncJP6eo/exec">
-                <input type="text" name="email" placeholder="Email" />
-                <span id="email-invalid" style="display:none; color: white;">
-                    Must be a valid email address. Please try again </span>
-                <button>Submit</button>
-            </form>
-            <div style="display:none; color:white; font-size: 11px;" id="thankyou_message">
-                <h2>Thanks for connecting with us!</br>
-                We will get back to you soon!</h2>
-            </div>
+                <a href='https://docs.google.com/forms/d/e/1FAIpQLSfwCRv5uClgJ-Fv3CEc-87lDfLW9QrtCx9DXBVcolCqm-Xrkg/viewform?usp=sf_link' target='_blank' class='btn btn-primary'>Sign Up</a>
             <p class="footer-connect">Connect With Us!</p>
                 <a href="https://www.facebook.com/webraincogsci" target="_blank" ><i class="fa fa-facebook text-center"></i></a>
                 <a href="https://www.instagram.com/cssaucsd/" target="_blank" ><i class="fa fa-instagram text-center"></i></a>
             <a href="http://linkedin.com/company/cssa-ucsd/" target="_blank" ><i class="fa fa-linkedin text-center"></i></a>
             <a href="mailto:cssa.ucsd@gmail.com" target="_blank" ><i class="fa fa-envelope text-center"></i></a>
-            </div>-->
+            </div>
         </footer>
         <!-- JavaScript -->
         <script src='https://code.jquery.com/jquery-3.3.1.slim.min.js' integrity='sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo' crossorigin='anonymous'></script>
@@ -174,8 +168,8 @@
         <script data-cfasync="false">
         VANTA.NET({
           el: "#banner",
-          color: 0x9677a,
-          backgroundColor: 0x15173c
+          color: 0xb3b38c,
+          backgroundColor: 0x120043
         })
         </script>
     </body>
