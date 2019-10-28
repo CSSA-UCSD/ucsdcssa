@@ -41,8 +41,12 @@ header .container.main-header {
 }
 
 
-.learn-more:hover {
+.btn.learn-more:hover {
     background-color: rgb(199, 155, 9); 
+}
+
+.btn.learn-more:active {
+    background-color: rgb(199, 155, 9);
 }
 
 /***** Navigation Buttons ****/
