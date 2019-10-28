@@ -33,7 +33,7 @@ body {
 header h1 {
     font-weight: 700;
     font-size: 3em;
-    padding-top: 10%;
+    padding: 10% 0%;
 }
 
 h2 {
