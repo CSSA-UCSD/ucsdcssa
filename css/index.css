@@ -32,13 +32,14 @@ header .container.main-header {
     height: 100vh;
 }
 
-.learn-more {
+.btn.learn-more {
     background-color: rgb(255,197,3);
     border: none;
     font-size: 22px;
     padding: 1% 2%;
     margin-top: 2%;
 }
+
 
 .learn-more:hover {
     background-color: rgb(199, 155, 9); 
