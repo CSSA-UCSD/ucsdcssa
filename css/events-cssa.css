@@ -19,6 +19,10 @@ body {
     color: rgb(199, 155, 9); 
 }
 
+.btn:active {
+    background-color: rgb(199, 155, 9) !important;
+}
+
 /***** Header *****/
 .jumbotron {
     color: white;
