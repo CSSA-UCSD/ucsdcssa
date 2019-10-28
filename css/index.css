@@ -46,7 +46,7 @@ header .container.main-header {
 }
 
 .btn.learn-more:active {
-    background-color: rgb(199, 155, 9);
+    background-color: rgb(199, 155, 9) !important;
 }
 
 /***** Navigation Buttons ****/
