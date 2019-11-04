@@ -66,13 +66,16 @@ header .container.main-header {
 }
 
 /********** Archive ******/
+.archive {
+    overflow: hidden;
+}
 .text-date {
     font-weight: bold;
-    color: rgb(4, 4, 48); 
+    color: #000082; 
 }
 
 .archive .btn {
-    background-color: rgb(255,197,3)
+    background-color: rgb(255,197,3);
     color: white;
     border: none;
 }
@@ -302,7 +305,7 @@ header .container.main-header {
         padding: 0%;
     }
     .archive h4 {
-        font-size: 1rem;
+        font-size: 0.8rem;
     }
     .archive .col-12 {
         padding: 0;
