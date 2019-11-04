@@ -11,6 +11,7 @@ body {
     background-color: rgb(199, 155, 9) !important;
 }
 
+
 /***** Header *****/
 .jumbotron {
     color: white;
@@ -25,7 +26,7 @@ body {
 header h1 {
     font-weight: 700;
     font-size: 3em;
-    padding-top: 20%;
+    padding-top: 15%;
 }
 
 h2 {
@@ -33,11 +34,11 @@ h2 {
 }
 
 header .container.main-header {
-    height: 100vh;
+    height: 85vh;
 }
 
 .btn.learn-more {
-    background-color: rgb(255,197,3);
+    background-color: #F1B900;
     border: none;
     font-size: 22px;
     padding: 1% 2%;
@@ -46,11 +47,11 @@ header .container.main-header {
 
 
 .btn.learn-more:hover {
-    background-color: rgb(199, 155, 9); 
+    background-color: rgb(255,197,3);
 }
 
 .btn.learn-more:active {
-    background-color: rgb(199, 155, 9) !important;
+    background-color: rgb(255,197,3) !important;
 }
 
 /***** Navigation Buttons ****/
@@ -91,7 +92,7 @@ div.btn-involve {
     margin-bottom: 5%;
 }
 .conference .btn {
-    background-color: rgb(255,197,3);
+    background-color: #F1B900;;
     color: white;
     border: none;
 }
@@ -109,8 +110,12 @@ div.btn-involve {
     padding: 12%;
 }
 .card-body .btn {
-    background-color: rgb(255,197,3);
+    background-color: #F1B900;;
     border: none;
+}
+
+.card-body .btn:hover {
+    background-color: rgb(255,197,3);
 }
 
 /***** Support *****/
@@ -120,16 +125,24 @@ div.btn-involve {
 }
 
 .support .btn {
-    background-color: rgb(255,197,3);
+    background-color: #F1B900;;
     color: white;
     border: none;
 }
 
+.support .btn:hover {
+    background-color: rgb(255,197,3);
+}
+
 /******** Footer *****/
 .footer-right .btn {
-    background-color: rgb(255,197,3);
+    background-color: #F1B900;;
     border: none;
     margin-top: 5%;
+}
+
+.footer-right .btn:hover {
+    background-color: rgb(255,197,3);
 }
 .footer-distributed{
     background-color: #10102F;
@@ -305,9 +318,6 @@ div.btn-involve {
 
 /******* Mobile Responsiveness ******/
 @media (max-width: 991.98px) {
-    header .container.main-header {
-        height: 50vh;
-    }
     .btn.learn-more {
         font-size: 20px;
         padding: 2% 3%;
