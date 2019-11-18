@@ -85,6 +85,16 @@ header .container.main-header {
     background-color: #000082;
 }
 
+li a {
+    color: black;
+    font-weight: bold;
+}
+
+li a:hover {
+    color: rgb(255,197,3);
+    text-decoration: none;
+}
+
 /******** Footer *****/
 .footer-right .btn {
     background-color: rgb(255,197,3);
