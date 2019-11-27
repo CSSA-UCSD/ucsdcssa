@@ -85,12 +85,12 @@ header .container.main-header {
     background-color: #000082;
 }
 
-li a {
+a.lab {
     color: black;
     font-weight: bold;
 }
 
-li a:hover {
+a.lab:hover {
     color: rgb(255,197,3);
     text-decoration: none;
 }
