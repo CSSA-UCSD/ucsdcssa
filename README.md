@@ -1,1 +1,1 @@
-# UC San Diego Cognitive Science Student Association
+# UC San Diego Cognitive Science Student Association Website
