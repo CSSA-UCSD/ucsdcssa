@@ -213,6 +213,14 @@ hr.bar {
     line-height: 33px;
 }
 
+.btn.learn-more:hover {
+    background-color: rgb(255,197,3);
+}
+
+.btn.learn-more:active {
+    background-color: rgb(255,197,3) !important;
+}
+
 /******** Footer *****/
 .footer-right .btn {
     background-color: rgb(255,197,3);
