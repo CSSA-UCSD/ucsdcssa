@@ -77,7 +77,7 @@ header .container.main-header {
 
 /**** Speakers ******/
 .speakers {
-    margin-top: 5%;
+    margin-top: 7%;
     background-color: #F8F9FA;
 }
 
@@ -168,12 +168,50 @@ hr.bar {
     background-size: cover;
     background-repeat: no-repeat;
     color: white;
+    height: 75vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
   }
 
   .expect .title h2 {
-      border-left: 6px solid rgb(255,197,3);
-      padding: 15% 10%;
+    justify-content: center;
   }
+
+  .expect .list {
+      background-color: #F8F9FA;
+      display: flex;
+      justify-content: center;
+  }
+
+  .expect .list ul {
+    list-style-type: none;
+    font-size: 25px;
+    text-align: center;
+    padding: 0;
+  }
+
+  .expect .list ul li {
+      margin-top: 20px;
+      font-weight: bold;
+      opacity: 80%;
+  }
+
+/***** Registration *****/
+.registration {
+    margin-top: 7%;
+    margin-bottom: 5%;
+}
+
+.register-bar {
+    border: 2px solid rgb(255, 197,3);
+    width: 200px;
+    text-align: left;
+}
+
+.register p {
+    line-height: 33px;
+}
 
 /******** Footer *****/
 .footer-right .btn {
@@ -272,6 +310,14 @@ hr.bar {
     background: #55ACEE;
     color: white;
 }
+.fa-medium {
+    background: #125688;
+    color: white;
+  }
+  .fa-youtube {
+    background: #125688;
+    color: white;
+  }
 .fa-linkedin {
   background: #007bb5;
   color: white;
@@ -400,4 +446,7 @@ hr.bar {
         font-size: 1.5rem;
         line-height: 50px;
     }
+    .expect .title h2 {
+        font-size: 40px;
+      }
 }

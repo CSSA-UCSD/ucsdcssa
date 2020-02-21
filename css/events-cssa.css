@@ -196,6 +196,14 @@ a.lab:hover {
   background: #007bb5;
   color: white;
 }
+.fa-medium {
+    background: #125688;
+    color: white;
+  }
+  .fa-youtube {
+    background: #125688;
+    color: white;
+  }
 
 .fa-envelope {
     background: #3ea1ec;
