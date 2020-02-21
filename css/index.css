@@ -96,6 +96,11 @@ div.btn-involve {
     color: white;
     border: none;
 }
+
+.conference-img {
+    height: 350px;
+    width: 600px;
+}
 /***** News ******/
 .news {
     margin-top: 7%;

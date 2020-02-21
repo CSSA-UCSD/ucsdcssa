@@ -221,6 +221,11 @@ hr.bar {
     background-color: rgb(255,197,3) !important;
 }
 
+.con-logo {
+    width: 300px;
+    height: 300px;
+}
+
 /******** Footer *****/
 .footer-right .btn {
     background-color: rgb(255,197,3);
