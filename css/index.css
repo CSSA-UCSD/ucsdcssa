@@ -8,7 +8,7 @@ body {
 }
 
 .btn:active {
-    background-color: rgb(199, 155, 9) !important;
+    background-color: rgb(12, 181, 211) !important;
 }
 
 
@@ -27,10 +27,13 @@ header h1 {
     font-weight: 700;
     font-size: 3em;
     padding-top: 16%;
+    color: #FFC634;
+
 }
 
 h2 {
     font-weight: 700;
+    color: rgb(6, 6, 85);
 }
 
 header .container.main-header {
@@ -38,7 +41,8 @@ header .container.main-header {
 }
 
 .btn.learn-more {
-    background-color: #F1B900;
+    background-color: rgb(12, 181, 211);
+    color: white;
     border: none;
     font-size: 22px;
     padding: 1% 2%;
@@ -47,11 +51,11 @@ header .container.main-header {
 
 
 .btn.learn-more:hover {
-    background-color: rgb(255,197,3);
+    background-color: rgb(13, 149, 173);
 }
 
 .btn.learn-more:active {
-    background-color: rgb(255,197,3) !important;
+    background-color: rgb(12, 181, 211) !important;
 }
 
 /***** Navigation Buttons ****/
@@ -88,18 +92,30 @@ div.btn-involve {
 }
 
 /**** Conference ****/
+/*h2 {
+    color: rgb(28, 28, 116);
+}*/
 #conference {
     margin-bottom: 5%;
 }
+
+.conference hr.bar {
+    border: 2px solid rgb(255, 197,3);
+    width: 200px; 
+}
 .conference .btn {
-    background-color: #F1B900;;
+    background-color: rgb(12, 181, 211);
     color: white;
     border: none;
 }
 
+.conference .btn:hover {
+    background-color: rgb(13, 149, 173);
+}
+
 .conference-img {
-    height: 350px;
-    width: 600px;
+    margin-top: 40px;
+    height: 290px;
 }
 /***** News ******/
 .news {
@@ -107,20 +123,21 @@ div.btn-involve {
     background-color: #F8F9FA;
 }
 .news .card-header {
-    color: white;
-    background-color: #000082;
+    color:  #F1B900;
+    background-color: #10102F;
+
 }
 
 .news .card-body {
     padding: 12%;
 }
 .card-body .btn {
-    background-color: #F1B900;;
+    background-color:  rgb(12, 181, 211);
     border: none;
 }
 
 .card-body .btn:hover {
-    background-color: rgb(255,197,3);
+    background-color:  rgb(13, 149, 173);
 }
 
 .social-card {
@@ -128,6 +145,11 @@ div.btn-involve {
     justify-content: center;
 }
 
+
+/**** Social Media *****/
+.medium-card {
+    margin-bottom: 30px;
+}
 /***** Support *****/
 .support {
     padding-top: 3%;
@@ -136,13 +158,13 @@ div.btn-involve {
 }
 
 .support .btn {
-    background-color: #F1B900;;
+    background-color: rgb(12, 181, 211);
     color: white;
     border: none;
 }
 
 .support .btn:hover {
-    background-color: rgb(255,197,3);
+    background-color: rgb(13, 149, 173);
 }
 
 /******** Footer *****/
@@ -336,7 +358,13 @@ div.btn-involve {
 
 
 /******* Mobile Responsiveness ******/
-@media (max-width: 991.98px) {
+@media (max-width: 768px) {
+    .news .card-body {
+        padding: 8%;
+    }
+    .conference hr.bar {
+        width: 100%; 
+    }
     .btn.learn-more {
         font-size: 20px;
         padding: 2% 3%;
@@ -356,8 +384,8 @@ div.btn-involve {
         font-size: 16px;
     }
     .conference-img {
-        height: 200px;
-        width: 200px;
+        height: 222px;
+        width: 328px;
     }
     header .container  {
         padding: 18% 0%;   

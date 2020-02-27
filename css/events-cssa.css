@@ -8,11 +8,11 @@ body {
 }
 
 .btn.rsvp {
-    background-color: rgb(255,197,3);
+    background-color: rgb(12, 181, 211);
     border: none;
 }
 .btn.rsvp:hover {
-    background-color: rgb(199, 155, 9); 
+    background-color: rgb(13, 149, 173); 
 }
 
 .btn-link:hover {
@@ -38,10 +38,12 @@ header h1 {
     font-weight: 700;
     font-size: 3em;
     padding: 10% 0%;
+    color: #FFC634;
 }
 
 h2 {
     font-weight: 700;
+    color: rgb(6, 6, 85);
 }
 
 header .container.main-header {
@@ -82,7 +84,7 @@ header .container.main-header {
 }
 
 .list .card-header {
-    background-color: #000082;
+    background-color: #10102F;;
 }
 
 a.lab {
@@ -97,7 +99,7 @@ a.lab:hover {
 
 /******** Footer *****/
 .footer-right .btn {
-    background-color: rgb(255,197,3);
+    background-color: rgb(12, 181, 211);
     border: none;
     margin-top: 5%;
 }

@@ -27,10 +27,12 @@ header h1 {
     font-weight: 700;
     font-size: 3em;
     padding: 10% 0%;
+    color: #FFC634;
 }
 
 h2 {
     font-weight: 700;
+    color: rgb(6, 6, 85);
 }
 
 header .container.main-header {
@@ -64,11 +66,11 @@ nav.navbar {
 
 /****** About Page *******/
 .btn {
-    background-color: rgb(255,197,3);
+    background-color: rgb(12, 181, 211);
     border: none;
 }
 .btn:hover {
-    background-color: rgb(199, 155, 9);  
+    background-color: rgb(13, 149, 173); 
 }
 
 .exec .card-text {
@@ -105,9 +107,14 @@ nav.navbar {
     font-size: 20px;
 }
 
+hr.bar {
+    border: 2px solid rgb(255, 197,3);
+    width: 500px;
+}
+
 /******** Footer *****/
 .footer-right .btn {
-    background-color: rgb(255,197,3);
+    background-color: rgb(12, 181, 211);
     border: none;
     margin-top: 5%;
 }
