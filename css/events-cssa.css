@@ -284,6 +284,10 @@ a.lab:hover {
 
 /******* Mobile Responsiveness ******/
 @media (max-width: 991.98px) {
+    .video {
+        max-width: 300px;
+        max-height: 300px;
+    }
     .ucsd-logo {
         width: 100px; 
         height: 60px;
