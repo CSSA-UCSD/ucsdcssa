@@ -65,6 +65,10 @@ nav.navbar {
 }
 
 /****** About Page *******/
+.video-box {
+    display: flex;
+    justify-content: center;
+}
 .btn {
     background-color: rgb(12, 181, 211);
     border: none;
@@ -110,7 +114,9 @@ nav.navbar {
 hr.bar {
     border: 2px solid rgb(255, 197,3);
     width: 500px;
+    margin-top: 30px;
 }
+
 
 /******** Footer *****/
 .footer-right .btn {
@@ -290,7 +296,14 @@ hr.bar {
 }
 
 /******* Mobile Responsiveness ******/
-@media (max-width: 991.98px) {
+@media (max-width: 768px) {
+    .video {
+        max-width: 325px;
+        max-height: 300px;
+    }
+    hr.bar {
+        width: 220px;
+    }
     .ucsd-logo {
         width: 100px; 
         height: 60px;
