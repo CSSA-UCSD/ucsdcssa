@@ -97,6 +97,11 @@ a.lab:hover {
     text-decoration: none;
 }
 
+hr {
+    border: 2px solid #FFC634;
+    width: 200px;
+}
+
 /******** Footer *****/
 .footer-right .btn {
     background-color: rgb(12, 181, 211);
@@ -285,7 +290,7 @@ a.lab:hover {
 /******* Mobile Responsiveness ******/
 @media (max-width: 991.98px) {
     .video {
-        max-width: 300px;
+        max-width: 270px;
         max-height: 300px;
     }
     .ucsd-logo {
