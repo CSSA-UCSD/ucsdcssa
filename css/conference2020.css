@@ -79,8 +79,9 @@ header .container.main-header {
 
 /**** Speakers ******/
 .speakers {
-    
     background-color: #F8F9FA;
+    padding: 5% 0%;
+    overflow: hidden;
 }
 
 .speakers img {
@@ -162,9 +163,7 @@ hr.bar {
   }
 
   /***** What to expect *****/
-  .expect {
-      margin-top: 7%;
-  }
+  
   .expect .title {
     background-image: url('../images/conference/background.png');
     background-size: cover;
@@ -181,22 +180,61 @@ hr.bar {
   }
 
   .expect .list {
-      background-color: #F8F9FA;
+      background-color: rgb(7, 7, 7);
       display: flex;
       justify-content: center;
+      padding-top: 20px;
+      color: white;
   }
 
   .expect .list ul {
     list-style-type: none;
     font-size: 25px;
-    text-align: center;
     padding: 0;
   }
 
   .expect .list ul li {
-      margin-top: 20px;
-      font-weight: bold;
+      margin-top: 30px;
       opacity: 80%;
+  }
+
+  .name {
+      color: black;
+      font-weight: bold;
+  }
+
+  .speaker-name {
+      color: white;
+      font-weight: bold;
+  }
+
+  .name:hover {
+    text-decoration: none;
+    color: rgb(255, 197,3);
+}
+
+  .speaker-name:hover {
+      text-decoration: none;
+      color: rgb(255, 197,3);
+  }
+
+/*** Schedule ****/
+.schedule {
+    padding-top: 2%;
+    padding-bottom: 2%;
+    margin-bottom: 5%;
+    background-color: #F8F9FA;
+}
+
+.schedule ul {
+    list-style-type: none;
+    font-size: 25px;
+    padding: 0;
+    text-align: center;
+  }
+
+  .schedule li {
+      margin-top: 15px;
   }
 
 /***** Registration *****/
@@ -462,6 +500,6 @@ hr.bar {
         line-height: 50px;
     }
     .expect .title h2 {
-        font-size: 40px;
+        font-size: 28px;
       }
 }
