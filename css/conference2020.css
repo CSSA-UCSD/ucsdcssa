@@ -500,5 +500,6 @@ hr.bar {
     }
     .expect .title h2 {
         font-size: 28px;
+        margin-left: 25px;
       }
 }
