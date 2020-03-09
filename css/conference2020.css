@@ -169,7 +169,6 @@ hr.bar {
     background-size: cover;
     background-repeat: no-repeat;
     color: white;
-    height: 75vh;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -184,12 +183,12 @@ hr.bar {
       display: flex;
       justify-content: center;
       color: white;
+      padding: 0;
   }
 
   .expect .list ul {
     list-style-type: none;
     font-size: 25px;
-    padding: 0;
   }
 
   .expect .list ul li {
@@ -460,6 +459,9 @@ hr.bar {
     }
 }
 @media (max-width: 991.98px) {
+    .expect .title {
+    height: 75vh;
+    }
     .ucsd-logo {
         width: 100px; 
         height: 60px;
