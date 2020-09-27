@@ -1,0 +1,38 @@
+.navbar {
+    color: $primary-dark;
+    height: 76px;
+
+    .navbar-brand{
+        display: block;
+        margin: auto;
+
+        img {
+            height: 50px;
+        }
+
+        .nav-link {
+            &:hover {
+                text-decoration: underline;
+            }
+        }
+    }
+    .menu {
+        margin: auto;
+    }
+
+    li {
+        display: inline;
+    }
+}
+
+@include media-md {
+    .navbar {
+        .navbar-brand {
+            display: inline-block;
+            margin: 0 1rem 0 0; 
+        }
+        .menu {
+            margin: 0;
+        }
+    }
+}

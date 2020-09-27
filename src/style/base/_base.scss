@@ -1,0 +1,35 @@
+// font imports
+//@include font-face("Open Sans", "../file/path", FONTWEIGHT#, $file-formats: ttf);
+//@import url(@import url(http://fonts.googleapis.com/css?family=Roboto+Slab|Open+Sans:400italic,700italic,400,700)
+// fonts
+$header-font: Helvetica, sans-serif;
+$body-font: Helvetica, sans-serif;
+
+// colors
+$primary-light: #FFFFFF;
+$primary-dark: #133B51;
+
+$accent-1: #92F9F3;
+$accent-2: #FD643D;
+$accent-3: #FEC44A;
+
+// body colors
+body {
+    background: $primary-light;
+    color: $primary-dark;
+}
+
+// type scale
+h1, h2, h3, h4, h5, h6 {
+    font-family: $header-font;
+}
+
+p, a {
+    font-family: $body-font;
+}
+
+a {
+    &:hover {
+        color: inherit;
+    }
+}

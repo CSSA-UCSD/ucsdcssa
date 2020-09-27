@@ -1,0 +1,17 @@
+// imports
+@import 'bootstrap/custom';
+@import 'base/base';
+@import 'base/config';
+@import 'components/navbar';
+@import 'components/button';
+@import 'components/sidebar';
+@import 'components/footer';
+@import 'pages/home';
+@import 'pages/involvement';
+@import 'pages/events';
+@import 'pages/team';
+
+html {
+    scroll-behavior: smooth;
+    --scroll-behavior: smooth;
+}
