@@ -1,6 +1,5 @@
 import React from "react";
-import '../../style/main.scss';
-import InvolvementCard from "../components/InvolvementCard";
+import InvolvementCard from "../components/involvement/InvolvementCard";
 import involvementData from "../data/involvementData";
 
 class Involvement extends React.Component {

@@ -5,7 +5,7 @@
 .cta {
   position: relative;
   margin: auto;
-  padding: 19px 22px;
+  padding: 13px 22px;
   transition: all .2s ease;
   &:before {
     content: "";
@@ -28,7 +28,7 @@
   }
   svg {
     position: relative;
-    top: 0;
+    top: 2px;
     margin-left: 10px;
     fill: none;
     stroke-linecap: round;
@@ -58,7 +58,7 @@
 
 .sidebar {
   .cta {
-    padding: 5px 20px;
+    padding: 0px 15px;
 
     &:before {
       content: "";
@@ -71,6 +71,39 @@
       width: 30px;
       height: 30px;
       transition: all .3s ease;
+    }
+    span {
+      position: relative;
+      font-size: 12px;
+      line-height: 16px;
+      font-weight: 900;
+      vertical-align: middle;
+    }
+    svg {
+      top: 0;
+    }
+    &:hover {
+      &:before {
+        width: 100%;
+        background: rgba($accent-1,1);
+      }
+      svg {
+        transform: translateX(0);
+      }
+    }
+    &:active {
+      transform: scale(.96);
+    }
+  }
+}
+
+.events {
+  .cta {
+    padding: 0 15px;
+    &:before {
+      border-radius: 15px;
+      width: 30px;
+      height: 30px;
     }
     span {
       position: relative;

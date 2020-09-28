@@ -1,29 +1,28 @@
+#tsparticles {
+    width: inherit;
+    height: inherit;
+}
 .home-initial {
     height: calc(100vh - 76px);
     justify-content: center; 
     align-items: center;
-    padding: 25% 10% 0 10%;
+    padding: 20vh 10% 0 10%;
 
     .home-title {
         width: 100%;
 
         h1.title {
-            font-size: 1.75rem;
+            font-size: 36px;
+            line-height: 48px;
         }
     }
 
-    .home-buttons {
-        padding: 3rem 0;
-    }
 }
 
-@include media-sm {
-    .home-initial {
-        .home-title {
-            h1.title {
-                font-size: 2.5rem;
-            }
-        }
+.home {
+    &-section {
+        padding-bottom: 2rem;
+        width: inherit;
     }
 }
 
@@ -31,5 +30,45 @@
     img {
         width: inherit;
         transform: translateY(-1rem);
+    }
+}
+
+/*
+@include media-sm {
+    .home-initial {
+    
+        .home-title {
+            h1.title {
+                font-size: 2.5rem;
+            }
+        }
+    }
+}
+*/
+
+
+@include media-md {
+    .home-initial {
+        padding: 30vh 10% 0 10%;
+        .home-title {
+            h1.title {
+                font-size: 52px;
+                line-height: 64px;
+            }
+        }
+    }
+    .home-buttons {
+        padding: 3rem 0;
+    }
+}
+
+@include media-lg {
+    .home-initial {
+        .home-title {
+            h1.title {
+                font-size: 60px;
+                line-height: 72px;
+            }
+        }
     }
 }

@@ -1,6 +1,7 @@
 .navbar {
     color: $primary-dark;
     height: 76px;
+    z-index: 100;
 
     .navbar-brand{
         display: block;

@@ -1,15 +1,37 @@
 import React from "react";
 import '../../style/main.scss';
+import Member from "../components/team/Member";
+import execData from "../data/team/execData";
+import presData from "../data/team/presData";
+import advisorsData from "../data/team/advisorsData";
 
 class Team extends React.Component {
     render() {
+        const AdvisorsComponent = advisorsData.map(item => < Member key={item.id} item={item}/>);
+        const PresComponent = presData.map(item => < Member key={item.id} item={item}/>);
+        const ExecComponent = execData.map(item => < Member key={item.id} item={item}/>);
         return (
-            <div className="container team">
-                <div className="row">
-                    <div className="col-sm-8 order-sm-2">
-                        <h1>This is the Team Page</h1>
-                        <p>This is a paragraph.</p>
+            <div className="team">
+                <div className="container">
+                    <h1>Meet the Team</h1>
+                    <div className="team-advisors">
+                        <h2>Advisors</h2>
+                        <div className="row">
+                            {AdvisorsComponent}
+                        </div>
+
                     </div>
+                    <div className="team-exec">
+                        <h2>2020-2021 Executive Board</h2>
+                        <div className="row justify-content-center">
+                            {PresComponent}
+                        </div>
+                        <div className="row justify-content-center">
+                            {ExecComponent}
+                        </div>
+
+                    </div>
+
                 </div>
             </div>
         );

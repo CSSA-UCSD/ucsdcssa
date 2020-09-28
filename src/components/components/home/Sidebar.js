@@ -1,8 +1,8 @@
 import React from "react";
 import SidebarComponent from "./SidebarComponent"
-import highlightsData from '../data/sidebar/highlightsData';
-import socialUpdatesData from '../data/sidebar/socialUpdatesData';
-import supportUsData from '../data/sidebar/supportUsData';
+import highlightsData from '../../data/sidebar/highlightsData';
+import socialUpdatesData from '../../data/sidebar/socialUpdatesData';
+import supportUsData from '../../data/sidebar/supportUsData';
 
 class Sidebar extends React.Component {
     render() {

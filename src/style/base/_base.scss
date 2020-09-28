@@ -1,9 +1,12 @@
 // font imports
-//@include font-face("Open Sans", "../file/path", FONTWEIGHT#, $file-formats: ttf);
-//@import url(@import url(http://fonts.googleapis.com/css?family=Roboto+Slab|Open+Sans:400italic,700italic,400,700)
+@font-face {
+    font-family: 'Wavehaus';
+    src: url("../../assets/fonts/graham-paterson-wavehaus-typeface/Wavehaus-95SemiBold.otf") format('opentype');
+}
+@import url(https://fonts.googleapis.com/css2?family=Be+Vietnam:ital,wght@0,400;0,500;1,400;1,500&display=swap);
 // fonts
-$header-font: Helvetica, sans-serif;
-$body-font: Helvetica, sans-serif;
+$header-font: 'Wavehaus', sans-serif;
+$body-font: 'Be Vietnam', sans-serif;
 
 // colors
 $primary-light: #FFFFFF;
@@ -24,8 +27,20 @@ h1, h2, h3, h4, h5, h6 {
     font-family: $header-font;
 }
 
+h1 {
+    font-size: 60px;
+    line-height: 72px;
+}
+
+h2 {
+    font-size: 34px;
+    line-height: 44px;
+}
+
 p, a {
     font-family: $body-font;
+    font-size: 16px;
+    line-height: 24px;
 }
 
 a {
