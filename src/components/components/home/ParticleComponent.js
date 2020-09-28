@@ -3,6 +3,7 @@
 
 import React from "react";
 import Particles from "react-particles-js";
+import variables from '../../../style/main.scss';
 
 export default () => (
   <div
@@ -25,13 +26,13 @@ export default () => (
             }
           },
           color: {
-            value: "#133B51"
+            value: [variables.accent1, variables.accent2, variables.accent3]
           },
           shape: {
             type: "circle",
             stroke: {
               width: 0,
-              color: "#133B51"
+              color: [variables.accent1, variables.accent2, variables.accent3]
             },
             polygon: {
               nb_sides: 5
@@ -76,7 +77,7 @@ export default () => (
             random: false,
             straight: false,
             out_mode: "out",
-            bounce: false,
+            bounce: true,
             attract: {
               enable: false,
               rotateX: 600,
@@ -92,7 +93,7 @@ export default () => (
               mode: "repulse"
             },
             onclick: {
-              enable: false,
+              enable: true,
               mode: "push"
             },
             resize: true
@@ -112,11 +113,11 @@ export default () => (
               speed: 3
             },
             repulse: {
-              distance: 100,
+              distance: 150,
               duration: 0.4
             },
             push: {
-              particles_nb: 4
+              particles_nb: 8
             },
             remove: {
               particles_nb: 2

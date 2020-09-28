@@ -28,7 +28,7 @@ class Events extends React.Component {
                     </div>
                 </div>
                 <div className="events-section row">
-                    <div className="col-sm-4">
+                    <div className="col-sm-4 events-section-title">
                         <h2>Upcoming Events</h2>
                     </div>
                     <div className="col-sm-8">
@@ -36,7 +36,7 @@ class Events extends React.Component {
                     </div>
                 </div>
                 <div className="events-section row">
-                    <div className="col-sm-4">
+                    <div className="col-sm-4 events-section-title">
                         <h2>Previous Events</h2>
                     </div>
                     <div className="col-sm-8">
@@ -44,7 +44,7 @@ class Events extends React.Component {
                     </div>
                 </div>
                 <div className="events-section row">
-                    <div className="col-sm-4">
+                    <div className="col-sm-4 events-section-title">
                         <h2>Archives</h2>
                     </div>
                     <div className="col-sm-8">

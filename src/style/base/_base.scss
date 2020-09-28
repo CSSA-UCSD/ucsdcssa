@@ -9,8 +9,8 @@ $header-font: 'Wavehaus', sans-serif;
 $body-font: 'Be Vietnam', sans-serif;
 
 // colors
-$primary-light: #FFFFFF;
 $primary-dark: #133B51;
+$primary-light: #FFFFFF;
 
 $accent-1: #92F9F3;
 $accent-2: #FD643D;
@@ -48,3 +48,13 @@ a {
         color: inherit;
     }
 }
+
+:export {
+    primaryLight: $primary-light;
+    primaryDark: $primary-dark;
+
+    accent1: $accent-1;
+    accent2: $accent-2;
+    accent3: $accent-3;
+  }
+  
