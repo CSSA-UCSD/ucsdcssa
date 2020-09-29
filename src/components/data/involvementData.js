@@ -10,9 +10,9 @@ const involvementData = [
     {
         id: 2,
         level: "medium",
-        name: "Active Volunteers",
-        description: "You must complete at least two jobs per quarter. Tasks include: Tabling, Putting up posters, Taping flyers to chairs, Making class announcements, Chalking boards and sidewalks. More details to come for the remote quarter!",
-        urltitle: "Details",
+        name: "Join Our Discord",
+        description: "Details about Discord here",
+        urltitle: "Discord Link",
         url: "https://www.facebook.com/webraincogsci"
     },
     {
@@ -21,6 +21,14 @@ const involvementData = [
         name: "Committee Members",
         description: "You report to your Committee lead who is a member of the Executive Board. You will shadow and assist leads with completing tasks. Committees can include: Fundraising, Newsletter, and Sponsorship",
         urltitle: "Committee Applications",
+        url: "https://www.facebook.com/webraincogsci"
+    },
+    {
+        id: 4,
+        level: "high",
+        name: "Executive Board Members",
+        description: "Please come back Spring Quarter for 2020-2021 Executive Board Member Applications",
+        urltitle: "Executive Board Applications",
         url: "https://www.facebook.com/webraincogsci"
     }
 ]

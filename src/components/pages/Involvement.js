@@ -10,11 +10,6 @@ class Involvement extends React.Component {
                 <div className="row">
                     <div className="col-sm-8 order-sm-2 involvement-intro">
                         <h1>Get Involved</h1>
-                        <p>There are a variety of ways to get involved with CSSA 
-                            throughout the year. Read below for membership opportunites, 
-                            and come back Spring Quarter for 2020-2021 Executive 
-                            Board Member Applications!
-                        </p>
                     </div>
                 </div>
                 <div className="row involvement-cards">

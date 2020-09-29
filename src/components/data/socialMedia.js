@@ -13,8 +13,8 @@ const socialMedia = [
     },
     {
         id: 3,
-        platform: "slack",
-        icon: "fab fa-slack fa-lg white-text mr-md-5 mr-3 fa-2x",
+        platform: "discord",
+        icon: "fab fa-discord fa-lg white-text mr-md-5 mr-3 fa-2x",
         url: "https://cssa-ucsd.org"
     },
     {
