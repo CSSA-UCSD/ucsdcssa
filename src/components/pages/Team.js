@@ -14,13 +14,6 @@ class Team extends React.Component {
             <div className="team">
                 <div className="container">
                     <h1>Meet the Team</h1>
-                    <div className="team-advisors">
-                        <h2>Advisors</h2>
-                        <div className="row">
-                            {AdvisorsComponent}
-                        </div>
-
-                    </div>
                     <div className="team-exec">
                         <h2>2020-2021 Executive Board</h2>
                         <div className="row justify-content-center">
@@ -29,7 +22,12 @@ class Team extends React.Component {
                         <div className="row justify-content-center">
                             {ExecComponent}
                         </div>
-
+                    </div>
+                    <div className="team-advisors">
+                        <h2>Advisors</h2>
+                        <div className="row">
+                            {AdvisorsComponent}
+                        </div>
                     </div>
 
                 </div>

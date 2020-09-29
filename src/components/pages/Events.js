@@ -18,38 +18,36 @@ class Events extends React.Component {
 
     render() {
         const upcomingComponent = upcomingEventsData.map(item => < EventsCard key={item.id} item={item}/>);
-        const archivesComponent = archivesData.map(item => < Archives key={item.id} item={item}/>);
+        const archivesComponent = archivesData.map(item => < EventsCard key={item.id} item={item}/>);
         const previousComponent = prevEventsData.map(item => < EventsCard key={item.id} item={item}/>);
         return (
             <div className="container events">
                 <div className="row">
                     <div className="col-sm-8 order-sm-2 pb-5">
                         <h1>Events</h1>
+                        <p>Text Goes Here!</p>
                     </div>
                 </div>
-                <div className="events-section row">
-                    <div className="col-sm-4 events-section-title">
-                        <h2>Upcoming Events</h2>
-                    </div>
-                    <div className="col-sm-8">
-                        {upcomingComponent}
-                    </div>
+                <div className="events-section-title">
+                    <h2>Upcoming Events</h2>
+                    <hr></hr>
                 </div>
                 <div className="events-section row">
-                    <div className="col-sm-4 events-section-title">
-                        <h2>Previous Events</h2>
-                    </div>
-                    <div className="col-sm-8">
-                        {previousComponent}
-                    </div>
+                    {upcomingComponent}
+                </div>
+                <div className="events-section-title">
+                    <h2>Previous Events</h2>
+                    <hr></hr>
                 </div>
                 <div className="events-section row">
-                    <div className="col-sm-4 events-section-title">
-                        <h2>Archives</h2>
-                    </div>
-                    <div className="col-sm-8">
-                        {archivesComponent}
-                    </div>
+                    {previousComponent}
+                </div>
+                <div className="events-section-title">
+                    <h2>Archives</h2>
+                    <hr></hr>
+                </div>
+                <div className="events-section row">
+                    {archivesComponent}
                 </div>
             </div>
         );

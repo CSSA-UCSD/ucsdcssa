@@ -38,17 +38,23 @@
         }
     }
 
+    &-date {
+        font-weight: 900;
+    }
+
     &-container {
         padding: 1rem 0;
     }
 
     &-card {
-        border-radius: 1rem;
-        border: .15rem solid rgba($primary-dark, $alpha: 0.5);
-        padding: 2rem; 
+        padding: 1rem; 
         width: 100%;
         height: inherit; 
 
+    }
+
+    &-image {
+        width: 100%;
         img {
             width: inherit;
             border-radius: 1rem;

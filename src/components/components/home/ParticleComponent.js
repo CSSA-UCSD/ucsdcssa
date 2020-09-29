@@ -19,23 +19,23 @@ export default () => (
       params={{
         particles: {
           number: {
-            value: 50,
+            value: 80,
             density: {
               enable: true,
               value_area: 800
             }
           },
           color: {
-            value: [variables.accent1, variables.accent2, variables.accent3]
+            value: variables.primaryLight
           },
           shape: {
-            type: "circle",
+            type: "polygon",
             stroke: {
-              width: 0,
-              color: [variables.accent1, variables.accent2, variables.accent3]
+              width: 2,
+              color: variables.primaryDark
             },
             polygon: {
-              nb_sides: 5
+              nb_sides: 6
             },
             image: {
               src: "img/github.svg",
@@ -54,7 +54,7 @@ export default () => (
             }
           },
           size: {
-            value: 5,
+            value: 8,
             random: true,
             anim: {
               enable: false,
