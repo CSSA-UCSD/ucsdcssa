@@ -4,7 +4,6 @@ import EventsCard from "../components/events/EventsCard";
 import archivesData from "../data/events/archivesData";
 import prevEventsData from "../data/events/prevEventsData";
 import upcomingEventsData from "../data/events/upcomingEventsData";
-import Archives from "../components/events/Archives";
 import AOS from "aos";
 
 class Events extends React.Component {
