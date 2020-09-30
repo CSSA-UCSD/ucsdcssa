@@ -3,7 +3,7 @@ import React from "react";
 class InvolvementCard extends React.Component {
     render() {
         return (
-            <div className="involvement-card col-sm-6">
+            <div className="involvement-card col-sm-6" data-aos="fade-up">
                 <h2>{this.props.item.name}</h2>
                 <hr></hr>
                 <p>{this.props.item.description}</p>

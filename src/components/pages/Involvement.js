@@ -1,8 +1,14 @@
 import React from "react";
 import InvolvementCard from "../components/involvement/InvolvementCard";
 import involvementData from "../data/involvementData";
+import AOS from "aos";
 
 class Involvement extends React.Component {
+    componentDidMount() {
+        AOS.init({
+            duration : 2000
+        });
+    }
     render() {
         const InvolvementComponent = involvementData.map(item => < InvolvementCard key={item.id} item={item}/>);
         return (

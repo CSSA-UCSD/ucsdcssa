@@ -9,9 +9,7 @@ import AOS from "aos";
 
 class Events extends React.Component {
     componentDidMount() {
-        // or simply just AOS.init();
         AOS.init({
-            // initialise with other settings
             duration : 2000
         });
     }

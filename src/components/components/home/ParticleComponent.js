@@ -26,12 +26,12 @@ export default () => (
             }
           },
           color: {
-            value: variables.primaryLight
+            value: variables.primaryDark
           },
           shape: {
-            type: "polygon",
+            type: "circle",
             stroke: {
-              width: 2,
+              width: 0,
               color: variables.primaryDark
             },
             polygon: {

@@ -39,6 +39,7 @@ class Member extends React.Component {
                 <div className="member-info">
                     <h3>{this.props.item.name}</h3>
                     <p>{this.props.item.position}</p>
+                    <p style={{display: this.props.item.year ? "block" : "none"}}>Class of {this.props.item.year}</p>
                 </div>
 
             </div>
