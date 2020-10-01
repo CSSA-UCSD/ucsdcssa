@@ -3,19 +3,13 @@ const highlightsData = [
         id: 1,
         title: "Fall 2020 GBM",
         type: "Event",
-        url: "https://www.facebook.com/webraincogsci"
+        url: "https://fb.me/e/272WagZj1"
     },
     {
         id: 2,
-        title: "About the 2020 Rebrand",
+        title: "Join Our Discord",
         type: "Announcement",
-        url: "https://www.facebook.com/webraincogsci"
-    },
-    {
-        id: 3,
-        title: "Join Our New Slack Channel",
-        type: "Announcement",
-        url: "https://www.facebook.com/webraincogsci"
+        url: "https://discord.gg/mEuaWtc"
     },
 ]
 

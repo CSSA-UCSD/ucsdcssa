@@ -3,33 +3,30 @@ const involvementData = [
         id: 1,
         level: "low",
         name: "General Membership",
-        description: "No commitment is required. You will receive our monthly newsletter and other emails about relevant events. Hope to see you at our events!",
+        description: "Join our community by staying up to date with our events through our monthly newsletter. No commitment required.",
         urltitle: "Join Our Newsletter",
-        url: "https://www.facebook.com/webraincogsci"
+        url: "https://docs.google.com/forms/d/e/1FAIpQLSfwCRv5uClgJ-Fv3CEc-87lDfLW9QrtCx9DXBVcolCqm-Xrkg/viewform"
     },
     {
         id: 2,
         level: "medium",
         name: "Join Our Discord",
-        description: "Details about Discord here",
+        description: "Join our Discord to get to know and interact with the Cognitive Science community at UCSD.",
         urltitle: "Discord Link",
-        url: "https://www.facebook.com/webraincogsci"
+        url: "https://discord.gg/mEuaWtc"
     },
     {
         id: 3,
         level: "high",
         name: "Committee Members",
-        description: "You report to your Committee lead who is a member of the Executive Board. You will shadow and assist leads with completing tasks. Committees can include: Fundraising, Newsletter, and Sponsorship",
-        urltitle: "Committee Applications",
-        url: "https://www.facebook.com/webraincogsci"
+        description: "Be a part of a committee of your choice and assist our executive board members with various responsibilities while getting to know our cognitive science community first hand.",
+        urltitle: "Applications (coming soon)",
     },
     {
         id: 4,
         level: "high",
         name: "Executive Board Members",
-        description: "Please come back Spring Quarter for 2020-2021 Executive Board Member Applications",
-        urltitle: "Executive Board Applications",
-        url: "https://www.facebook.com/webraincogsci"
+        description: "Our 2021-2022 Executive Board member applications will be posted in Spring.",
     }
 ]
 

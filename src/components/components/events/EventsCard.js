@@ -35,9 +35,18 @@ class EventsCard extends React.Component {
                         <div className="events-date">
                             <p>{this.props.item.date}</p>
                         </div>
-                        <div className="events-buttons">
+                        <div className="events-buttons pb-3">
                             <a className="cta" href={this.props.item.url} target="_blank" rel="noopener noreferrer">
                                 <span className="small-title events-btn">Event Details</span>
+                                <svg width="13px" height="10px" viewBox="0 0 13 10">
+                                    <path d="M1,5 L11,5"></path>
+                                    <polyline points="8 1 12 5 8 9"></polyline>
+                                </svg>
+                            </a>
+                        </div>
+                        <div className="events-buttons">
+                            <a className="cta" href={this.props.item.zoom} target="_blank" rel="noopener noreferrer">
+                                <span className="small-title events-btn">Zoom Link</span>
                                 <svg width="13px" height="10px" viewBox="0 0 13 10">
                                     <path d="M1,5 L11,5"></path>
                                     <polyline points="8 1 12 5 8 9"></polyline>

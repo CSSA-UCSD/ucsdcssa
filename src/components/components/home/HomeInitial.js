@@ -1,15 +1,13 @@
 import React from "react";
 import Button from "../Button";
-import { BrowserRouter as Router } from "react-router-dom";
-import ParticleComponent from "./ParticleComponent";
+import { Link } from "react-router-dom";
 
 class HomeInitial extends React.Component {
 
     render() {
         return (
-            <Router>
+            
             <div>
-                <ParticleComponent />
                 {/* You can render <Route> and <NavTabs /> here */}
                 <div className="home-initial" id="particles-js">
                     <div className="home-title pb-3">
@@ -22,13 +20,18 @@ class HomeInitial extends React.Component {
                                 < Button text="Learn More" url="#learn-more"/>
                             </div>
                             <div className="col-md-auto py-4">
-                                < Button text="Get Involved" url="https://cssa-ucsd.org/involvement"/>
+                                <Link to='/involvement' className='cta'>
+                                    <span>Get Involved</span>
+                                    <svg width="13px" height="10px" viewBox="0 0 13 10">
+                                        <path d="M1,5 L11,5"></path>
+                                        <polyline points="8 1 12 5 8 9"></polyline>
+                                    </svg>
+                                </Link>
                             </div>
                         </div>
                     </div>
                 </div>
             </div>
-            </Router>
         )
     }
 

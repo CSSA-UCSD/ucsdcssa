@@ -15,7 +15,7 @@ const socialMedia = [
         id: 3,
         platform: "discord",
         icon: "fab fa-discord fa-lg white-text mr-md-5 mr-3 fa-2x",
-        url: "https://cssa-ucsd.org"
+        url: "https://discord.gg/mEuaWtc"
     },
     {
         id: 4,
