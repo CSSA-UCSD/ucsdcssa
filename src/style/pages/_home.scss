@@ -6,9 +6,10 @@
     height: calc(100vh - 76px);
     justify-content: center; 
     align-items: center;
-    padding: 20vh 10% 0 10%;
+    padding: 40vh 10% 0 10%;
 
     .home-title {
+        display: none;
         width: 100%;
 
         h1.title {
@@ -56,11 +57,15 @@
 .animation{
     overflow: hidden;
     svg {
-        transform: translateY(-25vh);
+        transform: translateY(-20%);
         height: 100%;
         width: 100%;
         position: absolute;
         z-index: -1;
+
+        .st9{fill:#133B51;}
+        .st25{font-family:'Wavehaus-95SemiBold';}
+        .st26{font-size:60px;}
     }
     .path {
         stroke-dasharray: 1000;
@@ -96,7 +101,7 @@
 
 @include media-md {
     .home-initial {
-        padding: 32vh 10% 0 10%;
+        padding: 55vh 10% 0 15%;
         .home-title {
             h1.title {
                 font-size: 52px;
