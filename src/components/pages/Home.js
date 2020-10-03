@@ -1,7 +1,7 @@
 import React from "react";
 import HomeInitial from "../components/home/HomeInitial";
 import Sidebar from "../components/home/Sidebar";
-import Logo from "../../img/logos/logo-text.svg";
+import Logo from "../../img/logos/Wordmark_Dark.svg";
 import AOS from "aos";
 
 class Home extends React.Component {
