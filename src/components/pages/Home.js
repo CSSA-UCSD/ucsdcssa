@@ -21,17 +21,17 @@ class Home extends React.Component {
                  width="100%" viewBox="0 0 1440 880" fill="none" xmlns="http://www.w3.org/2000/svg">
                     <g> 
                     <circle opacity="0.5" cx="1264.11" cy="747.115" r="30" transform="rotate(-0.220059 1264.11 747.115)" fill="#FD643D"/>
-                    <circle opacity="0.5" cx="962.794" cy="431.575" r="30" transform="rotate(-165.449 962.794 431.575)" fill="#FEC44A" fillOpacity="0.5"/>
+                    <circle opacity="0.5" cx="962.794" cy="431.575" r="30" transform="rotate(-165.449 962.794 431.575)" fill="#FEC44A"/>
                     <circle opacity="0.5" cx="496.115" cy="68.115" r="30" transform="rotate(-0.220059 496.115 68.115)" fill="#133B51"/>
                     <circle opacity="0.5" cx="1321.3" cy="79.8139" r="30" transform="rotate(-0.220059 1321.3 79.8139)" fill="#92F9F3"/>
                     <circle opacity="0.5" cx="1344.44" cy="636.729" r="30" transform="rotate(-0.220059 1344.44 636.729)" fill="#92F9F3"/>
                     <path className="path" d="M1381.5 368.784L1100.54 368.784C1077.53 368.784 1063.09 393.615 1074.46 413.614L1110.71 477.349" stroke="#133B51" strokeWidth="15" strokeLinecap="round" strokeLinejoin="round"/>
-                    <path className="path" d="M1294.34 514.182L1192.96 657.7" stroke="#FEC44A" strokeOpacity="0.5" strokeWidth="15" strokeLinecap="round" strokeLinejoin="round"/>
+                    <path className="path" d="M1294.34 514.182L1192.96 657.7" stroke="#FEC44A" strokeWidth="15" strokeLinecap="round" strokeLinejoin="round"/>
                     <path className="path" d="M820.97 -5.26511L878.3 69.5016C884.002 76.938 892.851 81.2828 902.222 81.2468L1314.04 79.6651" stroke="#92F9F3" strokeWidth="15" strokeLinecap="round" strokeLinejoin="round"/>
                     <path className="path" d="M994.17 192.108L1274.66 191.03C1284.84 190.991 1294.34 196.116 1299.9 204.642L1348.36 278.948" stroke="#133B51" strokeWidth="15" strokeLinecap="round" strokeLinejoin="round"/>
                     <path className="path" d="M1372.57 149.618L1535.5 391.994" stroke="#FEC44A" strokeWidth="15" strokeLinecap="round" strokeLinejoin="round"/>
                     <circle cx="1110.85" cy="484.423" r="21.1258" transform="rotate(-0.220059 1110.85 484.423)" fill="#133B51"/>
-                    <circle cx="1192.15" cy="658.251" r="21.1258" transform="rotate(-0.220059 1192.15 658.251)" fill="#FEC44A" fillOpacity="0.5"/>
+                    <circle cx="1192.15" cy="658.251" r="21.1258" transform="rotate(-0.220059 1192.15 658.251)" fill="#FEC44A"/>
                     <circle cx="649.207" cy="126.207" r="21.1258" transform="rotate(-0.220059 649.207 126.207)" fill="#FD643D"/>
                     <circle cx="741.207" cy="186.207" r="21.1258" transform="rotate(-0.220059 741.207 186.207)" fill="#FEC44A"/>
                     <circle cx="214.207" cy="180.207" r="21.1258" transform="rotate(-0.220059 214.207 180.207)" fill="#FEC44A"/>
@@ -50,17 +50,17 @@ class Home extends React.Component {
                     <path className="path" d="M1336.5 138.756L1501.44 383.124" stroke="#FD643D" strokeWidth="5" strokeLinecap="round" strokeLinejoin="round"/>
                     <path className="path" d="M1305.75 618.492L1407.29 468.986C1416.7 455.14 1412.87 436.268 1398.82 427.18V427.18C1393.96 424.038 1388.29 422.377 1382.51 422.4L1226.61 422.998" stroke="#133B51" strokeWidth="5" strokeLinecap="round" strokeLinejoin="round"/>
                     <path className="path" d="M1084.03 524.833L1084.66 689.024C1084.72 705.975 1098.52 719.664 1115.47 719.599L1230.21 719.158" stroke="#92F9F3" strokeWidth="5" strokeLinecap="round" strokeLinejoin="round"/>
-                    <path className="path" d="M671 -20.543L775.132 105.785C784.13 116.7 784.279 132.418 775.491 143.504L745.5 181.334" stroke="#FEC44A" strokeOpacity="0.5" strokeWidth="15"/>
+                    <path className="path" d="M671 -20.543L775.132 105.785C784.13 116.7 784.279 132.418 775.491 143.504L745.5 181.334" stroke="#FEC44A" strokeWidth="15"/>
                     <path className="path" d="M714 -11.543L817.935 114.546C827.022 125.569 827.074 141.472 818.061 152.555L768.5 213.5" stroke="#133B51" strokeWidth="5"/>
-                    <path className="path" d="M213.885 181.137L401.851 181.083L571.707 181.083C579.584 181.083 587.146 184.181 592.758 189.709L647.242 243.371C652.854 248.899 660.416 251.997 668.293 251.997L870.562 251.997C880.25 251.997 889.342 247.319 894.973 239.435L971 133" stroke="#FEC44A" strokeOpacity="0.5" strokeWidth="15"/>
+                    <path className="path" d="M213.885 181.137L401.851 181.083L571.707 181.083C579.584 181.083 587.146 184.181 592.758 189.709L647.242 243.371C652.854 248.899 660.416 251.997 668.293 251.997L870.562 251.997C880.25 251.997 889.342 247.319 894.973 239.435L971 133" stroke="#FEC44A" strokeWidth="15"/>
                     <path className="path" d="M644.5 125H199.349C189.711 125 180.659 120.369 175.02 112.552L83 -15" stroke="#FD643D" strokeWidth="15"/>
                     <path className="path" d="M608.5 105H157.349C147.711 105 138.659 100.369 133.02 92.552L41 -35" stroke="#133B51" strokeWidth="5"/>
                     <path className="path" d="M137 183.5V654.5C137 671.069 150.431 684.5 167 684.5H483" stroke="#92F9F3" strokeWidth="15"/>
                     <path className="path" d="M169 266.5V689C169 705.569 182.431 719 199 719H440" stroke="#FD643D" strokeWidth="5"/>
                     <path className="path" d="M498 68H603.978C629.738 68 643.519 37.6723 626.576 18.2683L580.5 -34.5" stroke="#133B51" strokeWidth="15"/>
-                    <path className="path" d="M867 814.936L913.974 636.788C915.748 630.06 919.806 624.157 925.452 620.091L1003.44 563.935C1015.29 555.403 1019.28 539.578 1012.88 526.451L967.584 433.474" stroke="#FEC44A" strokeOpacity="0.5" strokeWidth="15"/>
+                    <path className="path" d="M867 814.936L913.974 636.788C915.748 630.06 919.806 624.157 925.452 620.091L1003.44 563.935C1015.29 555.403 1019.28 539.578 1012.88 526.451L967.584 433.474" stroke="#FEC44A" strokeWidth="15"/>
                     <path className="path" d="M911 738L950.542 580.989C952.423 573.522 957.103 567.064 963.613 562.952L1033.55 518.775C1047.08 510.232 1051.52 492.58 1043.65 478.653L998.47 398.7" stroke="#133B51" strokeWidth="5"/>
-                    <circle cx="962.874" cy="431.803" r="21.1258" transform="rotate(-165.449 962.874 431.803)" fill="#FEC44A" fillOpacity="0.5"/>
+                    <circle cx="962.874" cy="431.803" r="21.1258" transform="rotate(-165.449 962.874 431.803)" fill="#FEC44A"/>
                     <circle cx="495.98" cy="67.9154" r="21.1258" transform="rotate(-0.220059 495.98 67.9154)" fill="#133B51"/>
                     <path className="path" d="M536 53H561.145C586.959 53 600.72 22.5629 583.668 3.18292L569.429 -13" stroke="#FD643D" strokeWidth="5"/>
                     <circle cx="74.6797" cy="124.876" r="21.1258" transform="rotate(-44.6463 74.6797 124.876)" fill="#FEC44A"/>
@@ -85,7 +85,7 @@ class Home extends React.Component {
                             <img className="pb-3" src={Logo} alt="CSSA @ UCSD"></img>
                         </div>
                         <div className="home-section" data-aos="fade-up">
-                            <p>Dynamic. Professional. Honest.</p>
+                            <p className="words">Dynamic. Professional. Honest.</p>
                         </div>
                         <div className="home-section" data-aos="fade-up">
                             <p>CSSA is a professional, academic and social organization for students 

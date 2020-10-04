@@ -15,3 +15,10 @@ html {
     scroll-behavior: smooth;
     --scroll-behavior: smooth;
 }
+
+
+@include media-md {
+    html {
+        font-size: 18px;
+    }
+}
