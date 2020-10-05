@@ -66,7 +66,7 @@ class Home extends React.Component {
                     <circle cx="74.6797" cy="124.876" r="21.1258" transform="rotate(-44.6463 74.6797 124.876)" fill="#FEC44A"/>
                     <path className="path" d="M73.7994 116.201L76.8126 614.83" stroke="#FEC44A" strokeWidth="15"/>
                     <path className="path" d="M49.03 163.856L47.4414 650.345" stroke="#133B51" strokeWidth="5"/>
-                    <text transform="matrix(1 0 0 1 207.6813 332.1233)"><tspan x="0" y="0" className="st9 st25 st26">Cognitive Science Student Association</tspan><tspan x="0" y="72" className="st9 st25 st26">at UC San Diego</tspan></text>
+                    <text transform="matrix(1 0 0 1 207.6813 332.1233)" style={{fontFamily: "Wavehous"}}><tspan x="0" y="0" className="st9 st25 st26">Cognitive Science Student Association</tspan><tspan x="0" y="72" className="st9 st25 st26">at UC San Diego</tspan></text>
                     </g>
                     <defs>
                     <clipPath id="clip0">
