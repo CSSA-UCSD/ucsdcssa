@@ -1,7 +1,6 @@
 import React from "react";
 import '../../style/main.scss';
 
-//test
 class Team extends React.Component {
     render() {
         return (
