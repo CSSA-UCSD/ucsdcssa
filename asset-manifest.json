@@ -1,27 +1,26 @@
 {
   "files": {
-    "main.css": "/ucsdcssa/static/css/main.8adf0801.chunk.css",
-    "main.js": "/ucsdcssa/static/js/main.40b7875e.chunk.js",
-    "main.js.map": "/ucsdcssa/static/js/main.40b7875e.chunk.js.map",
-    "runtime-main.js": "/ucsdcssa/static/js/runtime-main.5c0e207e.js",
-    "runtime-main.js.map": "/ucsdcssa/static/js/runtime-main.5c0e207e.js.map",
-    "static/js/2.10f0b392.chunk.js": "/ucsdcssa/static/js/2.10f0b392.chunk.js",
-    "static/js/2.10f0b392.chunk.js.map": "/ucsdcssa/static/js/2.10f0b392.chunk.js.map",
-    "index.html": "/ucsdcssa/index.html",
-    "precache-manifest.addd79349e05e3b83ba6ca02af34b2f9.js": "/ucsdcssa/precache-manifest.addd79349e05e3b83ba6ca02af34b2f9.js",
-    "service-worker.js": "/ucsdcssa/service-worker.js",
-    "static/css/main.8adf0801.chunk.css.map": "/ucsdcssa/static/css/main.8adf0801.chunk.css.map",
-    "static/js/2.10f0b392.chunk.js.LICENSE.txt": "/ucsdcssa/static/js/2.10f0b392.chunk.js.LICENSE.txt",
-    "static/media/main.scss": "/ucsdcssa/static/media/Wavehaus-95SemiBold.0d9cd0f6.otf",
-    "static/media/eventPlaceholder.jpg": "/ucsdcssa/static/media/eventPlaceholder.8d245866.jpg",
-    "static/media/gbm.jpg": "/ucsdcssa/static/media/gbm.7c24eca9.jpg",
-    "static/media/group.jpg": "/ucsdcssa/static/media/group.99ed2c3d.jpg",
-    "static/media/logo-text.svg": "/ucsdcssa/static/media/logo-text.2cfc8c14.svg"
+    "main.css": "/static/css/main.35fac00a.chunk.css",
+    "main.js": "/static/js/main.4b7896c9.chunk.js",
+    "main.js.map": "/static/js/main.4b7896c9.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.83c3e0c4.js",
+    "runtime-main.js.map": "/static/js/runtime-main.83c3e0c4.js.map",
+    "static/js/2.f2d5760d.chunk.js": "/static/js/2.f2d5760d.chunk.js",
+    "static/js/2.f2d5760d.chunk.js.map": "/static/js/2.f2d5760d.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.ef52a06229894a3d5133b375cc4b5908.js": "/precache-manifest.ef52a06229894a3d5133b375cc4b5908.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.35fac00a.chunk.css.map": "/static/css/main.35fac00a.chunk.css.map",
+    "static/js/2.f2d5760d.chunk.js.LICENSE.txt": "/static/js/2.f2d5760d.chunk.js.LICENSE.txt",
+    "static/media/GBM1.png": "/static/media/GBM1.ee0d092a.png",
+    "static/media/main.scss": "/static/media/Wavehaus-95SemiBold.0d9cd0f6.otf",
+    "static/media/Wordmark_Dark.svg": "/static/media/Wordmark_Dark.bb5e2b9c.svg",
+    "static/media/eventPlaceholder.jpg": "/static/media/eventPlaceholder.8d245866.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.5c0e207e.js",
-    "static/js/2.10f0b392.chunk.js",
-    "static/css/main.8adf0801.chunk.css",
-    "static/js/main.40b7875e.chunk.js"
+    "static/js/runtime-main.83c3e0c4.js",
+    "static/js/2.f2d5760d.chunk.js",
+    "static/css/main.35fac00a.chunk.css",
+    "static/js/main.4b7896c9.chunk.js"
   ]
 }
