@@ -25,7 +25,6 @@ class HomeInitial extends React.Component {
                                         <polyline points="8 1 12 5 8 9"></polyline>
                                     </svg>
                                 </Link>
-                                <a href="#learn-more">test link</a>
                             </div>
                             <div className="col-md-auto py-4">
                                 <Link to='/involvement' className='cta'>
