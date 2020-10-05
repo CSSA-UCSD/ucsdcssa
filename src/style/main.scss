@@ -16,9 +16,14 @@ html {
     --scroll-behavior: smooth;
 }
 
-
 @include media-md {
     html {
         font-size: 18px;
+    }
+}
+
+@include media-lg {
+    html {
+        font-size: 20px;
     }
 }

@@ -129,3 +129,26 @@
     font-size: 16px;
   }
 }
+
+@include media-md {
+  .cta {
+    &:before {
+      top: 3px;
+    }
+  }
+}
+
+@include media-lg {
+  .cta {
+    &:before {
+      top: 5px;
+    }
+  }
+  .sidebar{
+    .cta {
+      &:before {
+        top: 3px;
+      }
+    }
+  }
+}
