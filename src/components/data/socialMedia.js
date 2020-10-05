@@ -38,7 +38,7 @@ const socialMedia = [
     {
         id: 7,
         platform: "email",
-        icon: "fas fa-at fa-lg white-text mr-md-5 mr-3 fa-2x",
+        icon: "fas fa-at fa-lg white-text fa-2x",
         url: "mailto:cssa.ucsd@gmail.com"
     }
     
