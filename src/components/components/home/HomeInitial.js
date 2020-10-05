@@ -1,6 +1,6 @@
 import React from "react";
 import Button from "../Button";
-import { Link } from "react-router-dom";
+import { HashLink as Link } from 'react-router-hash-link';
 
 class HomeInitial extends React.Component {
 
@@ -17,7 +17,15 @@ class HomeInitial extends React.Component {
                     <div className="home-buttons">
                         <div className="row">
                             <div className="col-md-auto py-4">
-                                < Button text="Learn More" url="#learn-more"/>
+                                
+                                <Link to="#learn-more" className="cta">
+                                    <span>Learn More</span>
+                                    <svg width="13px" height="10px" viewBox="0 0 13 10">
+                                        <path d="M1,5 L11,5"></path>
+                                        <polyline points="8 1 12 5 8 9"></polyline>
+                                    </svg>
+                                </Link>
+                                <a href="#learn-more">test link</a>
                             </div>
                             <div className="col-md-auto py-4">
                                 <Link to='/involvement' className='cta'>
