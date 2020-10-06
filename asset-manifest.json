@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.94a48828.chunk.css",
-    "main.js": "/static/js/main.fd61d161.chunk.js",
-    "main.js.map": "/static/js/main.fd61d161.chunk.js.map",
+    "main.css": "/static/css/main.45807a48.chunk.css",
+    "main.js": "/static/js/main.2fff06cd.chunk.js",
+    "main.js.map": "/static/js/main.2fff06cd.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.83c3e0c4.js",
     "runtime-main.js.map": "/static/js/runtime-main.83c3e0c4.js.map",
     "static/js/2.d9481b19.chunk.js": "/static/js/2.d9481b19.chunk.js",
     "static/js/2.d9481b19.chunk.js.map": "/static/js/2.d9481b19.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.5dc6581ea3e5ed8c4a6055507036e568.js": "/precache-manifest.5dc6581ea3e5ed8c4a6055507036e568.js",
+    "precache-manifest.2455130a168fe9d8944d892987a77662.js": "/precache-manifest.2455130a168fe9d8944d892987a77662.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.94a48828.chunk.css.map": "/static/css/main.94a48828.chunk.css.map",
+    "static/css/main.45807a48.chunk.css.map": "/static/css/main.45807a48.chunk.css.map",
     "static/js/2.d9481b19.chunk.js.LICENSE.txt": "/static/js/2.d9481b19.chunk.js.LICENSE.txt",
     "static/media/GBM1.png": "/static/media/GBM1.ee0d092a.png",
     "static/media/main.scss": "/static/media/Wavehaus-95SemiBold.0d9cd0f6.otf",
@@ -51,7 +51,7 @@
   "entrypoints": [
     "static/js/runtime-main.83c3e0c4.js",
     "static/js/2.d9481b19.chunk.js",
-    "static/css/main.94a48828.chunk.css",
-    "static/js/main.fd61d161.chunk.js"
+    "static/css/main.45807a48.chunk.css",
+    "static/js/main.2fff06cd.chunk.js"
   ]
 }
