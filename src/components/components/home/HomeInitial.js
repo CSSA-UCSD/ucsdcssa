@@ -1,5 +1,4 @@
 import React from "react";
-import Button from "../Button";
 import { HashLink as Link } from 'react-router-hash-link';
 
 class HomeInitial extends React.Component {

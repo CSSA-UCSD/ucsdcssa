@@ -2,20 +2,25 @@ const advisorsData = [
     {
         id: 1,
         name: "Lara Rangel", 
-        img: "../../img/team/advisors/laraRangel.jpg",
         position: "Assistant Professor",
+        img: "advisors/laraRangel.jpg",
+        imgHover: "advisors/laraRangel.jpg",
         url: "https://www.facebook.com/webraincogsci"
     },
     {
         id: 2,
         name: "Federico Rossano",
         position: "Assistant Professor",
+        img: "advisors/federicoRossano.png",
+        imgHover: "advisors/federicoRossano.png",
         url: "https://www.facebook.com/webraincogsci"
     },
     {
         id: 3,
-        name: "????",
-        position: "Assistant Professor",
+        name: "Seana Coulson",
+        position: "Professor",
+        img: "advisors/blank.png",
+        imgHover: "advisors/blank.png",
         url: "https://www.facebook.com/webraincogsci"
     }
 ]
