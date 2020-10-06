@@ -27,7 +27,7 @@ const socialMedia = [
         id: 5,
         platform: "youtube",
         icon: "fab fa-youtube fa-lg white-text mr-md-5 mr-3 fa-2x",
-        url: "https://www.youtube.com/channel/ucendcwd59-g4e_gqlmya5ma"
+        url: "https://www.youtube.com/channel/UCENdCWd59-G4e_GQlmyA5mA"
     },
     {
         id: 6,
