@@ -20,7 +20,8 @@ const involvementData = [
         level: "high",
         name: "Committee Members",
         description: "Be a part of a committee of your choice and assist our executive board members with various responsibilities while getting to know our cognitive science community first hand.",
-        urltitle: "Applications (coming soon)",
+        urltitle: "Apply now",
+        url: "https://docs.google.com/forms/d/1OwAHZ5PVR34lUKI9Amxz1b2JB-nWr41K55wTiXZ8Nek/viewform?edit_requested=true"
     },
     {
         id: 4,

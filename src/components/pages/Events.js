@@ -1,6 +1,7 @@
 import React from "react";
 
 import EventsCard from "../components/events/EventsCard";
+import PrevEventsCard from "../components/events/PrevEventsCard";
 import Archives from "../components/events/Archives";
 import archivesData from "../data/events/archivesData";
 import prevEventsData from "../data/events/prevEventsData";
@@ -17,7 +18,7 @@ class Events extends React.Component {
     render() {
         const upcomingComponent = upcomingEventsData.map(item => < EventsCard key={item.id} item={item}/>);
         const archivesComponent = archivesData.map(item => < Archives key={item.id} item={item}/>);
-        const previousComponent = prevEventsData.map(item => < EventsCard key={item.id} item={item}/>);
+        const previousComponent = prevEventsData.map(item => < PrevEventsCard key={item.id} item={item}/>);
         return (
             <div className="container events">
                 <div className="row">
@@ -35,7 +36,6 @@ class Events extends React.Component {
                     <hr></hr>
                 </div>
                 <div className="events-section row">
-                    {upcomingComponent}
                 </div>
                 <div className="events-section-title">
                     <h2>Previous Events</h2>
