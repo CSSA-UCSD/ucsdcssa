@@ -7,9 +7,9 @@ const highlightsData = [
     },
     {
         id: 1,
-        title: "Fall 2020 GBM",
-        type: "Event",
-        url: "https://fb.me/e/272WagZj1"
+        title: "Join Our Newsletter",
+        type: "Involvement",
+        url: "http://eepurl.com/cHcDp1"
     },
     {
         id: 2,

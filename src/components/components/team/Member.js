@@ -1,6 +1,4 @@
 import React from "react";
-import testImg from "../../../img/team/testImgs/group.jpg";
-import testImgHover from "../../../img/team/testImgs/gbm.jpg";
 import AOS from "aos";
 
 class Member extends React.Component {
@@ -10,23 +8,6 @@ class Member extends React.Component {
             duration : 2000
         });
     }
-
-    constructor() {
-        super();
-        this.state = {
-            imageSrc: require("../../../img/team/testImgs/group.jpg") 
-        };
-        this.handleMouseEnter = this.handleMouseEnter.bind(this);
-        this.handleMouseLeave = this.handleMouseLeave.bind(this);
-    }
-
-    handleMouseEnter() {
-        this.setState({imageSrc: testImgHover});
-     }
-     
-     handleMouseLeave() {
-        this.setState({imageSrc: testImg});
-     }
 
     render() {
 

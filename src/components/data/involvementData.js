@@ -5,7 +5,7 @@ const involvementData = [
         name: "General Membership",
         description: "Join our community by staying up to date with our events through our monthly newsletter. No commitment required.",
         urltitle: "Join Our Newsletter",
-        url: "https://docs.google.com/forms/d/e/1FAIpQLSfwCRv5uClgJ-Fv3CEc-87lDfLW9QrtCx9DXBVcolCqm-Xrkg/viewform"
+        url: "http://eepurl.com/cHcDp1"
     },
     {
         id: 2,
@@ -20,7 +20,7 @@ const involvementData = [
         level: "high",
         name: "Committee Members",
         description: "Be a part of a committee of your choice and assist our executive board members with various responsibilities while getting to know our cognitive science community first hand.",
-        urltitle: "Apply now",
+        urltitle: "Apply Now",
         url: "https://docs.google.com/forms/d/1OwAHZ5PVR34lUKI9Amxz1b2JB-nWr41K55wTiXZ8Nek/viewform?edit_requested=true"
     },
     {
