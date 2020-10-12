@@ -10,6 +10,12 @@ const archivesData = [
         name: "2018-2019 Website",
         img: "eventPlaceholder.jpg",
         url: "../../../../2018-2019/index.html"
+    },
+    {
+        id: 3,
+        name: "2016-2017 Website",
+        img: "eventPlaceholder.jpg",
+        url: "http://cssa.ucsd.edu/"
     }
 ]
 

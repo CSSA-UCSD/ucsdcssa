@@ -36,6 +36,7 @@ class Events extends React.Component {
                     <hr></hr>
                 </div>
                 <div className="events-section row">
+                    {upcomingComponent}
                 </div>
                 <div className="events-section-title">
                     <h2>Previous Events</h2>
