@@ -3,7 +3,7 @@ const highlightsData = [
         id: 0,
         title: "Scavenger Hunt Social",
         type: "Fri 10/16/2020 | 5PM",
-        url: "https://www.facebook.com/cssaatucsd/"
+        url: "https://fb.me/e/3P36iP5Wl"
     },
     {   
         id: 1,
