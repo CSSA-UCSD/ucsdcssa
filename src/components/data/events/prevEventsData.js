@@ -1,6 +1,22 @@
 const prevEventsData = [
     {
         id: 1,
+        name: "UX Resume Workshop + Networking Event",
+        description: "",
+        date: "Wed 10/21/2020 | 5PM",
+        img: "fall2020/GeekGirl.png",
+        url: "https://fb.me/e/aVnorNqcm",
+        zoom: "https://l.facebook.com/l.php?u=https%3A%2F%2Fdrive.google.com%2Fdrive%2Ffolders%2F1kfHbbc-oLv2EUZE52DG80Rom2dRhctpO%3Fusp%3Dsharing%26fbclid%3DIwAR226iehmJge32ShnTZrT2-LZqvGXdyIV0Yd5fU2xukAIh0aPWv4VdEK1ow&h=AT34QUYlyeCTaBawvjkagHhLZlzwoUDGzv0jni7fwbwycs1VzxdnxAlXL431zIgP9QuFmYpQ1PLv34YelHZsE7ptEWH_ZvCzbptir8Uxp-rIxIXRE5jx35fKrlgyr079nsgHvVKW5j_mMYa1St3eSAhsrg&__tn__=-UK-R&c[0]=AT0DDjo5YfZh-c0cElGBk4wxfQJ7wUC8P9UhGSsNXdf4O8pKIhJJ9jDhERAz8T9Ry0z726EcxZbHO8_gO2Uzod9DKhPM4aiaBaLnwCzA0lzNNEKq0PuWP_OdqbTWrBPPNQkwY8oXb_x2fptKPjZhqAIrzJjnt7HRL68lQRIGd8xVxO6BzT9mBaWpHPG0Dg8j5dcAxPbrRXpTEQ"
+    },
+    {
+        id: 2,
+        name: "Scavenger Hunt Social",
+        description: "",
+        date: "Fri 10/16/2020 | 5PM",
+        img: "fall2020/Social1.gif",
+    },
+    {
+        id: 3,
         name: "General Body Meeting #1",
         description: "",
         date: "Wed 10/07/2020 | 6-7:30PM",

@@ -19,7 +19,7 @@ class PrevEventsCard extends React.Component {
                         <div className="events-date">
                             <p>{this.props.item.date}</p>
                         </div>
-                        <div className="events-buttons pb-3">
+                        <div style={{display: this.props.item.slides ? "block" : "none"}} className="events-buttons pb-3">
                             <a className="cta" href={this.props.item.slides} target="_blank" rel="noopener noreferrer">
                                 <span className="small-title events-btn">Slides</span>
                                 <svg width="13px" height="10px" viewBox="0 0 13 10">
@@ -28,7 +28,7 @@ class PrevEventsCard extends React.Component {
                                 </svg>
                             </a>
                         </div>
-                        <div className="events-buttons">
+                        <div style={{display: this.props.item.zoom ? "block" : "none"}} className="events-buttons">
                             <a className="cta" href={this.props.item.zoom} target="_blank" rel="noopener noreferrer">
                                 <span className="small-title events-btn">Zoom Recording</span>
                                 <svg width="13px" height="10px" viewBox="0 0 13 10">

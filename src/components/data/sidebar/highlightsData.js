@@ -1,9 +1,9 @@
 const highlightsData = [
     {   
         id: 0,
-        title: "Scavenger Hunt Social",
-        type: "Fri 10/16/2020 | 5PM",
-        url: "https://fb.me/e/3P36iP5Wl"
+        title: "Lab Tips + Prep",
+        type: "Wed 10/28/2020 | 5PM",
+        url: "https://fb.me/e/3A3TBlbBY"
     },
     {   
         id: 1,
