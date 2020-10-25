@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "312e038c85752c940ed9b90f21c9ca13",
+    "revision": "f8827ee3a0c40dc0fc52a180e3bd4e7f",
     "url": "/index.html"
   },
   {
-    "revision": "ec01a188c43221aa1b9f",
+    "revision": "c0b8b3455d80093afb81",
     "url": "/static/css/main.957dd637.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/2.944c6062.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "ec01a188c43221aa1b9f",
-    "url": "/static/js/main.939c4bb1.chunk.js"
+    "revision": "c0b8b3455d80093afb81",
+    "url": "/static/js/main.d76c6932.chunk.js"
   },
   {
     "revision": "73635f645c271e35ff15",
@@ -30,6 +30,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "01e3820489f2b11bd2ca5556016bf510",
     "url": "/static/media/GeekGirl.01e38204.png"
+  },
+  {
+    "revision": "1ed6d67a124019883cfba630a3792239",
+    "url": "/static/media/LabTipsWorkshop.1ed6d67a.png"
   },
   {
     "revision": "f128a7b46bb6263323cb0ad837634368",
@@ -106,10 +110,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "7c24eca97662f8c25791c6cdfb181061",
     "url": "/static/media/gbm.7c24eca9.jpg"
-  },
-  {
-    "revision": "99ed2c3de7402550125c5828ffa89794",
-    "url": "/static/media/group.99ed2c3d.jpg"
   },
   {
     "revision": "4e87a1efa34b16481295d43788decc0e",
