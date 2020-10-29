@@ -1,6 +1,15 @@
 const prevEventsData = [
     {
-        id: 1,
+        id: 4,
+        name: "Lab Tips and Prep",
+        description: "",
+        date: "Wed 10/28/2020 | 5PM",
+        img: "fall2020/LabTipsWorkshop.png",
+        slides: "https://docs.google.com/presentation/d/1O59qzQAtZuaz650pGVJIF2Mi2erplJonw9Bctja9dOM/edit?fbclid=IwAR0KqZtMet4McepvB-hQatSVIM97AVOaB0JlUeU_QN8G21MBnX-9KymsFA0#slide=id.p",
+        zoom: "https://fb.watch/1p_AaMcjns/"
+    },
+    {
+        id: 3,
         name: "UX Resume Workshop + Networking Event",
         description: "",
         date: "Wed 10/21/2020 | 5PM",
@@ -16,7 +25,7 @@ const prevEventsData = [
         img: "fall2020/Social1.gif",
     },
     {
-        id: 3,
+        id: 1,
         name: "General Body Meeting #1",
         description: "",
         date: "Wed 10/07/2020 | 6-7:30PM",
