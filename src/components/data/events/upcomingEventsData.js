@@ -1,11 +1,11 @@
 const upcomingEventsData = [
     {
         id: 1,
-        name: "Lab Tips and Prep",
+        name: "Lab Open House",
         description: "",
-        date: "Wed 10/28/2020 | 5PM",
-        img: "fall2020/LabTipsWorkshop.png",
-        url: "https://fb.me/e/3A3TBlbBY",
+        date: "Wed 11/18/2020 | 5PM PT",
+        img: "fall2020/LabOpenHouse.png",
+        url: "#",
         zoom: "http://bit.ly/CSSA_Event"
     }
 ]
