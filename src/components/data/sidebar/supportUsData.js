@@ -7,7 +7,7 @@ const supportUsData = [
     {
         id: 2,
         title: "Follow Us on Social Media!",
-        url: "#social-media"
+        url: "https://linktr.ee/CSSA_UCSD"
     }
 ]
 

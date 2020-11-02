@@ -1,9 +1,9 @@
 const socialUpdatesData = [
     {
         id: 2,
-        title: "What is Cognitive Science?",
+        title: "Building Your Profile",
         type: "Medium",
-        url: "https://medium.com/@cssa.ucsd/what-exactly-is-cognitive-science-259ddd8b41d"
+        url: "https://cssa-ucsd.medium.com/building-your-profile-through-research-dc9d64ddf0cf"
     }
 ]
 

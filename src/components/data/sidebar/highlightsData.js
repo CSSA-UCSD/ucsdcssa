@@ -1,15 +1,15 @@
 const highlightsData = [
     {   
         id: 0,
-        title: "Lab Tips + Prep",
-        type: "Wed 10/28/2020 | 5PM",
-        url: "https://fb.me/e/3A3TBlbBY"
+        title: "Lab Open House",
+        type: "Wed 11/18/2020 | 5PM PT",
+        url: "#/events"
     },
     {   
         id: 1,
-        title: "October 2020 Newsletter",
+        title: "November 2020 Newsletter",
         type: "Newsletter",
-        url: "https://mailchi.mp/e2b243784871/cssa-october-newsletter?e=c1119fda9b"
+        url: "https://mailchi.mp/c65907283758/cssa-november-newsletter?e=c1119fda9b"
     },
     {
         id: 2,

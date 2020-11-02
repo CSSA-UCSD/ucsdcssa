@@ -21,7 +21,7 @@ const socialMedia = [
         id: 4,
         platform: "medium",
         icon: "fab fa-medium-m fa-lg white-text mr-md-5 mr-3 fa-2x",
-        url: "https://medium.com/@cssa.ucsd"
+        url: "https://cssa-ucsd.medium.com/"
     },
     {
         id: 5,
