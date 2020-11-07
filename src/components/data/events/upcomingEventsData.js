@@ -7,6 +7,9 @@ const upcomingEventsData = [
         img: "fall2020/CrossCampus.png",
         imgHover: "fall2020/CrossCampusSchedule.png",
         url: "https://fb.me/e/3avRebqph",
+        linkName1: "Register Here",
+        url2: "https://tinyurl.com/cogsci-mixer",
+        linkName2: "Interest Form",
         zoom: "https://tinyurl.com/cross-campus-mixer"
     },
     {
