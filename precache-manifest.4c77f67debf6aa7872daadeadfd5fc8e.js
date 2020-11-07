@@ -1,27 +1,35 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "dc0c1fdb7a12f1082ea7a19f60c519d0",
+    "revision": "d5fd959ba005a7bfa2cac2d8ff00cf35",
     "url": "/index.html"
   },
   {
-    "revision": "9a7867df02b707a8556a",
+    "revision": "771dbb73c05d68a9aee6",
     "url": "/static/css/main.957dd637.chunk.css"
   },
   {
-    "revision": "76efbf105a4642e36e00",
-    "url": "/static/js/2.02d87eee.chunk.js"
+    "revision": "3e83b3fcdfa0b8fae90e",
+    "url": "/static/js/2.350c59d4.chunk.js"
   },
   {
     "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/static/js/2.02d87eee.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.350c59d4.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "9a7867df02b707a8556a",
-    "url": "/static/js/main.8ef471e4.chunk.js"
+    "revision": "771dbb73c05d68a9aee6",
+    "url": "/static/js/main.a3b485c6.chunk.js"
   },
   {
     "revision": "73635f645c271e35ff15",
     "url": "/static/js/runtime-main.83c3e0c4.js"
+  },
+  {
+    "revision": "52e0a8cacfb1eec107a31b81751c2ef2",
+    "url": "/static/media/CrossCampus.52e0a8ca.png"
+  },
+  {
+    "revision": "8579b2dd301971da017e82e7f14b18ad",
+    "url": "/static/media/CrossCampusSchedule.8579b2dd.png"
   },
   {
     "revision": "ee0d092a17793ddd296bee3d80fb4c1d",
