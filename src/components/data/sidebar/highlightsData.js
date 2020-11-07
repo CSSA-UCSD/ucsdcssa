@@ -1,9 +1,9 @@
 const highlightsData = [
     {   
         id: 0,
-        title: "Lab Open House",
-        type: "Wed 11/18/2020 | 5PM PT",
-        url: "#/events"
+        title: "Cross Campus Mixer",
+        type: "Sat 11/14/2020 | 5PM PT",
+        url: "https://fb.me/e/3avRebqph"
     },
     {   
         id: 1,

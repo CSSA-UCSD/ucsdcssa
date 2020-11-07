@@ -19,7 +19,14 @@ class EventsCard extends React.Component {
                     <div className="events-info">
                         <a href={this.props.item.url} target="_blank" rel="noopener noreferrer">
                             <div className="events-image pb-3">
-                                <img src={ require(`../../../img/events/${this.props.item.img}`) } alt={this.props.item.name}></img>
+                                {this.props.item.imgHover ? 
+                                    <img src={ require(`../../../img/events/${this.props.item.img}`) } 
+                                        onMouseOver={e => (e.currentTarget.src = require(`../../../img/events/${this.props.item.imgHover}`) )}
+                                        onMouseOut={e => (e.currentTarget.src = require(`../../../img/events/${this.props.item.img}`) )}
+                                        alt={this.props.item.name}>
+                                    </img>
+                                    : <img src={ require(`../../../img/events/${this.props.item.img}`)} alt={this.props.item.name}></img>
+                                }
                             </div>
                         </a>
                         <div className="events-name">
