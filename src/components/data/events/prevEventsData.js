@@ -1,5 +1,14 @@
 const prevEventsData = [
     {
+        id: 5,
+        name: "Cross Campus Mixer",
+        description: "",
+        date: "Sat 11/14/2020 | 5PM PT",
+        img: "fall2020/CrossCampus.png",
+        imgHover: "fall2020/CrossCampusSchedule.png",
+        url: "https://fb.me/e/3avRebqph",
+    },
+    {
         id: 4,
         name: "Lab Tips and Prep",
         description: "",

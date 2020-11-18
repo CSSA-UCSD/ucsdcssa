@@ -1,9 +1,9 @@
 const socialUpdatesData = [
     {
         id: 2,
-        title: "Building Your Profile",
+        title: "Learning During a Pandemic",
         type: "Medium",
-        url: "https://cssa-ucsd.medium.com/building-your-profile-through-research-dc9d64ddf0cf"
+        url: "https://cssa-ucsd.medium.com/learning-during-a-pandemic-2bfec5d316dd"
     }
 ]
 
