@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c499ba307c3e23c9f4b2d7fd5174dc0a",
+    "revision": "6b246d9e729e124cc80cc16c50ab0663",
     "url": "/index.html"
   },
   {
-    "revision": "a0dfae4192ae6c169c6c",
+    "revision": "43145d9891bcfb2134da",
     "url": "/static/css/main.957dd637.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/2.350c59d4.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "a0dfae4192ae6c169c6c",
-    "url": "/static/js/main.ebbd585a.chunk.js"
+    "revision": "43145d9891bcfb2134da",
+    "url": "/static/js/main.ba58397c.chunk.js"
   },
   {
     "revision": "73635f645c271e35ff15",
@@ -46,6 +46,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "1ed6d67a124019883cfba630a3792239",
     "url": "/static/media/LabTipsWorkshop.1ed6d67a.png"
+  },
+  {
+    "revision": "97bc910d8c351e6e2f912b3353c44b53",
+    "url": "/static/media/PortfolioReview.97bc910d.png"
   },
   {
     "revision": "f128a7b46bb6263323cb0ad837634368",
