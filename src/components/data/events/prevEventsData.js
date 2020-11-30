@@ -1,4 +1,12 @@
 const prevEventsData = [
+     {
+        id: 6,
+        name: "Lab Open House",
+        description: "",
+        date: "Wed 11/18/2020 | 5PM PT",
+        img: "fall2020/LabOpenHouse.png",
+        url: "https://fb.me/e/1M1a694Ez",
+    },
     {
         id: 5,
         name: "Cross Campus Mixer",
