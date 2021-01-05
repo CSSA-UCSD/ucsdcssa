@@ -1,4 +1,13 @@
 const prevEventsData = [
+
+     {
+        id: 7,
+        name: "Portfolio Review",
+        description: "",
+        date: "Wed 12/2/2020 | 5PM PT",
+        img: "fall2020/PortfolioReview.png",
+        url: "https://fb.me/e/3UQnDvWsn",
+     },
      {
         id: 6,
         name: "Lab Open House",
