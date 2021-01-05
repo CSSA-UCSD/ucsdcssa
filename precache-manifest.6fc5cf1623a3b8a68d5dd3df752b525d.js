@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6b246d9e729e124cc80cc16c50ab0663",
+    "revision": "bdde8287f8314482581a6facef9b27a0",
     "url": "/index.html"
   },
   {
-    "revision": "43145d9891bcfb2134da",
+    "revision": "7b0ce179914aac03e9fa",
     "url": "/static/css/main.957dd637.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/2.350c59d4.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "43145d9891bcfb2134da",
-    "url": "/static/js/main.ba58397c.chunk.js"
+    "revision": "7b0ce179914aac03e9fa",
+    "url": "/static/js/main.7b25b1cf.chunk.js"
   },
   {
     "revision": "73635f645c271e35ff15",
@@ -30,6 +30,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "8579b2dd301971da017e82e7f14b18ad",
     "url": "/static/media/CrossCampusSchedule.8579b2dd.png"
+  },
+  {
+    "revision": "70bc75115640a94d7d30c3e9ad458bfd",
+    "url": "/static/media/DiscordHighlights.70bc7511.png"
   },
   {
     "revision": "ee0d092a17793ddd296bee3d80fb4c1d",
