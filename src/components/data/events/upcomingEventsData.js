@@ -3,9 +3,10 @@ const upcomingEventsData = [
         id: 1,
         name: "Discord Member Spotlights",
         description: "",
-        date: "Wed 12/2/2020 | 5PM PT",
+        date: "Fridays 1/8 - 2/12/2021 | 3PM PT",
         img: "winter2021/DiscordHighlights.png",
-        url: "https://fb.me/e/3UQnDvWsn",
+        url: "https://www.facebook.com/cssaatucsd/posts/3729861353733309",
+        zoom: "https://discord.gg/mEuaWtc",
     }
 ]
 
