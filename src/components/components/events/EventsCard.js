@@ -20,12 +20,12 @@ class EventsCard extends React.Component {
                         <a href={this.props.item.url} target="_blank" rel="noopener noreferrer">
                             <div className="events-image pb-3">
                                 {this.props.item.imgHover ? 
-                                    <img src={ require(`../../../img/events/${this.props.item.img}`) } 
-                                        onMouseOver={e => (e.currentTarget.src = require(`../../../img/events/${this.props.item.imgHover}`) )}
-                                        onMouseOut={e => (e.currentTarget.src = require(`../../../img/events/${this.props.item.img}`) )}
+                                    <img src={ require(`../../../img/events/${this.props.item.img}`).default } 
+                                        onMouseOver={e => (e.currentTarget.src = require(`../../../img/events/${this.props.item.imgHover}`).default )}
+                                        onMouseOut={e => (e.currentTarget.src = require(`../../../img/events/${this.props.item.img}`).default )}
                                         alt={this.props.item.name}>
                                     </img>
-                                    : <img src={ require(`../../../img/events/${this.props.item.img}`)} alt={this.props.item.name}></img>
+                                    : <img src={ require(`../../../img/events/${this.props.item.img}`).default} alt={this.props.item.name}></img>
                                 }
                             </div>
                         </a>
