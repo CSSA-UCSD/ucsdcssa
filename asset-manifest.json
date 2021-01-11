@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.b7169f4c.chunk.css",
-    "main.js": "/static/js/main.4c02845f.chunk.js",
-    "main.js.map": "/static/js/main.4c02845f.chunk.js.map",
+    "main.js": "/static/js/main.74b25ac4.chunk.js",
+    "main.js.map": "/static/js/main.74b25ac4.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.4d25ba2e.js",
     "runtime-main.js.map": "/static/js/runtime-main.4d25ba2e.js.map",
     "static/js/2.946804ce.chunk.js": "/static/js/2.946804ce.chunk.js",
@@ -15,6 +15,7 @@
     "static/media/DiscordHighlights.png": "/static/media/DiscordHighlights.980708ec.png",
     "static/media/GBM1.png": "/static/media/GBM1.ad10c1a8.png",
     "static/media/GeekGirl.png": "/static/media/GeekGirl.833d4c94.png",
+    "static/media/IntroToDataAnalytics.png": "/static/media/IntroToDataAnalytics.b17e6f1e.png",
     "static/media/LabOpenHouse.png": "/static/media/LabOpenHouse.54ab936f.png",
     "static/media/LabTipsWorkshop.png": "/static/media/LabTipsWorkshop.dd65e0a7.png",
     "static/media/PortfolioReview.png": "/static/media/PortfolioReview.eda53cb3.png",
@@ -58,6 +59,6 @@
     "static/js/runtime-main.4d25ba2e.js",
     "static/js/2.946804ce.chunk.js",
     "static/css/main.b7169f4c.chunk.css",
-    "static/js/main.4c02845f.chunk.js"
+    "static/js/main.74b25ac4.chunk.js"
   ]
 }
