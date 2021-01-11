@@ -1,9 +1,9 @@
 const highlightsData = [
     {   
         id: 0,
-        title: "Lab Open House",
-        type: "Wed 11/18/2020 | 5PM PT",
-        url: "https://fb.me/e/1M1a694Ez"
+        title: "Intro to Data Analytics with Python",
+        type: "Wed 1/13/2021 | 5PM PT",
+        url: "https://fb.me/e/12UyVTPJW"
     },
     {   
         id: 1,
