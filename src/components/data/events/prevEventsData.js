@@ -1,14 +1,23 @@
 const prevEventsData = [
 
-     {
+    {
+        id: 8,
+        name: "Introduction to Data Analytics with Python",
+        description: "",
+        date: "Wed 1/13/2021 | 5PM PT",
+        img: "winter2021/IntroToDataAnalytics.png",
+        slides: "https://cssa-ucsd.github.io/wi2021-data-analytics-python/#/",
+        zoom: "https://drive.google.com/file/d/1t4kpRnk6lNTjYiyeRjbrrAbRNDmgZkO8/view?usp=sharing_",
+    },
+    {
         id: 7,
         name: "Portfolio Review",
         description: "",
         date: "Wed 12/2/2020 | 5PM PT",
         img: "fall2020/PortfolioReview.png",
         url: "https://fb.me/e/3UQnDvWsn",
-     },
-     {
+    },
+    {
         id: 6,
         name: "Lab Open House",
         description: "",
