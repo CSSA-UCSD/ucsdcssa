@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.b7169f4c.chunk.css",
-    "main.js": "/static/js/main.74b25ac4.chunk.js",
-    "main.js.map": "/static/js/main.74b25ac4.chunk.js.map",
+    "main.js": "/static/js/main.9c6f8b63.chunk.js",
+    "main.js.map": "/static/js/main.9c6f8b63.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.4d25ba2e.js",
     "runtime-main.js.map": "/static/js/runtime-main.4d25ba2e.js.map",
     "static/js/2.946804ce.chunk.js": "/static/js/2.946804ce.chunk.js",
@@ -38,7 +38,6 @@
     "static/media/eventPlaceholder.jpg": "/static/media/eventPlaceholder.d7fdf3f2.jpg",
     "static/media/federicoRossano.png": "/static/media/federicoRossano.22d1f02c.png",
     "static/media/gbm.jpg": "/static/media/gbm.810ccf4b.jpg",
-    "static/media/group.jpg": "/static/media/group.16715255.jpg",
     "static/media/jess_formal.jpg": "/static/media/jess_formal.1bebe80c.jpg",
     "static/media/jess_fun.jpg": "/static/media/jess_fun.ddb30dcb.jpg",
     "static/media/laraRangel.jpg": "/static/media/laraRangel.791e7642.jpg",
@@ -59,6 +58,6 @@
     "static/js/runtime-main.4d25ba2e.js",
     "static/js/2.946804ce.chunk.js",
     "static/css/main.b7169f4c.chunk.css",
-    "static/js/main.74b25ac4.chunk.js"
+    "static/js/main.9c6f8b63.chunk.js"
   ]
 }
