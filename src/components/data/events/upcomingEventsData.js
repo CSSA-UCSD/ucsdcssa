@@ -1,5 +1,14 @@
 const upcomingEventsData = [
     {
+        id: 2,
+        name: "Winter Quarter Game Night",
+        description: "",
+        date: "Fri 1/22/2021 | 5PM PT",
+        img: "winter2021/WinterSocial.png",
+        url: "https://fb.me/e/1UJMgxfvO",
+        zoom: "http://bit.ly/CSSA_Event",
+    },
+    {
         id: 1,
         name: "Discord Member Spotlights",
         description: "",
