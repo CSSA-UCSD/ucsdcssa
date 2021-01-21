@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/static/css/main.b7169f4c.chunk.css",
-    "main.js": "/static/js/main.baddf84c.chunk.js",
-    "main.js.map": "/static/js/main.baddf84c.chunk.js.map",
+    "main.js": "/static/js/main.186a6fb0.chunk.js",
+    "main.js.map": "/static/js/main.186a6fb0.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.4d25ba2e.js",
     "runtime-main.js.map": "/static/js/runtime-main.4d25ba2e.js.map",
-    "static/js/2.946804ce.chunk.js": "/static/js/2.946804ce.chunk.js",
-    "static/js/2.946804ce.chunk.js.map": "/static/js/2.946804ce.chunk.js.map",
+    "static/js/2.14abd55d.chunk.js": "/static/js/2.14abd55d.chunk.js",
+    "static/js/2.14abd55d.chunk.js.map": "/static/js/2.14abd55d.chunk.js.map",
     "index.html": "/index.html",
     "static/css/main.b7169f4c.chunk.css.map": "/static/css/main.b7169f4c.chunk.css.map",
-    "static/js/2.946804ce.chunk.js.LICENSE.txt": "/static/js/2.946804ce.chunk.js.LICENSE.txt",
+    "static/js/2.14abd55d.chunk.js.LICENSE.txt": "/static/js/2.14abd55d.chunk.js.LICENSE.txt",
     "static/media/CrossCampus.png": "/static/media/CrossCampus.bc8533b0.png",
     "static/media/CrossCampusSchedule.png": "/static/media/CrossCampusSchedule.55768bf2.png",
     "static/media/DiscordHighlights.png": "/static/media/DiscordHighlights.980708ec.png",
@@ -57,8 +57,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.4d25ba2e.js",
-    "static/js/2.946804ce.chunk.js",
+    "static/js/2.14abd55d.chunk.js",
     "static/css/main.b7169f4c.chunk.css",
-    "static/js/main.baddf84c.chunk.js"
+    "static/js/main.186a6fb0.chunk.js"
   ]
 }
