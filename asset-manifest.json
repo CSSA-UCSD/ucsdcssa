@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.b7169f4c.chunk.css",
-    "main.js": "/static/js/main.9c6f8b63.chunk.js",
-    "main.js.map": "/static/js/main.9c6f8b63.chunk.js.map",
+    "main.js": "/static/js/main.baddf84c.chunk.js",
+    "main.js.map": "/static/js/main.baddf84c.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.4d25ba2e.js",
     "runtime-main.js.map": "/static/js/runtime-main.4d25ba2e.js.map",
     "static/js/2.946804ce.chunk.js": "/static/js/2.946804ce.chunk.js",
@@ -21,6 +21,7 @@
     "static/media/PortfolioReview.png": "/static/media/PortfolioReview.eda53cb3.png",
     "static/media/Social1.gif": "/static/media/Social1.c383121d.gif",
     "static/media/main.scss": "/static/media/Wavehaus-95SemiBold.4e467f6b.otf",
+    "static/media/WinterSocial.png": "/static/media/WinterSocial.b8339c62.png",
     "static/media/Wordmark_Dark.9253ace5.svg": "/static/media/Wordmark_Dark.9253ace5.svg",
     "static/media/aditi_formal.jpg": "/static/media/aditi_formal.689586c0.jpg",
     "static/media/aditi_fun.jpg": "/static/media/aditi_fun.bd46de70.jpg",
@@ -58,6 +59,6 @@
     "static/js/runtime-main.4d25ba2e.js",
     "static/js/2.946804ce.chunk.js",
     "static/css/main.b7169f4c.chunk.css",
-    "static/js/main.9c6f8b63.chunk.js"
+    "static/js/main.baddf84c.chunk.js"
   ]
 }
