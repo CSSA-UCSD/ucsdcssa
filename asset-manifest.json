@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.b7169f4c.chunk.css",
-    "main.js": "/static/js/main.186a6fb0.chunk.js",
-    "main.js.map": "/static/js/main.186a6fb0.chunk.js.map",
+    "main.js": "/static/js/main.24e448a4.chunk.js",
+    "main.js.map": "/static/js/main.24e448a4.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.4d25ba2e.js",
     "runtime-main.js.map": "/static/js/runtime-main.4d25ba2e.js.map",
     "static/js/2.14abd55d.chunk.js": "/static/js/2.14abd55d.chunk.js",
@@ -19,7 +19,10 @@
     "static/media/LabOpenHouse.png": "/static/media/LabOpenHouse.54ab936f.png",
     "static/media/LabTipsWorkshop.png": "/static/media/LabTipsWorkshop.dd65e0a7.png",
     "static/media/PortfolioReview.png": "/static/media/PortfolioReview.eda53cb3.png",
+    "static/media/Raffle.png": "/static/media/Raffle.e4a8f01d.png",
     "static/media/Social1.gif": "/static/media/Social1.c383121d.gif",
+    "static/media/TalkSeries_ML.png": "/static/media/TalkSeries_ML.9a34f494.png",
+    "static/media/TalkSeries_Neuro.png": "/static/media/TalkSeries_Neuro.20022c84.png",
     "static/media/main.scss": "/static/media/Wavehaus-95SemiBold.4e467f6b.otf",
     "static/media/WinterSocial.png": "/static/media/WinterSocial.b8339c62.png",
     "static/media/Wordmark_Dark.9253ace5.svg": "/static/media/Wordmark_Dark.9253ace5.svg",
@@ -59,6 +62,6 @@
     "static/js/runtime-main.4d25ba2e.js",
     "static/js/2.14abd55d.chunk.js",
     "static/css/main.b7169f4c.chunk.css",
-    "static/js/main.186a6fb0.chunk.js"
+    "static/js/main.24e448a4.chunk.js"
   ]
 }
