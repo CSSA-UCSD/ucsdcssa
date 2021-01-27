@@ -1,9 +1,9 @@
 const socialUpdatesData = [
     {
         id: 2,
-        title: "Learning During a Pandemic",
+        title: "Choosing a Minor",
         type: "Medium",
-        url: "https://cssa-ucsd.medium.com/learning-during-a-pandemic-2bfec5d316dd"
+        url: "https://cssa-ucsd.medium.com/choosing-a-minor-as-cognitive-science-students-94156a9d1bd7"
     }
 ]
 

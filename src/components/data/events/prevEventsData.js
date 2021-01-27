@@ -1,6 +1,14 @@
 const prevEventsData = [
 
     {
+        id: 9,
+        name: "Winter Quarter Game Night",
+        description: "",
+        date: "Fri 1/22/2021 | 5PM PT",
+        img: "winter2021/WinterSocial.png",
+        url: "https://fb.me/e/1UJMgxfvO",
+    },
+    {
         id: 8,
         name: "Introduction to Data Analytics with Python",
         description: "",
