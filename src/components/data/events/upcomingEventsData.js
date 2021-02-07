@@ -1,20 +1,11 @@
 const upcomingEventsData = [
     {
-        id: 4,
-        name: "Talk Series #2: Machine Learning",
+        id: 5,
+        name: "Talk Series #3: Design + Interaction",
         description: "",
-        date: "Wed 2/3/2021 | 5pm",
-        img: "winter2021/TalkSeries_ML.png",
-        url: "#",
-        zoom: "http://bit.ly/CSSA_Event",
-    },
-    {
-        id: 3,
-        name: "Talk Series #1: Neuroscience + CBN",
-        description: "",
-        date: "Wed 1/27/2021 | 5PM",
-        img: "winter2021/TalkSeries_Neuro.png",
-        url: "https://fb.me/e/2gLAxHDPd",
+        date: "Wed 2/10/2021 | 5pm",
+        img: "winter2021/TalkSeries_DI.png",
+        url: "https://fb.me/e/24QWpmWSg",
         zoom: "http://bit.ly/CSSA_Event",
     },
     {

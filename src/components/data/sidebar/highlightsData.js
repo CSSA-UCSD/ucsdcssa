@@ -7,9 +7,9 @@ const highlightsData = [
     },
     {   
         id: 1,
-        title: "January 2021 Newsletter",
+        title: "February 2021 Newsletter",
         type: "Newsletter",
-        url: "https://mailchi.mp/ebb54a78a121/cssa-january-newsletter?e=c1119fda9b"
+        url: "https://mailchi.mp/b234312c45c5/cssa-february-newsletter?e=c1119fda9b"
     },
     {
         id: 2,

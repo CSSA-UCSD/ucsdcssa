@@ -1,6 +1,23 @@
 const prevEventsData = [
 
     {
+        id: 11,
+        name: "Talk Series #2: Machine Learning",
+        description: "",
+        date: "Wed 2/3/2021 | 5pm",
+        img: "winter2021/TalkSeries_ML.png",
+        url: "https://www.facebook.com/groups/ucsdbrains/permalink/3988608454496424/",
+    },
+    {
+        id: 10,
+        name: "Talk Series #1: Neuroscience + CBN",
+        description: "",
+        date: "Wed 1/27/2021 | 5PM",
+        img: "winter2021/TalkSeries_Neuro.png",
+        url: "https://fb.me/e/2gLAxHDPd",
+        zoom: "https://drive.google.com/file/d/1mLthE6tpFuQ3oGNys_trAOqerOg9dTb-/view?fbclid=IwAR3vBq5Qbh_LePm5aAOZZyEB-fvl8WU8NFFlXmrQX0Saj4Pdl_xtYxyRuc4"
+    },
+    {
         id: 9,
         name: "Winter Quarter Game Night",
         description: "",
@@ -24,6 +41,7 @@ const prevEventsData = [
         date: "Wed 12/2/2020 | 5PM PT",
         img: "fall2020/PortfolioReview.png",
         url: "https://fb.me/e/3UQnDvWsn",
+        slides: "https://docs.google.com/presentation/d/1FuxrrVrrdhMHjK863Iju4vjEsk3FXB2R85jKtDB6wkg/edit?usp=sharing"
     },
     {
         id: 6,
