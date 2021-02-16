@@ -1,5 +1,13 @@
 const prevEventsData = [
-
+    {
+        id: 12,
+        name: "Talk Series #3: Design + Interaction",
+        description: "",
+        date: "Wed 2/10/2021 | 5pm",
+        img: "winter2021/TalkSeries_DI.png",
+        url: "https://fb.me/e/24QWpmWSg",
+        zoom: "https://drive.google.com/file/d/1mxhekSU7bw4T5SP-rcB9gapyYPcklJbi/view?usp=sharing"
+    },
     {
         id: 11,
         name: "Talk Series #2: Machine Learning",
@@ -7,6 +15,7 @@ const prevEventsData = [
         date: "Wed 2/3/2021 | 5pm",
         img: "winter2021/TalkSeries_ML.png",
         url: "https://www.facebook.com/groups/ucsdbrains/permalink/3988608454496424/",
+        zoom: "https://drive.google.com/file/d/1hbjr-OAZSkDFKOhK76crwhbaRSVEP44i/view"
     },
     {
         id: 10,
