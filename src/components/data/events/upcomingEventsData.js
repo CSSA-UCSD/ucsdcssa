@@ -1,14 +1,5 @@
 const upcomingEventsData = [
     {
-        id: 3,
-        name: "Talk Series #4: Clinical Aspects + Language and Culture",
-        description: "",
-        date: "Wed 2/17/2021 | 5pm",
-        img: "winter2021/TalkSeries_Lang.png",
-        url: "https://fb.me/e/8xVEHDo7V",
-        zoom: "http://bit.ly/CSSA_Event",
-    },
-    {
         id: 2,
         name: "Enter Our Raffle!",
         description: "",

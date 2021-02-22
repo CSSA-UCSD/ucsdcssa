@@ -1,5 +1,14 @@
 const prevEventsData = [
     {
+        id: 13,
+        name: "Talk Series #4: Clinical Aspects + Language and Culture",
+        description: "",
+        date: "Wed 2/17/2021 | 5pm",
+        img: "winter2021/TalkSeries_Lang.png",
+        url: "https://fb.me/e/8xVEHDo7V",
+        zoom: "https://drive.google.com/file/d/1SQVnixgOIeBns1Y1oEwD083i5K37uxPa/view"
+    },
+    {
         id: 12,
         name: "Talk Series #3: Design + Interaction",
         description: "",
