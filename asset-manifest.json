@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.b7169f4c.chunk.css",
-    "main.js": "/static/js/main.5a5e30bc.chunk.js",
-    "main.js.map": "/static/js/main.5a5e30bc.chunk.js.map",
+    "main.js": "/static/js/main.2c6540c9.chunk.js",
+    "main.js.map": "/static/js/main.2c6540c9.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.4d25ba2e.js",
     "runtime-main.js.map": "/static/js/runtime-main.4d25ba2e.js.map",
     "static/js/2.14abd55d.chunk.js": "/static/js/2.14abd55d.chunk.js",
@@ -22,6 +22,7 @@
     "static/media/Raffle.png": "/static/media/Raffle.e4a8f01d.png",
     "static/media/Social1.gif": "/static/media/Social1.c383121d.gif",
     "static/media/TalkSeries_DI.png": "/static/media/TalkSeries_DI.569e9047.png",
+    "static/media/TalkSeries_Lang.png": "/static/media/TalkSeries_Lang.ea1684cc.png",
     "static/media/TalkSeries_ML.png": "/static/media/TalkSeries_ML.9a34f494.png",
     "static/media/TalkSeries_Neuro.png": "/static/media/TalkSeries_Neuro.20022c84.png",
     "static/media/main.scss": "/static/media/Wavehaus-95SemiBold.4e467f6b.otf",
@@ -63,6 +64,6 @@
     "static/js/runtime-main.4d25ba2e.js",
     "static/js/2.14abd55d.chunk.js",
     "static/css/main.b7169f4c.chunk.css",
-    "static/js/main.5a5e30bc.chunk.js"
+    "static/js/main.2c6540c9.chunk.js"
   ]
 }
