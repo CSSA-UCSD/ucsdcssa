@@ -20,6 +20,9 @@ class Navbar extends React.Component {
                                 <li className='nav-item'>
                                     <Link to='/involvement' className='nav-link'>Involvement</Link>
                                 </li>
+                                <li className='nav-item'>
+                                    <a href='https://cssa-ucsd.github.io/conference2021/' target='_blank' className='nav-link' rel="noopener noreferrer">Conference</a>
+                                </li>
                             </ul>
                         </div>
                     </div>

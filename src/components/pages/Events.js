@@ -6,6 +6,7 @@ import Archives from "../components/events/Archives";
 import archivesData from "../data/events/archivesData";
 import prevEventsData from "../data/events/prevEventsData";
 import upcomingEventsData from "../data/events/upcomingEventsData";
+import conference2021 from "../../img/events/conference2021.png";
 import AOS from "aos";
 
 class Events extends React.Component {
@@ -34,6 +35,12 @@ class Events extends React.Component {
                 <div className="events-section-title">
                     <h2>Upcoming Events</h2>
                     <hr></hr>
+                </div>
+                <div className="events-conference row">
+                    <a href="https://cssa-ucsd.github.io/conference2021/" target="_blank" rel="noopener noreferrer">
+                        <img src={conference2021} alt="Cognitive Science Conference 2021"></img>
+                        <hr></hr>
+                    </a>
                 </div>
                 <div className="events-section row">
                     {upcomingComponent}
