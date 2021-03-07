@@ -3,7 +3,7 @@ const highlightsData = [
         id: 0,
         title: "More Information",
         type: "2021 National Cognitive Science Conference",
-        url: "conference.cssa-ucsd.org/"
+        url: "http://conference.cssa-ucsd.org/"
     },
     {   
         id: 1,
