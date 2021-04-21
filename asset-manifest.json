@@ -1,18 +1,20 @@
 {
   "files": {
     "main.css": "/static/css/main.916c7ef2.chunk.css",
-    "main.js": "/static/js/main.6b91afb3.chunk.js",
-    "main.js.map": "/static/js/main.6b91afb3.chunk.js.map",
+    "main.js": "/static/js/main.bc5427e3.chunk.js",
+    "main.js.map": "/static/js/main.bc5427e3.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.4d25ba2e.js",
     "runtime-main.js.map": "/static/js/runtime-main.4d25ba2e.js.map",
-    "static/js/2.62a999a6.chunk.js": "/static/js/2.62a999a6.chunk.js",
-    "static/js/2.62a999a6.chunk.js.map": "/static/js/2.62a999a6.chunk.js.map",
+    "static/js/2.c5a882d4.chunk.js": "/static/js/2.c5a882d4.chunk.js",
+    "static/js/2.c5a882d4.chunk.js.map": "/static/js/2.c5a882d4.chunk.js.map",
     "index.html": "/index.html",
     "static/css/main.916c7ef2.chunk.css.map": "/static/css/main.916c7ef2.chunk.css.map",
-    "static/js/2.62a999a6.chunk.js.LICENSE.txt": "/static/js/2.62a999a6.chunk.js.LICENSE.txt",
+    "static/js/2.c5a882d4.chunk.js.LICENSE.txt": "/static/js/2.c5a882d4.chunk.js.LICENSE.txt",
+    "static/media/Conference.png": "/static/media/Conference.aedebbd0.png",
     "static/media/CrossCampus.png": "/static/media/CrossCampus.bc8533b0.png",
     "static/media/CrossCampusSchedule.png": "/static/media/CrossCampusSchedule.55768bf2.png",
     "static/media/DiscordHighlights.png": "/static/media/DiscordHighlights.980708ec.png",
+    "static/media/ExecApps.png": "/static/media/ExecApps.e58f2a35.png",
     "static/media/GBM1.png": "/static/media/GBM1.ad10c1a8.png",
     "static/media/GeekGirl.png": "/static/media/GeekGirl.833d4c94.png",
     "static/media/IntroToDataAnalytics.png": "/static/media/IntroToDataAnalytics.b17e6f1e.png",
@@ -45,6 +47,7 @@
     "static/media/eventPlaceholder.jpg": "/static/media/eventPlaceholder.d7fdf3f2.jpg",
     "static/media/federicoRossano.png": "/static/media/federicoRossano.22d1f02c.png",
     "static/media/gbm.jpg": "/static/media/gbm.810ccf4b.jpg",
+    "static/media/group.jpg": "/static/media/group.16715255.jpg",
     "static/media/jess_formal.jpg": "/static/media/jess_formal.1bebe80c.jpg",
     "static/media/jess_fun.jpg": "/static/media/jess_fun.ddb30dcb.jpg",
     "static/media/laraRangel.jpg": "/static/media/laraRangel.791e7642.jpg",
@@ -63,8 +66,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.4d25ba2e.js",
-    "static/js/2.62a999a6.chunk.js",
+    "static/js/2.c5a882d4.chunk.js",
     "static/css/main.916c7ef2.chunk.css",
-    "static/js/main.6b91afb3.chunk.js"
+    "static/js/main.bc5427e3.chunk.js"
   ]
 }
