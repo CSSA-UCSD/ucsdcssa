@@ -1,20 +1,11 @@
 const upcomingEventsData = [
     {
-        id: 2,
-        name: "Enter Our Raffle!",
-        description: "",
-        date: "Winter Quarter Events",
-        img: "winter2021/Raffle.png",
-        url: "https://www.facebook.com/cssaatucsd/posts/3776105149108929",
-    },
-    {
         id: 1,
-        name: "Discord Member Spotlights",
+        name: "2021 - 2022 Executive Board Applications",
         description: "",
-        date: "Fri's 1/8 - 2/12/2021 | 3PM PT",
-        img: "winter2021/DiscordHighlights.png",
-        url: "https://www.facebook.com/cssaatucsd/posts/3729861353733309",
-        zoom: "https://discord.gg/mEuaWtc",
+        date: "Apply by Fri, 4/30/2021",
+        img: "spring2021/ExecApps.png",
+        url: "https://www.facebook.com/groups/ucsdbrains/permalink/4214111275279473/",
     }
 ]
 

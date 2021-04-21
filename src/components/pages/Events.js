@@ -36,12 +36,6 @@ class Events extends React.Component {
                     <h2>Upcoming Events</h2>
                     <hr></hr>
                 </div>
-                <div className="events-conference row">
-                    <a href="https://cssa-ucsd.github.io/conference2021/" target="_blank" rel="noopener noreferrer">
-                        <img src={conference2021} alt="Cognitive Science Conference 2021"></img>
-                        <hr></hr>
-                    </a>
-                </div>
                 <div className="events-section row">
                     {upcomingComponent}
                 </div>

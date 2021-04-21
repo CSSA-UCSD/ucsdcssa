@@ -1,5 +1,14 @@
 const prevEventsData = [
     {
+        id: 14,
+        name: "2021 National Cognitive Science Conference",
+        description: "",
+        date: "Mon-Wed 4/5 - 4/7/2021 | 5pm",
+        img: "spring2021/Conference.png",
+        url: "https://cssa-ucsd.github.io/conference2021//#/",
+        zoom: "https://cssa-ucsd.github.io/conference2021//#/schedule"
+    },
+    {
         id: 13,
         name: "Talk Series #4: Clinical Aspects + Language and Culture",
         description: "",

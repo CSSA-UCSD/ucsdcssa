@@ -25,7 +25,9 @@ const involvementData = [
         id: 4,
         level: "high",
         name: "Executive Board Members",
-        description: "Our 2021-2022 Executive Board member applications will be posted in Spring.",
+        description: "Become an even more involved part of CSSA, and help organize incredible events working with fellow Cog Sci students and interacting with staff, guest speakers and more! We encourage anyone interested to apply! Applications open TODAY and will close on April 30th, the Friday of Week 5. Find more detailed information on the position duties linked in the Online Application form below.",
+        urltitle: "Apply Today",
+        url: "https://tinyurl.com/cssaboardapply"
     }
 ]
 
