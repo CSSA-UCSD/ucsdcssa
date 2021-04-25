@@ -6,7 +6,7 @@ import Archives from "../components/events/Archives";
 import archivesData from "../data/events/archivesData";
 import prevEventsData from "../data/events/prevEventsData";
 import upcomingEventsData from "../data/events/upcomingEventsData";
-import conference2021 from "../../img/events/conference2021.png";
+import Collapsible from 'react-collapsible';
 import AOS from "aos";
 
 class Events extends React.Component {
@@ -20,6 +20,20 @@ class Events extends React.Component {
         const upcomingComponent = upcomingEventsData.map(item => < EventsCard key={item.id} item={item}/>);
         const archivesComponent = archivesData.map(item => < Archives key={item.id} item={item}/>);
         const previousComponent = prevEventsData.map(item => < PrevEventsCard key={item.id} item={item}/>);
+        const App = () => {
+            return (
+              <Collapsible trigger="Start here">
+                <p>
+                  This is the collapsible content. It can be any element or React
+                  component you like.
+                </p>
+                <p>
+                  It can even be another Collapsible component. Check out the next
+                  section!
+                </p>
+              </Collapsible>
+            );
+          };
         return (
             <div className="container events">
                 <div className="row">
@@ -45,6 +59,14 @@ class Events extends React.Component {
                 </div>
                 <div className="events-section row">
                     {previousComponent}
+                </div>
+                <div className="events-section-title">
+                <Collapsible className="events-section-title" trigger={<h2>2020-2021 Events</h2>}>
+                    <div className="events-section row">
+                            {previousComponent}
+                    </div> 
+                </Collapsible>
+                <hr></hr>
                 </div>
                 <div className="events-section-title">
                     <h2>Archives</h2>
