@@ -62,6 +62,7 @@ class Events extends React.Component {
                 </div>
                 <div className="events-section-title">
                 <Collapsible className="events-section-title" trigger={<h2>2020-2021 Events</h2>}>
+                    <hr></hr>
                     <div className="events-section row">
                             {previousComponent}
                     </div> 

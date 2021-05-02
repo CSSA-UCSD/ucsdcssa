@@ -81,6 +81,10 @@
     */
 }
 
+.Collapsible:hover {
+    cursor: pointer;
+}
+
 .Collapsible__trigger {
     display: block;
     text-decoration: none;
@@ -88,7 +92,7 @@
   
     &:after {
       font-family: 'FontAwesome';
-      content: '&#8721';
+      content: '\f107';
       position: absolute;
       right: 10px;
       top: 10px;
