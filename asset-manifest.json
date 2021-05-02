@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.916c7ef2.chunk.css",
-    "main.js": "/static/js/main.bc5427e3.chunk.js",
-    "main.js.map": "/static/js/main.bc5427e3.chunk.js.map",
+    "main.js": "/static/js/main.08a23532.chunk.js",
+    "main.js.map": "/static/js/main.08a23532.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.4d25ba2e.js",
     "runtime-main.js.map": "/static/js/runtime-main.4d25ba2e.js.map",
     "static/js/2.c5a882d4.chunk.js": "/static/js/2.c5a882d4.chunk.js",
@@ -23,6 +23,7 @@
     "static/media/PortfolioReview.png": "/static/media/PortfolioReview.eda53cb3.png",
     "static/media/Raffle.png": "/static/media/Raffle.e4a8f01d.png",
     "static/media/Social1.gif": "/static/media/Social1.c383121d.gif",
+    "static/media/SummerWorkshop.png": "/static/media/SummerWorkshop.0c20b351.png",
     "static/media/TalkSeries_DI.png": "/static/media/TalkSeries_DI.569e9047.png",
     "static/media/TalkSeries_Lang.png": "/static/media/TalkSeries_Lang.ea1684cc.png",
     "static/media/TalkSeries_ML.png": "/static/media/TalkSeries_ML.9a34f494.png",
@@ -68,6 +69,6 @@
     "static/js/runtime-main.4d25ba2e.js",
     "static/js/2.c5a882d4.chunk.js",
     "static/css/main.916c7ef2.chunk.css",
-    "static/js/main.bc5427e3.chunk.js"
+    "static/js/main.08a23532.chunk.js"
   ]
 }
