@@ -1,5 +1,13 @@
 const upcomingEventsData = [
     {
+        id: 2,
+        name: "Making the Most of This Summer",
+        description: "",
+        date: "Wed, 5/05/2021",
+        img: "spring2021/SummerWorkshop.png",
+        url: "https://fb.me/e/hSZcRLU4s",
+    },
+    {
         id: 1,
         name: "2021 - 2022 Executive Board Applications",
         description: "",
