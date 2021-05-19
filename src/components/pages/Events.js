@@ -6,7 +6,6 @@ import Archives from "../components/events/Archives";
 import archivesData from "../data/events/archivesData";
 import prevEventsData from "../data/events/prevEventsData";
 import upcomingEventsData from "../data/events/upcomingEventsData";
-import conference2021 from "../../img/events/conference2021.png";
 import AOS from "aos";
 
 class Events extends React.Component {
