@@ -1,11 +1,11 @@
 const upcomingEventsData = [
     {
         id: 2,
-        name: "Making the Most of This Summer",
+        name: "Mock Interviews",
         description: "",
-        date: "Wed, 5/05/2021",
-        img: "spring2021/SummerWorkshop.png",
-        url: "https://fb.me/e/hSZcRLU4s",
+        date: "Wed, 5/19/2021 | 5pm",
+        img: "spring2021/MockInterviewWorkshop.png",
+        url: "https://fb.me/e/QtSFsbcI",
     },
     {
         id: 1,

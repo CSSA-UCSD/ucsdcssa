@@ -1,5 +1,13 @@
 const prevEventsData = [
     {
+        id: 15,
+        name: "Making the Most of This Summer",
+        description: "",
+        date: "Wed, 5/05/2021 | 5pm",
+        img: "spring2021/SummerWorkshop.png",
+        url: "https://fb.me/e/hSZcRLU4s"
+    },
+    {
         id: 14,
         name: "2021 National Cognitive Science Conference",
         description: "",
