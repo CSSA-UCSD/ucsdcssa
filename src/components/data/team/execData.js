@@ -22,8 +22,8 @@ const execData = [
         name: "Kelly Nham",
         position: "Marketing Chair",
         year: "2023",
-        img: "exec_2020_2021/luke_formal.jpg",
-        imgHover: "exec_2020_2021/luke_fun.jpg",
+        img: "advisors/blank.png",
+        imgHover: "advisors/blank.png",
         url: "https://www.facebook.com/webraincogsci"
     },
     {

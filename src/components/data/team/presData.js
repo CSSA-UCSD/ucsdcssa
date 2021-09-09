@@ -4,8 +4,8 @@ const presData = [
         name: "Drake Coy", 
         position: "President",
         year: "2023",
-        img: "exec_2020_2021/daniel_formal.jpg",
-        imgHover: "exec_2020_2021/daniel_fun.jpg",
+        img: "advisors/blank.png",
+        imgHover: "advisors/blank.png",
         url: "https://www.facebook.com/webraincogsci"
     },
     {
@@ -13,8 +13,8 @@ const presData = [
         name: "Luke Sztajnkrycer",
         position: "Vice-President",
         year: "2023",
-        img: "exec_2020_2021/samantha_formal.jpg",
-        imgHover: "exec_2020_2021/samantha_fun.jpg",
+        img: "advisors/blank.png",
+        imgHover: "advisors/blank.png",
         url: "https://www.facebook.com/webraincogsci"
     }
 ]
