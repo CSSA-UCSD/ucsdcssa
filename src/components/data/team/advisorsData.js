@@ -14,14 +14,6 @@ const advisorsData = [
         img: "advisors/federicoRossano.png",
         imgHover: "advisors/federicoRossano.png",
         url: "https://www.facebook.com/webraincogsci"
-    },
-    {
-        id: 3,
-        name: "Seana Coulson",
-        position: "Professor",
-        img: "advisors/blank.png",
-        imgHover: "advisors/blank.png",
-        url: "https://www.facebook.com/webraincogsci"
     }
 ]
 

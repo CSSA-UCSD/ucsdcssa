@@ -15,7 +15,7 @@ class Team extends React.Component {
                 <div className="container">
                     <h1>Meet the Team</h1>
                     <div className="team-exec">
-                        <h2>2020-2021 Executive Board</h2>
+                        <h2>2021-2022 Executive Board</h2>
                         <hr></hr>
                         <div className="row justify-content-center">
                             {PresComponent}
@@ -27,7 +27,7 @@ class Team extends React.Component {
                     <div className="team-advisors">
                         <h2>Advisors</h2>
                         <hr></hr>
-                        <div className="row">
+                        <div className="row justify-content-center">
                             {AdvisorsComponent}
                         </div>
                     </div>
