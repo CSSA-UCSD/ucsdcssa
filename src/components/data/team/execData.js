@@ -30,7 +30,7 @@ const execData = [
         id: 6,
         name: "Laura Charria",
         position: "Marketing Chair",
-        year: "2021",
+        year: "2024",
         img: "advisors/blank.png",
         imgHover: "advisors/blank.png",
         url: "https://www.facebook.com/webraincogsci"
