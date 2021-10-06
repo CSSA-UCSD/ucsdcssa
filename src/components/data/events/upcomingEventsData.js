@@ -1,20 +1,20 @@
 const upcomingEventsData = [
     {
-        id: 9,
+        id: 10,
         name: "Study Jam",
         date: "Tues, 11/30/2021",
         img: "",
         url: "",
     },
     {
-        id: 8,
+        id: 9,
         name: "Fundraiser #3",
         date: "Wed, 11/17/2021",
         img: "",
         url: "",
     },
     {
-        id: 7,
+        id: 8,
         name: "Workshop #2",
         date: "Tues, 11/16/2021",
         img: "",
