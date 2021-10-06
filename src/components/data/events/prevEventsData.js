@@ -3,7 +3,7 @@ const prevEventsData = [
         id: 18,
         name: "GBM #1",
         description: "",
-        date: "Tues, 10/4/2021 | 6-7pm",
+        date: "Tues, 10/5/2021 | 6-7pm",
         img: "fall2021/GBM1_IG.png",
         url: "https://www.facebook.com/events/4611675402217002/?ti=ls",
         slides: "https://docs.google.com/presentation/d/1bMrU6Y-WEFJd2TzvXV92lcrkJHY-iwDL5KKUCpvF5Y4/edit?usp=sharing"
