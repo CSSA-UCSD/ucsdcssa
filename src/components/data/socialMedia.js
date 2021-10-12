@@ -3,7 +3,7 @@ const socialMedia = [
         id: 1,
         platform: "facebook",
         icon: "fab fa-facebook-f fa-lg black-text mr-md-5 mr-3 fa-2x",
-        url: "https://www.facebook.com/webraincogsci"
+        url: "https://www.facebook.com/cssaatucsd/"
     },
     {
         id: 2,
