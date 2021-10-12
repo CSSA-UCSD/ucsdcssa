@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e072d9c6f26294dadcdfa45a66c2f112",
+    "revision": "9285c4b599c8371b42194c29738daae1",
     "url": "/index.html"
   },
   {
-    "revision": "1747df092acb8165018c",
+    "revision": "a570a56638eeb282b6da",
     "url": "/static/css/main.bc0acb6e.chunk.css"
   },
   {
-    "revision": "647f69e0107c73465157",
-    "url": "/static/js/2.5362ff1a.chunk.js"
+    "revision": "da65cfe16bc70e3ed6d6",
+    "url": "/static/js/2.385d806a.chunk.js"
   },
   {
     "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/static/js/2.5362ff1a.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.385d806a.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "1747df092acb8165018c",
-    "url": "/static/js/main.812297c8.chunk.js"
+    "revision": "a570a56638eeb282b6da",
+    "url": "/static/js/main.ab32b4d1.chunk.js"
   },
   {
     "revision": "73635f645c271e35ff15",
@@ -84,6 +84,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/Social1.f128a7b4.gif"
   },
   {
+    "revision": "47ad8f8d906689e966536a9b4199c4a5",
+    "url": "/static/media/Social1_IG.47ad8f8d.png"
+  },
+  {
     "revision": "5df9bdeec60560d3fa404880469930c7",
     "url": "/static/media/SummerWorkshop.5df9bdee.png"
   },
@@ -114,6 +118,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "bb5e2b9c5714221d2c702b2eeb99127d",
     "url": "/static/media/Wordmark_Dark.bb5e2b9c.svg"
+  },
+  {
+    "revision": "cb5a5767c220755b3b964a80022cccdb",
+    "url": "/static/media/Workshop1_IG.cb5a5767.png"
   },
   {
     "revision": "83246efd7c35ade90945fcd2a334a9fa",
