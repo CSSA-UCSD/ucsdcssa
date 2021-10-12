@@ -74,7 +74,7 @@ const execData = [
     {
         id: 11,
         name: "Sam Yuen",
-        position: "Photographer/Videographer",
+        position: "Content Producer",
         year: "2023",
         img: "exec_2021_2022/sam.jpeg",
         imgHover: "exec_2021_2022/sam_hover.jpeg",
