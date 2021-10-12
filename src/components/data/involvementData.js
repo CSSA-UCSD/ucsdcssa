@@ -5,7 +5,8 @@ const involvementData = [
         name: "General Membership",
         description: "Join our community by staying up to date with our events through our monthly newsletter. No commitment required.",
         urltitle: "Join Our Newsletter",
-        url: "http://eepurl.com/cHcDp1"
+        url: "https://docs.google.com/forms/d/e/1FAIpQLScIts1c2jST0Ugg90aLlUINk0vKyVjsGCosX81NPVFURvDARQ/viewform", 
+        //url: "http://eepurl.com/cHcDp1"
     },
     {
         id: 2,

@@ -58,8 +58,8 @@ const upcomingEventsData = [
     {
         id: 2,
         name: "Workshop #1",
-        date: "Tues, 10/19/2021",
-        img: "",
+        date: "Tues, 10/19/2021 | 6-7pm",
+        img: "fall2021/Workshop1_IG.png",
         url: "",
     },
     {
@@ -67,8 +67,9 @@ const upcomingEventsData = [
         name: "Social #1",
         description: "",
         date: "Tues, 10/12/2021 | 5pm",
-        img: "",
+        img: "fall2021/Social1_IG.png",
         url: "",
+        zoom: "https://ucsd.zoom.us/u/aela9PzYg9",
      }
 ]
 

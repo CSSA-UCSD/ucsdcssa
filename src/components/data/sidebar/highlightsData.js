@@ -15,7 +15,8 @@ const highlightsData = [
         id: 2,
         title: "Join Our Newsletter",
         type: "Involvement",
-        url: "http://eepurl.com/cHcDp1"
+        url: "https://docs.google.com/forms/d/e/1FAIpQLScIts1c2jST0Ugg90aLlUINk0vKyVjsGCosX81NPVFURvDARQ/viewform",
+        //url: "http://eepurl.com/cHcDp1"
     }
 ]
 
