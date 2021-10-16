@@ -58,8 +58,8 @@ const execData = [
         name: "Sophia Cook",
         position: "Community Chair",
         year: "2022",
-        img: "advisors/blank.png",
-        imgHover: "advisors/blank.png",
+        img: "exec_2021_2022/sophia.jpeg",
+        imgHover: "exec_2021_2022/sophia_hover.jpeg",
         url: "https://www.facebook.com/webraincogsci"
     },
     {
