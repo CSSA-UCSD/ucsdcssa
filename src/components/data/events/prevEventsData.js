@@ -1,5 +1,13 @@
 const prevEventsData = [
     {
+        id: 1,
+        name: "Social #1",
+        description: "",
+        date: "Tues, 10/12/2021 | 5pm",
+        img: "fall2021/Social1_IG.png",
+        url: "",
+    },
+    {
         id: 18,
         name: "GBM #1",
         description: "",
