@@ -8,7 +8,7 @@ const upcomingEventsData = [
     },
     {
         id: 9,
-        name: "Fundraiser #3",
+        name: "Fundraiser #2",
         date: "Wed, 11/17/2021",
         img: "",
         url: "",
@@ -36,7 +36,7 @@ const upcomingEventsData = [
     },
     {
         id: 5,
-        name: "Fundraiser #2",
+        name: "Fundraiser #1",
         date: "Wed, 11/3/2021",
         img: "",
         url: "",
@@ -47,21 +47,6 @@ const upcomingEventsData = [
         date: "Tues, 11/2/2021",
         img: "",
         url: "",
-    },
-    {
-        id: 3,
-        name: "Fundraiser #1",
-        date: "Wed, 10/20/2021",
-        img: "",
-        url: "",
-    },
-    {
-        id: 2,
-        name: "Workshop #1",
-        date: "Tues, 10/19/2021 | 6-7pm",
-        img: "fall2021/Workshop1_IG.png",
-        url: "",
-        zoom: "https://ucsd.zoom.us/j/96118119206",
     }
 ]
 

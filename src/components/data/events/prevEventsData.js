@@ -1,5 +1,13 @@
 const prevEventsData = [
     {
+        id: 2,
+        name: "Workshop #1",
+        date: "Tues, 10/19/2021 | 6-7pm",
+        img: "fall2021/Workshop1_IG.png",
+        url: "",
+        zoom: "https://urldefense.proofpoint.com/v2/url?u=https-3A__ucsd.zoom.us_rec_share_dFmrYH5shm56mh5Mh5R-5Fmyns5Y3UeQNUupcWMpLYmAeNzrXtMmodOEHbwncRfSMs.BiOaO1-2Dlp52-2Dmgf-2D&d=DwQFAg&c=-35OiAkTchMrZOngvJPOeA&r=vtzudLtkCgXHdLQW3KJk-A&m=hNsp-4axoJr4dsx2292W2iyVo9KPBnyqN4Ft62MenVc&s=PP92nMLNfs0D5AAhLIZYF_eVz8Wmz26XfF2LqCq5SfM&e=",
+    },
+    {
         id: 1,
         name: "Social #1",
         description: "",
