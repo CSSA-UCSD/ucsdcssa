@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b216d2ad3bdf9e7b818a2ddd8de8289c",
+    "revision": "3c06d79dd4d518c1aa5781021b52ae38",
     "url": "/index.html"
   },
   {
-    "revision": "5fb3fc9672bdee459b6c",
+    "revision": "95e90251ffa8d811eff9",
     "url": "/static/css/main.bc0acb6e.chunk.css"
   },
   {
@@ -16,12 +16,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/2.385d806a.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "5fb3fc9672bdee459b6c",
-    "url": "/static/js/main.fe068298.chunk.js"
+    "revision": "95e90251ffa8d811eff9",
+    "url": "/static/js/main.6d366775.chunk.js"
   },
   {
     "revision": "73635f645c271e35ff15",
     "url": "/static/js/runtime-main.83c3e0c4.js"
+  },
+  {
+    "revision": "39b6499ef86bb77ed704cc7374248ffc",
+    "url": "/static/media/Banquet_IG.39b6499e.png"
   },
   {
     "revision": "9e69be6259817751720ae78d79c39781",
@@ -58,6 +62,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "fd6407fe9891ed8c8124247175758e28",
     "url": "/static/media/IntroToDataAnalytics.fd6407fe.png"
+  },
+  {
+    "revision": "afa76d355a35a709536e3815644f5b54",
+    "url": "/static/media/LOH_IG.afa76d35.png"
   },
   {
     "revision": "5c247b2a5aff8d6c75b63f74a5290a73",
