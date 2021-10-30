@@ -45,7 +45,7 @@ const upcomingEventsData = [
         id: 4,
         name: "Welcome Banquet",
         date: "Tues, 11/2/2021",
-        img: "",
+        img: "fall2021/Banquet_IG.png",
         url: "",
     }
 ]
