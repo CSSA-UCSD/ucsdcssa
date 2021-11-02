@@ -31,7 +31,7 @@ const upcomingEventsData = [
         id: 6,
         name: "Lab Open House",
         date: "Tues, 11/9/2021",
-        img: "",
+        img: "fall2021/LOH_IG.png",
         url: "",
     },
     {
@@ -44,7 +44,8 @@ const upcomingEventsData = [
     {
         id: 4,
         name: "Welcome Banquet",
-        date: "Tues, 11/2/2021",
+        date: "Tues, 11/2/2021 | 6pm | PC West Ballroom",
+        // location: "PC West Ballroom",
         img: "fall2021/Banquet_IG.png",
         url: "",
     }
