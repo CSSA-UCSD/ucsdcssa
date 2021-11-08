@@ -1,5 +1,12 @@
 const prevEventsData = [
     {
+        id: 3,
+        name: "Welcome Banquet",
+        date: "Tues, 11/2/2021 | 6pm | PC West Ballroom",
+        img: "fall2021/Banquet_IG.png",
+        url: "",
+    },
+    {
         id: 2,
         name: "Workshop #1",
         date: "Tues, 10/19/2021 | 6-7pm",
