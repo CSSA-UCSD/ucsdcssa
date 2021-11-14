@@ -18,7 +18,7 @@ const upcomingEventsData = [
         name: "Workshop #2",
         date: "Tues, 11/16/2021 | 6pm | Bear Room",
         img: "fall2021/Workshop2_IG.png",
-        url: "",
+        url: "https://fb.me/e/1eUI4bGmY",
     },
     // {
     //     id: 7,
