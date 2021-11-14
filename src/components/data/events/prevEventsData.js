@@ -1,5 +1,12 @@
 const prevEventsData = [
     {
+        id: 6,
+        name: "Lab Open House",
+        date: "Tues, 11/9/2021 | 5PM | PC West Ballroom",
+        img: "fall2021/LOH_IG.png",
+        url: "https://fb.me/e/16UezzAN9",
+    },
+    {
         id: 3,
         name: "Welcome Banquet",
         date: "Tues, 11/2/2021 | 6pm | PC West Ballroom",

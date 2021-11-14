@@ -16,8 +16,8 @@ const upcomingEventsData = [
     {
         id: 8,
         name: "Workshop #2",
-        date: "Tues, 11/16/2021",
-        img: "",
+        date: "Tues, 11/16/2021 | 6pm | Bear Room",
+        img: "fall2021/Workshop2_IG.png",
         url: "",
     },
     // {
@@ -27,13 +27,6 @@ const upcomingEventsData = [
     //     img: "",
     //     url: "",
     // },
-    {
-        id: 6,
-        name: "Lab Open House",
-        date: "Tues, 11/9/2021 | 5PM | PC West Ballroom",
-        img: "fall2021/LOH_IG.png",
-        url: "https://fb.me/e/16UezzAN9",
-    },
     // {
     //     id: 5,
     //     name: "Fundraiser #1",
