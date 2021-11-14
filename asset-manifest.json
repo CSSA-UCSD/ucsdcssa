@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/static/css/main.bc0acb6e.chunk.css",
-    "main.js": "/static/js/main.3858e2ba.chunk.js",
-    "main.js.map": "/static/js/main.3858e2ba.chunk.js.map",
+    "main.js": "/static/js/main.132cd3e0.chunk.js",
+    "main.js.map": "/static/js/main.132cd3e0.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.83c3e0c4.js",
     "runtime-main.js.map": "/static/js/runtime-main.83c3e0c4.js.map",
     "static/js/2.385d806a.chunk.js": "/static/js/2.385d806a.chunk.js",
     "static/js/2.385d806a.chunk.js.map": "/static/js/2.385d806a.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.087feab5d831db043afad4bd546ecd3f.js": "/precache-manifest.087feab5d831db043afad4bd546ecd3f.js",
+    "precache-manifest.ab71db5cadbc9136c029563e4a4242ec.js": "/precache-manifest.ab71db5cadbc9136c029563e4a4242ec.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.bc0acb6e.chunk.css.map": "/static/css/main.bc0acb6e.chunk.css.map",
     "static/js/2.385d806a.chunk.js.LICENSE.txt": "/static/js/2.385d806a.chunk.js.LICENSE.txt",
@@ -39,6 +39,7 @@
     "static/media/WinterSocial.png": "/static/media/WinterSocial.7e9f46dc.png",
     "static/media/Wordmark_Dark.svg": "/static/media/Wordmark_Dark.bb5e2b9c.svg",
     "static/media/Workshop1_IG.png": "/static/media/Workshop1_IG.cb5a5767.png",
+    "static/media/Workshop2_IG.png": "/static/media/Workshop2_IG.ce46c830.png",
     "static/media/aditi.jpeg": "/static/media/aditi.83246efd.jpeg",
     "static/media/aditi_formal.jpg": "/static/media/aditi_formal.4305fb23.jpg",
     "static/media/aditi_fun.jpg": "/static/media/aditi_fun.ef4649a6.jpg",
@@ -103,6 +104,6 @@
     "static/js/runtime-main.83c3e0c4.js",
     "static/js/2.385d806a.chunk.js",
     "static/css/main.bc0acb6e.chunk.css",
-    "static/js/main.3858e2ba.chunk.js"
+    "static/js/main.132cd3e0.chunk.js"
   ]
 }
