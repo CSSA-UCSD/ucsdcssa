@@ -1,5 +1,12 @@
 const prevEventsData = [
     {
+        id: 8,
+        name: "Workshop #2",
+        date: "Tues, 11/16/2021 | 6pm | Bear Room",
+        img: "fall2021/Workshop2_IG.png",
+        url: "https://fb.me/e/1eUI4bGmY",
+    },
+    {
         id: 6,
         name: "Lab Open House",
         date: "Tues, 11/9/2021 | 5PM | PC West Ballroom",
