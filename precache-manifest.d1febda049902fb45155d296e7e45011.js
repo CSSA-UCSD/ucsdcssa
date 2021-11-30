@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8fac8c058a19a0fdda3e6b3cc8411278",
+    "revision": "f70831232ef77425ee887793b96a0053",
     "url": "/index.html"
   },
   {
-    "revision": "e8dcbd153c851100c7ff",
+    "revision": "295f04bea0d4fbfe7794",
     "url": "/static/css/main.bc0acb6e.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/2.385d806a.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "e8dcbd153c851100c7ff",
-    "url": "/static/js/main.8496daf2.chunk.js"
+    "revision": "295f04bea0d4fbfe7794",
+    "url": "/static/js/main.fc84c2b6.chunk.js"
   },
   {
     "revision": "73635f645c271e35ff15",
@@ -94,6 +94,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "47ad8f8d906689e966536a9b4199c4a5",
     "url": "/static/media/Social1_IG.47ad8f8d.png"
+  },
+  {
+    "revision": "caa9b37ef6971fc703bbd88c732ac1a5",
+    "url": "/static/media/StudyJam_IG.caa9b37e.png"
   },
   {
     "revision": "5df9bdeec60560d3fa404880469930c7",
