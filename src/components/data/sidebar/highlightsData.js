@@ -1,10 +1,10 @@
 const highlightsData = [
-    {
-        id: 0,
-        title: "Join Our Committees by 10/24!",
-        type: "Involvement",
-        url: "https://docs.google.com/forms/d/e/1FAIpQLSf-vOeA742Jy-bEvfBsXXeKW0Ls7HjfLT6TfinSx-6wvPyztQ/viewform"
-    },
+    // {
+    //     id: 0,
+    //     title: "Join Our Committees by 10/24!",
+    //     type: "Involvement",
+    //     url: "https://docs.google.com/forms/d/e/1FAIpQLSf-vOeA742Jy-bEvfBsXXeKW0Ls7HjfLT6TfinSx-6wvPyztQ/viewform"
+    // },
     {
         id: 1,
         title: "Join Our Newsletter",
