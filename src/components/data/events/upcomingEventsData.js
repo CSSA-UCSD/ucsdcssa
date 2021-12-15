@@ -1,11 +1,4 @@
-const upcomingEventsData = [
-    {
-        id: 10,
-        name: "Study Jam",
-        date: "Tues, 11/30/2021 | 5-9pm | Geisel 721",
-        img: "fall2021/StudyJam_IG.png",
-        url: "",
-    },
+const upcomingEventsData = [,
     // {
     //     id: 9,
     //     name: "Fundraiser #2",
