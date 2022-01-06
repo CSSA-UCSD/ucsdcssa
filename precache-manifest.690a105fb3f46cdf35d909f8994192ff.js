@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "88aba3ecd8362423e842db6f92ac603d",
+    "revision": "0b7f289ef2db12eadd272e4d0f3792f3",
     "url": "/index.html"
   },
   {
-    "revision": "e4a0ba3a48226cb91809",
+    "revision": "acfdfecf0be89406d4b6",
     "url": "/static/css/main.bc0acb6e.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/2.385d806a.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "e4a0ba3a48226cb91809",
-    "url": "/static/js/main.706872a5.chunk.js"
+    "revision": "acfdfecf0be89406d4b6",
+    "url": "/static/js/main.1c8d1bce.chunk.js"
   },
   {
     "revision": "73635f645c271e35ff15",
@@ -126,6 +126,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "7e9f46dc6efff395bbbc5f0f3905ae91",
     "url": "/static/media/WinterSocial.7e9f46dc.png"
+  },
+  {
+    "revision": "abaad39c4baff3e572efcc5ff397311d",
+    "url": "/static/media/Winter_GBM_IG.abaad39c.png"
   },
   {
     "revision": "bb5e2b9c5714221d2c702b2eeb99127d",

@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/static/css/main.bc0acb6e.chunk.css",
-    "main.js": "/static/js/main.706872a5.chunk.js",
-    "main.js.map": "/static/js/main.706872a5.chunk.js.map",
+    "main.js": "/static/js/main.1c8d1bce.chunk.js",
+    "main.js.map": "/static/js/main.1c8d1bce.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.83c3e0c4.js",
     "runtime-main.js.map": "/static/js/runtime-main.83c3e0c4.js.map",
     "static/js/2.385d806a.chunk.js": "/static/js/2.385d806a.chunk.js",
     "static/js/2.385d806a.chunk.js.map": "/static/js/2.385d806a.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.5450b89e23bd28ac2e1ce93ea07ae53b.js": "/precache-manifest.5450b89e23bd28ac2e1ce93ea07ae53b.js",
+    "precache-manifest.690a105fb3f46cdf35d909f8994192ff.js": "/precache-manifest.690a105fb3f46cdf35d909f8994192ff.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.bc0acb6e.chunk.css.map": "/static/css/main.bc0acb6e.chunk.css.map",
     "static/js/2.385d806a.chunk.js.LICENSE.txt": "/static/js/2.385d806a.chunk.js.LICENSE.txt",
@@ -38,6 +38,7 @@
     "static/media/TalkSeries_Neuro.png": "/static/media/TalkSeries_Neuro.64b54f90.png",
     "static/media/main.scss": "/static/media/Wavehaus-95SemiBold.0d9cd0f6.otf",
     "static/media/WinterSocial.png": "/static/media/WinterSocial.7e9f46dc.png",
+    "static/media/Winter_GBM_IG.png": "/static/media/Winter_GBM_IG.abaad39c.png",
     "static/media/Wordmark_Dark.svg": "/static/media/Wordmark_Dark.bb5e2b9c.svg",
     "static/media/Workshop1_IG.png": "/static/media/Workshop1_IG.cb5a5767.png",
     "static/media/Workshop2_IG.png": "/static/media/Workshop2_IG.ce46c830.png",
@@ -105,6 +106,6 @@
     "static/js/runtime-main.83c3e0c4.js",
     "static/js/2.385d806a.chunk.js",
     "static/css/main.bc0acb6e.chunk.css",
-    "static/js/main.706872a5.chunk.js"
+    "static/js/main.1c8d1bce.chunk.js"
   ]
 }
