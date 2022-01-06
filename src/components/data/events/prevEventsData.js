@@ -18,21 +18,22 @@ const prevEventsData = [
         name: "Lab Open House",
         date: "Tues, 11/9/2021 | 5PM | PC West Ballroom",
         img: "fall2021/LOH_IG.png",
-        url: "https://fb.me/e/16UezzAN9",
+        // url: "https://fb.me/e/16UezzAN9",
+        url: "https://fb.watch/an56Fe_alh/"
     },
     {
         id: 3,
         name: "Welcome Banquet",
         date: "Tues, 11/2/2021 | 6pm | PC West Ballroom",
         img: "fall2021/Banquet_IG.png",
-        url: "",
+        url: "https://fb.me/e/7fFAFhF3F",
     },
     {
         id: 2,
         name: "Workshop #1",
         date: "Tues, 10/19/2021 | 6-7pm",
         img: "fall2021/Workshop1_IG.png",
-        url: "",
+        url: "https://fb.me/e/22QwS1dZR",
         zoom: "https://urldefense.proofpoint.com/v2/url?u=https-3A__ucsd.zoom.us_rec_share_dFmrYH5shm56mh5Mh5R-5Fmyns5Y3UeQNUupcWMpLYmAeNzrXtMmodOEHbwncRfSMs.BiOaO1-2Dlp52-2Dmgf-2D&d=DwQFAg&c=-35OiAkTchMrZOngvJPOeA&r=vtzudLtkCgXHdLQW3KJk-A&m=hNsp-4axoJr4dsx2292W2iyVo9KPBnyqN4Ft62MenVc&s=PP92nMLNfs0D5AAhLIZYF_eVz8Wmz26XfF2LqCq5SfM&e=",
     },
     {

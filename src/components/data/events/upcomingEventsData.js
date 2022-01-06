@@ -1,26 +1,11 @@
-const upcomingEventsData = [,
-    // {
-    //     id: 9,
-    //     name: "Fundraiser #2",
-    //     date: "Wed, 11/17/2021",
-    //     img: "",
-    //     url: "",
-    // },
-
-    // {
-    //     id: 7,
-    //     name: "Social #2",
-    //     date: "Thurs, 11/11/2021",
-    //     img: "",
-    //     url: "",
-    // },
-    // {
-    //     id: 5,
-    //     name: "Fundraiser #1",
-    //     date: "Wed, 11/3/2021",
-    //     img: "",
-    //     url: "",
-    // },
+const upcomingEventsData = [
+    {
+        id: 1,
+        name: "GBM #1",
+        date: "Tues, 1/11/2022 | 6-7pm",
+        img: "winter2022/Winter_GBM_IG.png",
+        url: "https://www.facebook.com/events/265023225698381/"
+    },
 ]
 
 export default upcomingEventsData;
