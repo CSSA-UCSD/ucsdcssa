@@ -7,6 +7,12 @@ const upcomingEventsData = [
         url: "https://www.facebook.com/events/265023225698381/",
         zoom: "https://ucsd.zoom.us/j/98070443863"
     },
+    {
+        id:2,
+        name: "Brainstorming & Ideation Workshop",
+        img: "winter2022/Workshop3_IG.png",
+        date: "Thurs, 1/13/2022 | 7-8pm"
+    }
 ]
 
 export default upcomingEventsData;
