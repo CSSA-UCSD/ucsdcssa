@@ -8,7 +8,7 @@ const prevEventsData = [
     },
     {
         id: 8,
-        name: "Workshop #2",
+        name: "Ace the Behavioral Interview",
         date: "Tues, 11/16/2021 | 6pm | Bear Room",
         img: "fall2021/Workshop2_IG.png",
         url: "https://fb.me/e/1eUI4bGmY",
@@ -30,7 +30,7 @@ const prevEventsData = [
     },
     {
         id: 2,
-        name: "Workshop #1",
+        name: "Personal Website Tutorial",
         date: "Tues, 10/19/2021 | 6-7pm",
         img: "fall2021/Workshop1_IG.png",
         url: "https://fb.me/e/22QwS1dZR",
