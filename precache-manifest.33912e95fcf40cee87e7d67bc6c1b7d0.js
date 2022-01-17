@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3723cd359ea0c8d9ba94051a28c211b6",
+    "revision": "b6121d1294326091462b0306fed17166",
     "url": "/index.html"
   },
   {
-    "revision": "db4114f5bc9b55ae8aae",
+    "revision": "b7c4abf743ec683be6f1",
     "url": "/static/css/main.bc0acb6e.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/2.385d806a.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "db4114f5bc9b55ae8aae",
-    "url": "/static/js/main.f0133df6.chunk.js"
+    "revision": "b7c4abf743ec683be6f1",
+    "url": "/static/js/main.ca0f0a1a.chunk.js"
   },
   {
     "revision": "73635f645c271e35ff15",
@@ -122,6 +122,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "0d9cd0f69a57b89df154c3c68f19bb63",
     "url": "/static/media/Wavehaus-95SemiBold.0d9cd0f6.otf"
+  },
+  {
+    "revision": "63b32b5b6bceb854c4fd2f0bf842bd4e",
+    "url": "/static/media/WebDev_Committee_IG.63b32b5b.png"
   },
   {
     "revision": "7e9f46dc6efff395bbbc5f0f3905ae91",
