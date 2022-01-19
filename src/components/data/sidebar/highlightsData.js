@@ -7,7 +7,7 @@ const highlightsData = [
     },
     {
         id: 1,
-        title: "Join Our Newsletter",
+        title: "Join Our Newsletter Updates",
         // type: "Involvement",
         url: "https://docs.google.com/forms/d/e/1FAIpQLScIts1c2jST0Ugg90aLlUINk0vKyVjsGCosX81NPVFURvDARQ/viewform",
         //url: "http://eepurl.com/cHcDp1"
@@ -20,9 +20,9 @@ const highlightsData = [
     },
     {   
         id: 3,
-        title: "March 2021 Newsletter",
+        title: "CSSA Newsletters",
         type: "Newsletter",
-        url: "https://mailchi.mp/ee9387b43345/cssa-march-newsletter?e=c1119fda9b"
+        url: "https://us15.campaign-archive.com/home/?u=0be7335fcd3adf9f817456791&id=0d419c2303"
     }    
 ]
 
