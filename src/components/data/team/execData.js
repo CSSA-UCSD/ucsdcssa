@@ -67,8 +67,8 @@ const execData = [
         name: "Kayla Luong",
         position: "Content Writer",
         year: "2024",
-        img: "exec_2021_2022/kayla.jpeg",
-        imgHover: "exec_2021_2022/kayla_hover.jpeg",
+        imgHover: "exec_2021_2022/kayla.jpeg",
+        img: "exec_2021_2022/kayla_hover.jpeg",
         url: "https://www.facebook.com/webraincogsci"
     },
     {
