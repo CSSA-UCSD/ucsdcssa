@@ -1,4 +1,11 @@
 const prevEventsData = [
+     {
+        id: 3,
+        name: "Web Dev Committee",
+        img: "winter2022/WebDev_Committee_IG.png",
+        url: "https://tinyurl.com/CSSAWebDev2022",
+        date: "DUE Fri, 1/21/2022"
+    },
     {
         id:2,
         name: "Brainstorming & Ideation Workshop",
