@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "576bb2947a1825e85343bc368cd47a31",
+    "revision": "46eaac985d2d761a12150e7ff371cfd5",
     "url": "/index.html"
   },
   {
-    "revision": "e63d8d126b2e76b518c0",
+    "revision": "662ec61d301cb3731c9f",
     "url": "/static/css/main.bc0acb6e.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/2.385d806a.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "e63d8d126b2e76b518c0",
-    "url": "/static/js/main.cfc3b02c.chunk.js"
+    "revision": "662ec61d301cb3731c9f",
+    "url": "/static/js/main.71cad5ea.chunk.js"
   },
   {
     "revision": "73635f645c271e35ff15",
@@ -26,6 +26,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "39b6499ef86bb77ed704cc7374248ffc",
     "url": "/static/media/Banquet_IG.39b6499e.png"
+  },
+  {
+    "revision": "9d65321feaf94f96a58712b2d7e9e9cf",
+    "url": "/static/media/Chipotle_Fundraiser_IG_page1.9d65321f.png"
   },
   {
     "revision": "9e69be6259817751720ae78d79c39781",
