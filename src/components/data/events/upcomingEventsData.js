@@ -9,7 +9,8 @@ const upcomingEventsData = [
     {
         id: 4,
         name: "Chipotle Fundraiser",
-        date: "Mon, 1/24/2022",
+        img: "winter2022/Chipotle_Fundraiser_IG_page1.png",
+        date: "Mon, 1/24/2022 | 4-8pm",
     },
     {
         id: 5,
