@@ -5,6 +5,7 @@ const upcomingEventsData = [
         name: "Chipotle Fundraiser",
         img: "winter2022/Chipotle_Fundraiser_IG_page1.png",
         date: "Mon, 1/24/2022 | 4-8pm",
+        url: "https://fb.me/e/1pHwtnlaK"
     },
     {
         id: 5,
