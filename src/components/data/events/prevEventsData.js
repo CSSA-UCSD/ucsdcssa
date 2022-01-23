@@ -3,7 +3,8 @@ const prevEventsData = [
         id:2,
         name: "Brainstorming & Ideation Workshop",
         img: "winter2022/Workshop3_IG.png",
-        date: "Wed, 1/19/2022 | 5-6pm"
+        date: "Wed, 1/19/2022 | 5-6pm",
+        slides: "https://docs.google.com/presentation/d/1L913tK0uwIxqIUmHhBrQI5Kz7_D-ttrgZKgfyebnQ1A/edit?usp=sharing"
     },
     {
         id: 1,
