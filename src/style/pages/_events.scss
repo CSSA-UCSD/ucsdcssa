@@ -67,9 +67,11 @@
         width: 100%;
         img {
             width: inherit;
-            border-radius: 1rem;
-            &:hover {
-                transform: scale(1.01);
+            border-radius: 1rem;           
+        }
+        &-hover {
+            &:hover{
+            transform: scale(1.01);
             }
         }
     }
