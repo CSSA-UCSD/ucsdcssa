@@ -1,5 +1,13 @@
 const prevEventsData = [
-     {
+    {
+        id: 4,
+        name: "Chipotle Fundraiser",
+        img: "winter2022/Chipotle_Fundraiser_IG_page1.png",
+        imgHover: "winter2022/Chipotle_Fundraiser_IG_page2.png",
+        date: "Mon, 1/24/2022 | 4-8pm",
+        url: "https://fb.me/e/1pHwtnlaK"
+    },
+    {
         id: 3,
         name: "Web Dev Committee",
         img: "winter2022/WebDev_Committee_IG.png",
