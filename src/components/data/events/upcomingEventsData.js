@@ -1,6 +1,4 @@
 const upcomingEventsData = [
-   
-
     {
         id: 5,
         name: "Talk Series: Machine Learning",
@@ -15,8 +13,8 @@ const upcomingEventsData = [
     },
     {
         id: 7,
-        name: "Talk Series: Neuroscience",
-        date: "Thurs, 2/17/2022"
+        name: "Talk Series: Design",
+        date: "Thurs, 2/17/2022 | 5pm"
     },
     {
         id: 8,
