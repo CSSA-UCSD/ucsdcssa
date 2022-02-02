@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3eae49b3f7bd2c024a0ec2ea2c400056",
+    "revision": "cb4348684ed74705c4ef5a04245d9560",
     "url": "/index.html"
   },
   {
-    "revision": "00a47bd3b3263851df96",
+    "revision": "1fef940cc665788c0e3b",
     "url": "/static/css/main.0c36fb3e.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/2.41c06483.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "00a47bd3b3263851df96",
-    "url": "/static/js/main.8b9337ab.chunk.js"
+    "revision": "1fef940cc665788c0e3b",
+    "url": "/static/js/main.13ffeaba.chunk.js"
   },
   {
     "revision": "73635f645c271e35ff15",
@@ -126,6 +126,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "64b54f9096ec7e968b22a9221749bca5",
     "url": "/static/media/TalkSeries_Neuro.64b54f90.png"
+  },
+  {
+    "revision": "26228588823ebab6bc058eb596eac6fc",
+    "url": "/static/media/Talk_Series_1_IG.26228588.png"
   },
   {
     "revision": "0d9cd0f69a57b89df154c3c68f19bb63",
