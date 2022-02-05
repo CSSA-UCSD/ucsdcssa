@@ -1,11 +1,5 @@
 const upcomingEventsData = [
-    {
-        id: 5,
-        name: "Talk Series: Machine Learning",
-        date: "Tues, 2/2/2022 | 1pm",
-        url: "https://fb.me/e/2ctw5UXRF",
-        img: "winter2022/Talk_Series_1_IG.png"
-    },
+
     {
         id: 6,
         name: "Talk Series: Neuroscience",
