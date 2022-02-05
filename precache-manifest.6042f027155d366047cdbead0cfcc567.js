@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "cb4348684ed74705c4ef5a04245d9560",
+    "revision": "ce46e6de9ed7dac904187fa15b74bbcc",
     "url": "/index.html"
   },
   {
-    "revision": "1fef940cc665788c0e3b",
+    "revision": "c04520bc3ec1a3bd86dc",
     "url": "/static/css/main.0c36fb3e.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/2.41c06483.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "1fef940cc665788c0e3b",
-    "url": "/static/js/main.13ffeaba.chunk.js"
+    "revision": "c04520bc3ec1a3bd86dc",
+    "url": "/static/js/main.3103ec99.chunk.js"
   },
   {
     "revision": "73635f645c271e35ff15",
@@ -130,6 +130,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "26228588823ebab6bc058eb596eac6fc",
     "url": "/static/media/Talk_Series_1_IG.26228588.png"
+  },
+  {
+    "revision": "4089d76b22829210b79079f37619ee6d",
+    "url": "/static/media/Talk_Series_2_IG.4089d76b.png"
   },
   {
     "revision": "0d9cd0f69a57b89df154c3c68f19bb63",
