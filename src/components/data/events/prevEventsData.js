@@ -1,5 +1,12 @@
 const prevEventsData = [
     {
+        id: 6,
+        name: "Talk Series: Neuroscience",
+        date: "Wed, 2/9/2022 | 4pm",
+        img: "winter2022/Talk_Series_2_IG.png",
+        url: "https://fb.me/e/52lQPbWwA"
+    },
+    {
         id: 5,
         name: "Talk Series: Machine Learning",
         date: "Tues, 2/2/2022 | 1pm",
