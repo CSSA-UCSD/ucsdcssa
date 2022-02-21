@@ -17,7 +17,7 @@ class Member extends React.Component {
                 <div className="member-img" onMouseEnter={this.handleMouseEnter} onMouseLeave={this.handleMouseLeave}>
                     <img
                         src={require(`../../../img/team/${this.props.item.img}`) }
-                        onMouseOver={e => (e.currentTarget.src = require(`../../../img/team/${this.props.item.imgHover}`) )}
+                        onMouseOver={e => this.props.item.imgHover && (e.currentTarget.src = require(`../../../img/team/${this.props.item.imgHover}`) )}
                         onMouseOut={e => (e.currentTarget.src =  require(`../../../img/team/${this.props.item.img}`) )}
                         alt=""
                     />
