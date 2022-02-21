@@ -32,7 +32,7 @@ const execData = [
         position: "Marketing Chair",
         year: "2024",
         img: "exec_2021_2022/laura.jpeg",
-        imgHover: "exec_2021_2022/laura_hover.jpeg",
+        // imgHover: "exec_2021_2022/laura_hover.jpeg",
         url: "https://www.facebook.com/webraincogsci"
     },
     {
