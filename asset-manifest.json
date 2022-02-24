@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/static/css/main.0c36fb3e.chunk.css",
-    "main.js": "/static/js/main.613c0b10.chunk.js",
-    "main.js.map": "/static/js/main.613c0b10.chunk.js.map",
+    "main.js": "/static/js/main.d8484b38.chunk.js",
+    "main.js.map": "/static/js/main.d8484b38.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.83c3e0c4.js",
     "runtime-main.js.map": "/static/js/runtime-main.83c3e0c4.js.map",
     "static/js/2.41c06483.chunk.js": "/static/js/2.41c06483.chunk.js",
     "static/js/2.41c06483.chunk.js.map": "/static/js/2.41c06483.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.835d7bab36ce5e0ca0fbc7d1902b242f.js": "/precache-manifest.835d7bab36ce5e0ca0fbc7d1902b242f.js",
+    "precache-manifest.0045d342febe407071be0ef899cb7e6e.js": "/precache-manifest.0045d342febe407071be0ef899cb7e6e.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.0c36fb3e.chunk.css.map": "/static/css/main.0c36fb3e.chunk.css.map",
     "static/js/2.41c06483.chunk.js.LICENSE.txt": "/static/js/2.41c06483.chunk.js.LICENSE.txt",
@@ -49,6 +49,7 @@
     "static/media/Workshop1_IG.png": "/static/media/Workshop1_IG.cb5a5767.png",
     "static/media/Workshop2_IG.png": "/static/media/Workshop2_IG.ce46c830.png",
     "static/media/Workshop3_IG.png": "/static/media/Workshop3_IG.1e2f6342.png",
+    "static/media/Workshop4_IG.png": "/static/media/Workshop4_IG.8ecedd30.png",
     "static/media/aditi.jpeg": "/static/media/aditi.83246efd.jpeg",
     "static/media/aditi_formal.jpg": "/static/media/aditi_formal.4305fb23.jpg",
     "static/media/aditi_fun.jpg": "/static/media/aditi_fun.ef4649a6.jpg",
@@ -113,6 +114,6 @@
     "static/js/runtime-main.83c3e0c4.js",
     "static/js/2.41c06483.chunk.js",
     "static/css/main.0c36fb3e.chunk.css",
-    "static/js/main.613c0b10.chunk.js"
+    "static/js/main.d8484b38.chunk.js"
   ]
 }
