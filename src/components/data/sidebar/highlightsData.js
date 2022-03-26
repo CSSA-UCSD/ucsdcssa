@@ -1,11 +1,5 @@
 const highlightsData = [
     {
-        id: 0,
-        title: "Join Web Dev Committee by 1/21!",
-        type: "Involvement",
-        url: "https://tinyurl.com/CSSAWebDev2022"
-    },
-    {
         id: 1,
         title: "Join Our Newsletter Updates",
         // type: "Involvement",
