@@ -1,5 +1,5 @@
 const prevEventsData = [
-       {
+    {
         id: 8,
         name: "Networking Workshop",
         date: "Thur, 2/24/2022 | 5pm",
