@@ -10,7 +10,7 @@
     "@testing-library/user-event": "^7.1.2",
     "aos": "^2.3.4",
     "bootstrap": "^4.5.2",
-    "immer": "^8.0.1",
+    "immer": "^9.0.6",
     "ini": "^2.0.0",
     "jquery": "^3.5.1",
     "mdbootstrap": "^4.19.1",
