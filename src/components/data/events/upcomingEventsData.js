@@ -4,7 +4,7 @@ const upcomingEventsData = [
         name: "Spring Quarter Intro GBM",
         date: "Tues, 4/5/2022 | 5pm",
         img: "spring2022/Spring_GBM_IG.png",
-        url: ""
+        url: "https://fb.me/e/3do0Sh1l6"
     },
     {
         id: 2,

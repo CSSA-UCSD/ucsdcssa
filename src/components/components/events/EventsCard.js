@@ -27,13 +27,13 @@ class EventsCard extends React.Component {
                                             alt={this.props.item.name}>
                                         </img>
                                         : this.props.item.img && 
-                                            <img src={ require(`../../../img/events/${this.props.item.img}`)} alt={this.props.item.name}></img>
+                                            <img src={ require(`../../../img/events/${this.props.item.img}`).default} alt={this.props.item.name}></img>
                                     }
                                 </div>
                             </a>
                             : this.props.item.img && 
                                 <div className="events-image pb-3">
-                                    <img src={ require(`../../../img/events/${this.props.item.img}`)} alt={this.props.item.name}></img>
+                                    <img src={ require(`../../../img/events/${this.props.item.img}`).default} alt={this.props.item.name}></img>
                                 </div>
                         }
                         <div className="events-name">

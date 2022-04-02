@@ -1,6 +1,6 @@
 const prevEventsData = [
     {
-        id: 8,
+        id: 32,
         name: "Networking Workshop",
         date: "Thur, 2/24/2022 | 5pm",
         img: "winter2022/Workshop4_IG.png",
@@ -8,28 +8,28 @@ const prevEventsData = [
         url: ""
     },
     {
-        id: 7,
+        id: 31,
         name: "Talk Series: Design",
         date: "Thurs, 2/17/2022 | 5pm",
         img: "winter2022/Talk_Series_3_IG.png",
         url: "https://fb.me/e/4926oYGd2",
     },
     {
-        id: 6,
+        id: 30,
         name: "Talk Series: Neuroscience",
         date: "Wed, 2/9/2022 | 4pm",
         img: "winter2022/Talk_Series_2_IG.png",
         url: "https://fb.me/e/52lQPbWwA"
     },
     {
-        id: 5,
+        id: 29,
         name: "Talk Series: Machine Learning",
         date: "Tues, 2/2/2022 | 1pm",
         url: "https://fb.me/e/2ctw5UXRF",
         img: "winter2022/Talk_Series_1_IG.png"
     },
     {
-        id: 4,
+        id: 28,
         name: "Chipotle Fundraiser",
         img: "winter2022/Chipotle_Fundraiser_IG_page1.png",
         imgHover: "winter2022/Chipotle_Fundraiser_IG_page2.png",
@@ -37,21 +37,21 @@ const prevEventsData = [
         url: "https://fb.me/e/1pHwtnlaK"
     },
     {
-        id: 3,
+        id: 27,
         name: "Web Dev Committee",
         img: "winter2022/WebDev_Committee_IG.png",
         url: "https://tinyurl.com/CSSAWebDev2022",
         date: "DUE Fri, 1/21/2022"
     },
     {
-        id:2,
+        id: 26,
         name: "Brainstorming & Ideation Workshop",
         img: "winter2022/Workshop3_IG.png",
         date: "Wed, 1/19/2022 | 5-6pm",
         slides: "https://docs.google.com/presentation/d/1L913tK0uwIxqIUmHhBrQI5Kz7_D-ttrgZKgfyebnQ1A/edit?usp=sharing"
     },
     {
-        id: 1,
+        id: 25,
         name: "GBM #1",
         date: "Tues, 1/11/2022 | 6-7pm",
         img: "winter2022/Winter_GBM_IG.png",
@@ -59,21 +59,21 @@ const prevEventsData = [
         slides: "https://docs.google.com/presentation/d/1VaGGh7B2NcDNXq-OCgyl1sc_GfcrW94TPvYq7aJEhh8/edit?usp=sharing",
     },
     {
-        id: 10,
+        id: 24,
         name: "Study Jam",
         date: "Tues, 11/30/2021 | 5-9pm | Geisel 721",
         img: "fall2021/StudyJam_IG.png",
         url: "",
     },
     {
-        id: 8,
+        id: 23,
         name: "Ace the Behavioral Interview",
         date: "Tues, 11/16/2021 | 6pm | Bear Room",
         img: "fall2021/Workshop2_IG.png",
         url: "https://fb.me/e/1eUI4bGmY",
     },
     {
-        id: 6,
+        id: 22,
         name: "Lab Open House",
         date: "Tues, 11/9/2021 | 5PM | PC West Ballroom",
         img: "fall2021/LOH_IG.png",
@@ -81,14 +81,14 @@ const prevEventsData = [
         url: "https://fb.watch/an56Fe_alh/"
     },
     {
-        id: 3,
+        id: 21,
         name: "Welcome Banquet",
         date: "Tues, 11/2/2021 | 6pm | PC West Ballroom",
         img: "fall2021/Banquet_IG.png",
         url: "https://fb.me/e/7fFAFhF3F",
     },
     {
-        id: 2,
+        id: 20,
         name: "Personal Website Tutorial",
         date: "Tues, 10/19/2021 | 6-7pm",
         img: "fall2021/Workshop1_IG.png",
@@ -96,7 +96,7 @@ const prevEventsData = [
         zoom: "https://urldefense.proofpoint.com/v2/url?u=https-3A__ucsd.zoom.us_rec_share_dFmrYH5shm56mh5Mh5R-5Fmyns5Y3UeQNUupcWMpLYmAeNzrXtMmodOEHbwncRfSMs.BiOaO1-2Dlp52-2Dmgf-2D&d=DwQFAg&c=-35OiAkTchMrZOngvJPOeA&r=vtzudLtkCgXHdLQW3KJk-A&m=hNsp-4axoJr4dsx2292W2iyVo9KPBnyqN4Ft62MenVc&s=PP92nMLNfs0D5AAhLIZYF_eVz8Wmz26XfF2LqCq5SfM&e=",
     },
     {
-        id: 1,
+        id: 19,
         name: "Social #1",
         description: "",
         date: "Tues, 10/12/2021 | 5pm",
