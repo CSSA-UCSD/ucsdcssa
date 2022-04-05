@@ -6,11 +6,17 @@ const highlightsData = [
         url: "https://docs.google.com/forms/d/e/1FAIpQLScIts1c2jST0Ugg90aLlUINk0vKyVjsGCosX81NPVFURvDARQ/viewform",
         //url: "http://eepurl.com/cHcDp1"
     },
-    {   
+    // {   
+    //     id: 2,
+    //     title: "More Information",
+    //     type: "2021 National Cognitive Science Conference",
+    //     url: "http://conference.cssa-ucsd.org/"
+    // },
+    {
         id: 2,
         title: "More Information",
-        type: "2021 National Cognitive Science Conference",
-        url: "http://conference.cssa-ucsd.org/"
+        type: "2022 National Cognitive Science Conference",
+        url: "https://cssa-ucsd.github.io/conference2022/",
     },
     {   
         id: 3,
