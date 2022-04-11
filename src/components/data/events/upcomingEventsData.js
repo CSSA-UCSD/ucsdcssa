@@ -1,10 +1,10 @@
 const upcomingEventsData = [
    {
         id: 1,
-        name: "Spring Quarter Intro GBM",
-        date: "Tues, 4/5/2022 | 5pm",
-        img: "spring2022/Spring_GBM_IG.png",
-        url: "https://fb.me/e/3do0Sh1l6"
+        name: "BJ's Fundraiser",
+        date: "Mon, 4/11/2022 | 11am-11pm",
+        img: "spring2022/BJs_Fundraiser_IG_page 1.png",
+        url: "https://tinyurl.com/cssabjs-sp22"
     },
     {
         id: 2,
