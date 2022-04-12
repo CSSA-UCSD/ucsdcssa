@@ -1,17 +1,11 @@
 const upcomingEventsData = [
-   {
-        id: 1,
-        name: "BJ's Fundraiser",
-        date: "Mon, 4/11/2022 | 11am-11pm",
-        img: "spring2022/BJs_Fundraiser_IG_page 1.png",
-        url: "https://tinyurl.com/cssabjs-sp22"
-    },
     {
         id: 2,
-        name: "Workshop 5: TBA",
+        name: "Workshop 5: Cognitive Science Careers",
         date: "Thur, 4/14/2022 | 5pm",
-        img: "",
-        url: ""
+        img: "spring2022/Workshop5_IG.png",
+        url: "https://fb.me/e/64pe5tyjg",
+        zoom: "https://ucsd.zoom.us/j/97354999363"
     },
     {
         id: 3,

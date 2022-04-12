@@ -1,4 +1,11 @@
 const prevEventsData = [
+   {
+        id: 2,
+        name: "BJ's Fundraiser",
+        date: "Mon, 4/11/2022 | 11am-11pm",
+        img: "spring2022/BJs_Fundraiser_IG_page 1.png",
+        url: "https://tinyurl.com/cssabjs-sp22"
+    },
     {
         id: 1,
         name: "Spring Quarter Intro GBM",
