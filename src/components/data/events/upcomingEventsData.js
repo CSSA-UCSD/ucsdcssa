@@ -8,6 +8,13 @@ const upcomingEventsData = [
         zoom: "https://ucsd.zoom.us/j/97354999363"
     },
     {
+        id: 2,
+        name: "2022-2023 Exec Board Applications",
+        date: "DUE Wed, 5/4/2022",
+        img: "spring2022/Board_Apps_IG.png",
+        url: "https://tinyurl.com/cssaboard22-23",
+    },
+    {
         id: 3,
         name: "Study Jam/Social",
         date: "Thur, 4/21/2022 | 5pm",
