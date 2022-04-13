@@ -28,10 +28,10 @@ const involvementData = [
         id: 4,
         level: "high",
         name: "Executive Board Members",
-        description: "Become an even more involved part of CSSA, and help organize incredible events working with fellow Cog Sci students and interacting with staff, guest speakers and more! Join our newsletter to be updated when applications are open!",
-        // We encourage anyone interested to apply! Applications open TODAY and will close on April 30th, the Friday of Week 5. Find more detailed information on the position duties linked in the Online Application form below.",
-        urltitle: "",
-        url: "https://tinyurl.com/cssaboardapply"
+        description: "Become an even more involved part of CSSA, and help organize incredible events working with fellow Cog Sci students and interacting with staff, guest speakers and more! Applications are OPEN and will close on May 4th, the Wednesday of Week 6. We encourage anyone interested to apply! Find more detailed information on the position duties linked in the Online Application form below.",
+        /*Join our newsletter to be updated when applications are open!",*/
+        urltitle: "APPLY for 2022-23 Exec",
+        url: "https://tinyurl.com/cssaboard22-23"
     }
 ]
 
