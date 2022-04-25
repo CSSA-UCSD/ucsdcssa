@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.8dd285ea.chunk.css",
-    "main.js": "/static/js/main.4d1e7b27.chunk.js",
-    "main.js.map": "/static/js/main.4d1e7b27.chunk.js.map",
+    "main.js": "/static/js/main.5cd0f9fc.chunk.js",
+    "main.js.map": "/static/js/main.5cd0f9fc.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.4d25ba2e.js",
     "runtime-main.js.map": "/static/js/runtime-main.4d25ba2e.js.map",
     "static/js/2.6cb99ffb.chunk.js": "/static/js/2.6cb99ffb.chunk.js",
@@ -10,6 +10,8 @@
     "index.html": "/index.html",
     "static/css/main.8dd285ea.chunk.css.map": "/static/css/main.8dd285ea.chunk.css.map",
     "static/js/2.6cb99ffb.chunk.js.LICENSE.txt": "/static/js/2.6cb99ffb.chunk.js.LICENSE.txt",
+    "static/media/4_Day1_Schedule_IG.png": "/static/media/4_Day1_Schedule_IG.fd727922.png",
+    "static/media/5_Day2_Schedule_IG.png": "/static/media/5_Day2_Schedule_IG.9b94b545.png",
     "static/media/BJs_Fundraiser_IG_page 1.png": "/static/media/BJs_Fundraiser_IG_page 1.a09479c3.png",
     "static/media/Banquet_IG.png": "/static/media/Banquet_IG.6dd0effb.png",
     "static/media/Board_Apps_IG.png": "/static/media/Board_Apps_IG.6ba26938.png",
@@ -18,6 +20,7 @@
     "static/media/Conference.png": "/static/media/Conference.aedebbd0.png",
     "static/media/CrossCampus.png": "/static/media/CrossCampus.bc8533b0.png",
     "static/media/CrossCampusSchedule.png": "/static/media/CrossCampusSchedule.55768bf2.png",
+    "static/media/Day3_Schedule_IG.png": "/static/media/Day3_Schedule_IG.fd2244c6.png",
     "static/media/DiscordHighlights.png": "/static/media/DiscordHighlights.980708ec.png",
     "static/media/ExecApps.png": "/static/media/ExecApps.e58f2a35.png",
     "static/media/GBM1.png": "/static/media/GBM1.ad10c1a8.png",
@@ -116,6 +119,6 @@
     "static/js/runtime-main.4d25ba2e.js",
     "static/js/2.6cb99ffb.chunk.js",
     "static/css/main.8dd285ea.chunk.css",
-    "static/js/main.4d1e7b27.chunk.js"
+    "static/js/main.5cd0f9fc.chunk.js"
   ]
 }
