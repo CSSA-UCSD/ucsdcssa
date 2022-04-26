@@ -1,5 +1,5 @@
-/*
 footer {
+    font-family: $header-font;
     i:hover {
             border-radius: 20px;
             background: rgba(146, 249, 243, 0.5);
@@ -7,6 +7,7 @@ footer {
             height: 30px;
             transition: all .3s ease;
     }
-
+    a {
+        font-family: inherit;
+    }
 }
-*/
