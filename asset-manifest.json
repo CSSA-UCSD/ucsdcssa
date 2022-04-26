@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.8dd285ea.chunk.css",
+    "main.css": "/static/css/main.858fe254.chunk.css",
     "main.js": "/static/js/main.e0b2b5e8.chunk.js",
     "main.js.map": "/static/js/main.e0b2b5e8.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.4d25ba2e.js",
@@ -8,7 +8,7 @@
     "static/js/2.6cb99ffb.chunk.js": "/static/js/2.6cb99ffb.chunk.js",
     "static/js/2.6cb99ffb.chunk.js.map": "/static/js/2.6cb99ffb.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.8dd285ea.chunk.css.map": "/static/css/main.8dd285ea.chunk.css.map",
+    "static/css/main.858fe254.chunk.css.map": "/static/css/main.858fe254.chunk.css.map",
     "static/js/2.6cb99ffb.chunk.js.LICENSE.txt": "/static/js/2.6cb99ffb.chunk.js.LICENSE.txt",
     "static/media/4_Day1_Schedule_IG.png": "/static/media/4_Day1_Schedule_IG.fd727922.png",
     "static/media/5_Day2_Schedule_IG.png": "/static/media/5_Day2_Schedule_IG.9b94b545.png",
@@ -118,7 +118,7 @@
   "entrypoints": [
     "static/js/runtime-main.4d25ba2e.js",
     "static/js/2.6cb99ffb.chunk.js",
-    "static/css/main.8dd285ea.chunk.css",
+    "static/css/main.858fe254.chunk.css",
     "static/js/main.e0b2b5e8.chunk.js"
   ]
 }
