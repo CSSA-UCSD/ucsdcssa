@@ -1,5 +1,13 @@
 const prevEventsData = [
     {
+        id: 8,
+        name: "Workshop 6: Find Your Summer Success",
+        date: "Tues, 5/10/2022 | 5pm",
+        img: "spring2022/Workshop6_IG.png",
+        url: "https://fb.me/e/1no15zeee",
+        slides: "https://docs.google.com/presentation/d/15cplMYvig9d9ZZ7r1axzAEkoucog31I-t74bnzYL5Q4/edit#slide=id.g1271a6c41dd_0_3182"
+    },
+    {
         id: 7,
         name: "2022-2023 Exec Board Applications",
         date: "DUE Wed, 5/4/2022",
