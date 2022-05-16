@@ -1,13 +1,7 @@
 const highlightsData = [
     {
-        id: 5,
-        title: "Apply for Exec Board by 5/4!",
-        type: "Executive Board Applications",
-        url: "https://tinyurl.com/cssaboard22-23"
-    }, 
-    {
         id: 3,
-        title: "Upcoming 2022 Conference",
+        title: "Check out this year's conference!",
         type: "National Cognitive Science Conference",
         url: "https://cssa-ucsd.github.io/conference2022/",
     },  
