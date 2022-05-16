@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.858fe254.chunk.css",
-    "main.js": "/static/js/main.498931a9.chunk.js",
-    "main.js.map": "/static/js/main.498931a9.chunk.js.map",
+    "main.js": "/static/js/main.2ef0037b.chunk.js",
+    "main.js.map": "/static/js/main.2ef0037b.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.4d25ba2e.js",
     "runtime-main.js.map": "/static/js/runtime-main.4d25ba2e.js.map",
     "static/js/2.6cb99ffb.chunk.js": "/static/js/2.6cb99ffb.chunk.js",
@@ -15,6 +15,7 @@
     "static/media/BJs_Fundraiser_IG_page 1.png": "/static/media/BJs_Fundraiser_IG_page 1.a09479c3.png",
     "static/media/Banquet_IG.png": "/static/media/Banquet_IG.6dd0effb.png",
     "static/media/Board_Apps_IG.png": "/static/media/Board_Apps_IG.6ba26938.png",
+    "static/media/Braver_Roundtable_IG.png": "/static/media/Braver_Roundtable_IG.ea31d1f4.png",
     "static/media/Chipotle_Fundraiser_IG_page1.png": "/static/media/Chipotle_Fundraiser_IG_page1.e31d9d60.png",
     "static/media/Chipotle_Fundraiser_IG_page2.png": "/static/media/Chipotle_Fundraiser_IG_page2.cbbb4cae.png",
     "static/media/Conference.png": "/static/media/Conference.aedebbd0.png",
@@ -120,6 +121,6 @@
     "static/js/runtime-main.4d25ba2e.js",
     "static/js/2.6cb99ffb.chunk.js",
     "static/css/main.858fe254.chunk.css",
-    "static/js/main.498931a9.chunk.js"
+    "static/js/main.2ef0037b.chunk.js"
   ]
 }
