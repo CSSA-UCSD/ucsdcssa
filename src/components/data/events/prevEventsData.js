@@ -1,5 +1,12 @@
 const prevEventsData = [
     {
+        id: 9,
+        name: "Todd Braver Round Table",
+        date: "Mon, 5/16/2022 | 5pm",
+        img: "spring2022/Braver_Roundtable_IG.png",
+        url: "https://fb.me/e/1LS0cx9gc"
+    },
+    {
         id: 8,
         name: "Workshop 6: Find Your Summer Success",
         date: "Tues, 5/10/2022 | 5pm",
