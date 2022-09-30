@@ -10,7 +10,7 @@ const upcomingEventsData = [
         id: 2,
         name: "U Can Seriously Design",
         date: "Mon, 10/10/2022 | 5PM-6PM",
-        img: "fall2022/Workshop1.png",
+        img: "",
         url: ""
     }
 ]
