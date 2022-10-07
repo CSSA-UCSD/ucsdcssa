@@ -48,7 +48,7 @@ const execData = [
         id: 8,
         name: "Kaushika Uppu",
         position: "Content Writer",
-        year: "2022",
+        year: "2024",
         img: "exec_2022_2023/kushi.JPG",
         imgHover: "exec_2022_2023/kushi_hover.JPG",
         url: "https://www.facebook.com/webraincogsci"
