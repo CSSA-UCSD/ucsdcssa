@@ -1,7 +1,7 @@
 const execData = [
     {
         id: 3,
-        name: "Yifan Lou",
+        name: "Yifan (Linda) Lou",
         position: "Secretary",
         year: "2025",
         img: "exec_2022_2023/yifan.JPG",
@@ -85,8 +85,8 @@ const execData = [
         name: "Cindy Peng",
         position: "Design",
         year: "2024",
-        imgHover: "exec_2022_2023/cindy.JPG",
-        img: "exec_2022_2023/cindy_hover.JPG",
+        img: "exec_2022_2023/cindy.JPG",
+        imgHover: "exec_2022_2023/cindy_hover.JPG",
         url: "https://www.facebook.com/webraincogsci"
     },
     {
