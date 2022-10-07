@@ -110,7 +110,7 @@ const execData = [
     {
         id: 15,
         name: "Lucy Lennemann",
-        position: "Web Development",
+        position: "Web Developer",
         year: "2024",
         img: "exec_2022_2023/lucy.JPG",
         imgHover: "exec_2022_2023/lucy_hover.JPG",
@@ -119,7 +119,7 @@ const execData = [
     {
         id: 16,
         name: "Michael Welsome",
-        position: "Web Development",
+        position: "Web Developer",
         year: "2024",
         img: "exec_2022_2023/michael.JPG",
         imgHover: "exec_2022_2023/michael_hover.JPG",
@@ -130,8 +130,8 @@ const execData = [
         name: "Vicky Chou",
         position: "Web Developer",
         year: "2023",
-        img: "exec_2021_2022/vicky.jpeg",
-        imgHover: "exec_2021_2022/vicky_hover.jpeg",
+        img: "exec_2022_2023/vicky.JPG",
+        imgHover: "exec_2022_2023/vicky_hover.JPG",
         url: "https://www.facebook.com/webraincogsci"
     },
 ]
