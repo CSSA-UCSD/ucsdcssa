@@ -3,7 +3,7 @@ const execData = [
         id: 3,
         name: "Yifan Lou",
         position: "Secretary",
-        year: "2023",
+        year: "2025",
         img: "exec_2022_2023/yifan.JPG",
         imgHover: "exec_2022_2023/yifan_hover.JPG",
         url: "https://www.facebook.com/webraincogsci"
@@ -21,7 +21,7 @@ const execData = [
         id: 5,
         name: "Laura Charria",
         position: "Community Chair",
-        year: "2023",
+        year: "2024",
         img: "exec_2022_2023/laura.JPG",
         imgHover: "exec_2022_2023/laura_hover.JPG",
         url: "https://www.facebook.com/webraincogsci"
@@ -30,7 +30,7 @@ const execData = [
         id: 6,
         name: "Anastasiya Markova",
         position: "Professional Relations",
-        year: "2024",
+        year: "2025",
         img: "exec_2022_2023/anastasiya.JPG",
         imgHover: "exec_2022_2023/anastasiya_hover.JPG",
         url: "https://www.facebook.com/webraincogsci"
@@ -39,7 +39,7 @@ const execData = [
         id: 7,
         name: "Amita Ram",
         position: "Professional Relations",
-        year: "2024",
+        year: "2025",
         img: "exec_2022_2023/amita.JPG",
         imgHover: "exec_2022_2023/amita_hover.JPG",
         url: "https://www.facebook.com/webraincogsci"
@@ -57,7 +57,7 @@ const execData = [
         id: 9,
         name: "Anthony Vivas",
         position: "Marketing",
-        year: "2022",
+        year: "2023",
         img: "exec_2022_2023/anthony.JPG",
         imgHover: "exec_2022_2023/anthony_hover.JPG",
         url: "https://www.facebook.com/webraincogsci"
@@ -93,7 +93,7 @@ const execData = [
         id: 13,
         name: "Samantha Sayson",
         position: "Design",
-        year: "2023",
+        year: "2025",
         img: "exec_2022_2023/sam.JPG",
         imgHover: "exec_2022_2023/sam_hover.JPG",
         url: "https://www.facebook.com/webraincogsci"
@@ -102,7 +102,7 @@ const execData = [
         id: 14,
         name: "Jessica Fung",
         position: "Design",
-        year: "2022",
+        year: "2025",
         img: "exec_2022_2023/jessica.png",
         imgHover: "exec_2022_2023/jessica_hover.JPG",
         url: "https://www.facebook.com/webraincogsci"
