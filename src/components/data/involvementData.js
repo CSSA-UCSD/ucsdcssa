@@ -20,9 +20,9 @@ const involvementData = [
         id: 3,
         level: "high",
         name: "Committee Members",
-        description: "Be a part of a committee of your choice and assist our executive board members with various responsibilities while getting to know our cognitive science community first hand. Applications are currently open till Friday 1/21! We encourage anyone interested to apply.",
-        urltitle: "Web Dev Committee App ",
-        url: "https://tinyurl.com/CSSAWebDev2022"
+        description: "Be a part of a committee of your choice and assist our executive board members with various responsibilities while getting to know our cognitive science community first hand. Applications are currently open till Sunday 10/23! We encourage anyone interested to apply.",
+        urltitle: "Extended Board App",
+        url: "https://tinyurl.com/extendedboard22"
     },
     {
         id: 4,
