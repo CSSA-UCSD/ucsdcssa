@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/static/css/main.e5dc898f.chunk.css",
-    "main.js": "/static/js/main.b5ae35cd.chunk.js",
-    "main.js.map": "/static/js/main.b5ae35cd.chunk.js.map",
+    "main.css": "/static/css/main.858fe254.chunk.css",
+    "main.js": "/static/js/main.50b6cd1c.chunk.js",
+    "main.js.map": "/static/js/main.50b6cd1c.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.4d25ba2e.js",
     "runtime-main.js.map": "/static/js/runtime-main.4d25ba2e.js.map",
     "static/js/2.6cb99ffb.chunk.js": "/static/js/2.6cb99ffb.chunk.js",
     "static/js/2.6cb99ffb.chunk.js.map": "/static/js/2.6cb99ffb.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.e5dc898f.chunk.css.map": "/static/css/main.e5dc898f.chunk.css.map",
+    "static/css/main.858fe254.chunk.css.map": "/static/css/main.858fe254.chunk.css.map",
     "static/js/2.6cb99ffb.chunk.js.LICENSE.txt": "/static/js/2.6cb99ffb.chunk.js.LICENSE.txt",
     "static/media/4_Day1_Schedule_IG.png": "/static/media/4_Day1_Schedule_IG.fd727922.png",
     "static/media/5_Day2_Schedule_IG.png": "/static/media/5_Day2_Schedule_IG.9b94b545.png",
@@ -51,7 +51,7 @@
     "static/media/WebDev_Committee_IG.png": "/static/media/WebDev_Committee_IG.37e5bf49.png",
     "static/media/WinterSocial.png": "/static/media/WinterSocial.b8339c62.png",
     "static/media/Winter_GBM_IG.png": "/static/media/Winter_GBM_IG.afcba3d5.png",
-    "static/media/Wordmark_Dark.ccefd2b4.svg": "/static/media/Wordmark_Dark.ccefd2b4.svg",
+    "static/media/Wordmark_Dark.9253ace5.svg": "/static/media/Wordmark_Dark.9253ace5.svg",
     "static/media/Workshop1_IG.png": "/static/media/Workshop1_IG.1fc86bed.png",
     "static/media/Workshop2_IG.png": "/static/media/Workshop2_IG.fba34f69.png",
     "static/media/Workshop3_IG.png": "/static/media/Workshop3_IG.2aa71486.png",
@@ -142,17 +142,18 @@
     "static/media/simran_fun.jpg": "/static/media/simran_fun.5cee7894.jpg",
     "static/media/sophia.jpeg": "/static/media/sophia.a78eaafd.jpeg",
     "static/media/sophia_hover.jpeg": "/static/media/sophia_hover.770a5111.jpeg",
+    "static/media/trivia_night.png": "/static/media/trivia_night.28658f86.png",
     "static/media/vicky.jpeg": "/static/media/vicky.58cab4db.jpeg",
     "static/media/vicky.JPG": "/static/media/vicky.f8972866.JPG",
     "static/media/vicky_hover.JPG": "/static/media/vicky_hover.7d71d4d7.JPG",
     "static/media/vicky_hover.jpeg": "/static/media/vicky_hover.ad1fd006.jpeg",
-    "static/media/yifan.JPG": "/static/media/yifan.39a033d3.JPG",
+    "static/media/yifan.jpg": "/static/media/yifan.39a033d3.jpg",
     "static/media/yifan_hover.JPG": "/static/media/yifan_hover.714aa71b.JPG"
   },
   "entrypoints": [
     "static/js/runtime-main.4d25ba2e.js",
     "static/js/2.6cb99ffb.chunk.js",
-    "static/css/main.e5dc898f.chunk.css",
-    "static/js/main.b5ae35cd.chunk.js"
+    "static/css/main.858fe254.chunk.css",
+    "static/js/main.50b6cd1c.chunk.js"
   ]
 }
