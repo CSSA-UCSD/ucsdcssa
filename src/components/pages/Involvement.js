@@ -10,7 +10,8 @@ class Involvement extends React.Component {
         });
     }
     render() {
-        const InvolvementComponent = involvementData.map(item => < InvolvementCard key={item.id} item={item}/>);
+        const sortedInvolvementData = involvementData.sort((itemA, itemB) => itemA.id - itemB.id);
+        const InvolvementComponent = sortedInvolvementData.map(item => < InvolvementCard key={item.id} item={item}/>);
         return (
             <div className="container involvement">
                 <div className="row">
