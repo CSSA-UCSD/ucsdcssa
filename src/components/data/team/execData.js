@@ -4,7 +4,7 @@ const execData = [
         name: "Yifan (Linda) Lou",
         position: "Secretary",
         year: "2025",
-        img: "exec_2022_2023/yifan.jpg",
+        img: "exec_2022_2023/yifan.JPG",
         imgHover: "exec_2022_2023/yifan_hover.JPG",
         url: "https://www.facebook.com/webraincogsci"
     },

@@ -1,19 +1,5 @@
 const upcomingEventsData = [
     {
-        id: 3,
-        name: "Cog Sci Trivia Night",
-        date: "10/18/2022",
-        img: "fall2022/trivia_night.png",
-        url: ""
-    },
-    {
-        id: 4,
-        name: "Fundraiser 1",
-        date: "10/19/2022",
-        img: "",
-        url: ""
-    },
-    {
         id: 5,
         name: "Lab Open House",
         date: "11/7/2022",
@@ -36,7 +22,7 @@ const upcomingEventsData = [
     },
     {
         id: 8,
-        name: "Fundraiser 3",
+        name: "Fundraiser 1",
         date: "11/16/2022",
         img: "",
         url: ""

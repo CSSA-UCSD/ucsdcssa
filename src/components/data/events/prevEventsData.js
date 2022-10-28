@@ -1,5 +1,12 @@
 const prevEventsData = [
     {
+        id: 13,
+        name: "Cog Sci Trivia Night",
+        date: "10/18/2022",
+        img: "fall2022/trivia_night.png",
+        url: ""
+    },
+    {
         id: 12,
         name: "U Can Seriously Design",
         date: "Mon, 10/10/2022 | 5PM-6PM",
