@@ -3,7 +3,7 @@ const upcomingEventsData = [
         id: 5,
         name: "Lab Open House",
         date: "11/7/2022",
-        img: "",
+        img: "fall2022/LOH_IG.png",
         url: ""
     },
     {
