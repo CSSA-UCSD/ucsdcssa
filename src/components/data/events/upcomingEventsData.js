@@ -15,7 +15,7 @@ const upcomingEventsData = [
     },
     {
         id: 7,
-        name: "Workshop 2",
+        name: "Workshop 2: Alumni Career Panel",
         date: "11/14/2022",
         img: "",
         url: ""
