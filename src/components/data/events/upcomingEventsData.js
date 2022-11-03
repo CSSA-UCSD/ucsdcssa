@@ -4,7 +4,7 @@ const upcomingEventsData = [
         name: "Lab Open House",
         date: "11/7/2022",
         img: "fall2022/LOH_IG.png",
-        url: ""
+        url: "https://fb.me/e/39ZZXfIdc"
     },
     {
         id: 6,
@@ -15,7 +15,7 @@ const upcomingEventsData = [
     },
     {
         id: 7,
-        name: "Workshop 2: Alumni Career Panel",
+        name: "Alumni Career Panel",
         date: "11/14/2022",
         img: "",
         url: ""
