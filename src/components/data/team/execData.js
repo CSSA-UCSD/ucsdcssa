@@ -4,8 +4,8 @@ const execData = [
         name: "Yifan (Linda) Lou",
         position: "Secretary",
         year: "2025",
-        img: "exec_2022_2023/yifan.JPG",
-        imgHover: "exec_2022_2023/yifan_hover.JPG",
+        img: "exec_2022_2023/linda.jpg",
+        imgHover: "exec_2022_2023/linda_hover.jpg",
         url: "https://www.facebook.com/webraincogsci"
     },
     {
@@ -13,8 +13,8 @@ const execData = [
         name: "Jacquelyn Garabedian",
         position: "Treasurer",
         year: "2024",
-        img: "exec_2022_2023/jacquelyn.JPG",
-        imgHover: "exec_2022_2023/jacquelyn_hover.JPG",
+        img: "exec_2022_2023/jacquelyn.jpg",
+        imgHover: "exec_2022_2023/jacquelyn_hover.jpg",
         url: "https://www.facebook.com/webraincogsci"
     },
     {
@@ -22,8 +22,8 @@ const execData = [
         name: "Laura Charria",
         position: "Community Chair",
         year: "2024",
-        img: "exec_2022_2023/laura.JPG",
-        imgHover: "exec_2022_2023/laura_hover.JPG",
+        img: "exec_2022_2023/laura.jpg",
+        imgHover: "exec_2022_2023/laura_hover.jpg",
         url: "https://www.facebook.com/webraincogsci"
     },
     {
@@ -31,8 +31,8 @@ const execData = [
         name: "Anastasiya Markova",
         position: "Professional Relations",
         year: "2025",
-        img: "exec_2022_2023/anastasiya.JPG",
-        imgHover: "exec_2022_2023/anastasiya_hover.JPG",
+        img: "exec_2022_2023/anastasiya.jpg",
+        imgHover: "exec_2022_2023/anastasiya_hover.jpg",
         url: "https://www.facebook.com/webraincogsci"
     },
     {
@@ -49,8 +49,8 @@ const execData = [
         name: "Kaushika Uppu",
         position: "Content Writer",
         year: "2024",
-        img: "exec_2022_2023/kushi.JPG",
-        imgHover: "exec_2022_2023/kushi_hover.JPG",
+        img: "exec_2022_2023/kushi.jpg",
+        imgHover: "exec_2022_2023/kushi_hover.jpg",
         url: "https://www.facebook.com/webraincogsci"
     },
     {
@@ -58,8 +58,8 @@ const execData = [
         name: "Anthony Vivas",
         position: "Marketing",
         year: "2023",
-        img: "exec_2022_2023/anthony.JPG",
-        imgHover: "exec_2022_2023/anthony_hover.JPG",
+        img: "exec_2022_2023/anthony.jpg",
+        imgHover: "exec_2022_2023/anthony_hover.jpg",
         url: "https://www.facebook.com/webraincogsci"
     },
     {
@@ -67,8 +67,8 @@ const execData = [
         name: "Kelly Nham",
         position: "Marketing",
         year: "2023",
-        img: "exec_2022_2023/kelly.jpeg",
-        imgHover: "exec_2022_2023/kelly_hover.jpeg",
+        img: "exec_2022_2023/kelly.jpg",
+        imgHover: "exec_2022_2023/kelly_hover.jpg",
         url: "https://www.facebook.com/webraincogsci"
     },
     {
@@ -76,8 +76,8 @@ const execData = [
         name: "Andrina Zhang",
         position: "Photographer/Videographer",
         year: "2024",
-        img: "exec_2022_2023/andrina.JPG",
-        imgHover: "exec_2022_2023/andrina_hover.JPG",
+        img: "exec_2022_2023/andrina.jpg",
+        imgHover: "exec_2022_2023/andrina_hover.jpg",
         url: "https://www.facebook.com/webraincogsci"
     },
     {
@@ -85,8 +85,8 @@ const execData = [
         name: "Cindy Peng",
         position: "Design",
         year: "2024",
-        img: "exec_2022_2023/cindy.JPG",
-        imgHover: "exec_2022_2023/cindy_hover.JPG",
+        img: "exec_2022_2023/cindy.jpg",
+        imgHover: "exec_2022_2023/cindy_hover.jpg",
         url: "https://www.facebook.com/webraincogsci"
     },
     {
@@ -94,8 +94,8 @@ const execData = [
         name: "Samantha Sayson",
         position: "Design",
         year: "2025",
-        img: "exec_2022_2023/sam.JPG",
-        imgHover: "exec_2022_2023/sam_hover.JPG",
+        img: "exec_2022_2023/samantha.jpg",
+        imgHover: "exec_2022_2023/samantha_hover.jpg",
         url: "https://www.facebook.com/webraincogsci"
     },
     {
@@ -103,8 +103,8 @@ const execData = [
         name: "Jessica Fung",
         position: "Design",
         year: "2025",
-        img: "exec_2022_2023/jessica.png",
-        imgHover: "exec_2022_2023/jessica_hover.JPG",
+        img: "exec_2022_2023/jessica.jpg",
+        imgHover: "exec_2022_2023/jessica_hover.jpg",
         url: "https://www.facebook.com/webraincogsci"
     },
     {
@@ -112,8 +112,8 @@ const execData = [
         name: "Lucy Lennemann",
         position: "Web Developer",
         year: "2024",
-        img: "exec_2022_2023/lucy.JPG",
-        imgHover: "exec_2022_2023/lucy_hover.JPG",
+        img: "exec_2022_2023/lucy.jpg",
+        imgHover: "exec_2022_2023/lucy_hover.jpg",
         url: "https://www.facebook.com/webraincogsci"
     },
     {
@@ -121,8 +121,8 @@ const execData = [
         name: "Michael Welsome",
         position: "Web Developer",
         year: "2024",
-        img: "exec_2022_2023/michael.JPG",
-        imgHover: "exec_2022_2023/michael_hover.JPG",
+        img: "exec_2022_2023/michael.jpg",
+        imgHover: "exec_2022_2023/michael_hover.jpg",
         url: "https://www.facebook.com/webraincogsci"
     },
     {
@@ -130,8 +130,8 @@ const execData = [
         name: "Vicky Chou",
         position: "Web Developer",
         year: "2023",
-        img: "exec_2022_2023/vicky.JPG",
-        imgHover: "exec_2022_2023/vicky_hover.JPG",
+        img: "exec_2022_2023/vicky.jpg",
+        imgHover: "exec_2022_2023/vicky_hover.jpg",
         url: "https://www.facebook.com/webraincogsci"
     },
 ]
