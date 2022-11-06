@@ -22,13 +22,6 @@ const upcomingEventsData = [
     },
     {
         id: 8,
-        name: "Fundraiser 1",
-        date: "11/16/2022",
-        img: "",
-        url: ""
-    },
-    {
-        id: 9,
         name: "Study Jam",
         date: "11/29/2022",
         img: "",
