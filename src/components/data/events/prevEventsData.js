@@ -1,5 +1,14 @@
 const prevEventsData = [
     {
+        id: 7,
+        name: "Alumni Career Panel",
+        date: "11/14/2022",
+        img: "fall2022/Workshop2_IG.png",
+        slides: "https://docs.google.com/presentation/d/1p6-Wc_L_1QQsO2eClj61aCHRO2zrP1Ibj7ClktS-sFU/edit#slide=id.g18739e07df7_1_1116",
+        url: "https://fb.me/e/35esZ708Z",
+        zoom: "https://ucsd.zoom.us/rec/play/LCYJOzrxFDaPp8JTh9mYUaoY3FXouu4izNgWBADwD-Ap1ffLjCUDy5aU2GbXNr5O04s4XzWndamNAm1P.7cRcEAoSYor1_q0I?autoplay=true&startTime=1668474637000"
+    },
+    {
         id: 13,
         name: "Cog Sci Trivia Night",
         date: "10/18/2022",
