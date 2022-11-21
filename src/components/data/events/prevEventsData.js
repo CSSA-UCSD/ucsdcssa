@@ -2,7 +2,7 @@ const prevEventsData = [
     {
         id: 7,
         name: "Alumni Career Panel",
-        date: "11/14/2022",
+        date: "Mon, 11/14/2022 | 5PM-6PM",
         img: "fall2022/Workshop2_IG.png",
         slides: "https://docs.google.com/presentation/d/1p6-Wc_L_1QQsO2eClj61aCHRO2zrP1Ibj7ClktS-sFU/edit#slide=id.g18739e07df7_1_1116",
         url: "https://fb.me/e/35esZ708Z",
@@ -11,7 +11,7 @@ const prevEventsData = [
     {
         id: 13,
         name: "Cog Sci Trivia Night",
-        date: "10/18/2022",
+        date: "Tues, 10/18/2022 | 5PM-6PM",
         img: "fall2022/trivia_night.png",
         url: ""
     },
