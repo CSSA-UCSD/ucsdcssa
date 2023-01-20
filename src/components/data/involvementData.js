@@ -21,8 +21,8 @@ const involvementData = [
         level: "high",
         name: "Committee Members",
         description: "Be a part of a committee of your choice and assist our executive board members with various responsibilities while getting to know our cognitive science community first hand.",
-        urltitle: "Extended Board App",
-        url: "https://tinyurl.com/extendedboard22"
+        // urltitle: "Extended Board App",
+        // url: "https://tinyurl.com/extendedboard22"
     },
     {
         id: 5,
