@@ -20,7 +20,7 @@ const involvementData = [
         id: 3,
         level: "high",
         name: "Committee Members",
-        description: "Be a part of a committee of your choice and assist our executive board members with various responsibilities while getting to know our cognitive science community first hand. Applications are currently open till Sunday 10/23! We encourage anyone interested to apply.",
+        description: "Be a part of a committee of your choice and assist our executive board members with various responsibilities while getting to know our cognitive science community first hand.",
         urltitle: "Extended Board App",
         url: "https://tinyurl.com/extendedboard22"
     },
@@ -38,8 +38,8 @@ const involvementData = [
         level: "high",
         name: "Peer Mentorship Program",
         description: "Become a mentor or mentee and foster your connection to the cognitive science community! This is an incredible opportunity for younger students to gain knowledge about careers and classes from a mentor or for older students to gain leadership experience.",
-        urltitle: "Peer Mentorship App",
-        url: "https://docs.google.com/forms/d/e/1FAIpQLSfKDk8x3FVaCIpXjg9tkoLP_FbpexiT7GZSFfUNb65VIxk5hw/viewform"
+        // urltitle: "Peer Mentorship App",
+        // url: "https://docs.google.com/forms/d/e/1FAIpQLSfKDk8x3FVaCIpXjg9tkoLP_FbpexiT7GZSFfUNb65VIxk5hw/viewform"
     }
 ]
 
