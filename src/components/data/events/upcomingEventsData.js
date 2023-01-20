@@ -25,7 +25,7 @@ const upcomingEventsData = [
         id: 4,
         name: "Workshop 1: Portfolio",
         date: "1/23/2023 | 5PM-6PM",
-        img: "",
+        img: "winter2023/Winter Workshop 1.png",
         url: ""
     },
     {
