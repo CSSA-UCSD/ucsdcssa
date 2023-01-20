@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.aa653a7d.chunk.css",
-    "main.js": "/static/js/main.06164fef.chunk.js",
-    "main.js.map": "/static/js/main.06164fef.chunk.js.map",
+    "main.js": "/static/js/main.13cac65c.chunk.js",
+    "main.js.map": "/static/js/main.13cac65c.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.4d25ba2e.js",
     "runtime-main.js.map": "/static/js/runtime-main.4d25ba2e.js.map",
     "static/js/2.6cb99ffb.chunk.js": "/static/js/2.6cb99ffb.chunk.js",
@@ -39,6 +39,7 @@
     "static/media/Social1.gif": "/static/media/Social1.c383121d.gif",
     "static/media/Social1_IG.png": "/static/media/Social1_IG.e84c8569.png",
     "static/media/Spring_GBM_IG.png": "/static/media/Spring_GBM_IG.402e9484.png",
+    "static/media/Study Jam.jpg": "/static/media/Study Jam.09d29fe4.jpg",
     "static/media/StudyJam_IG.png": "/static/media/StudyJam_IG.ae509572.png",
     "static/media/SummerWorkshop.png": "/static/media/SummerWorkshop.0c20b351.png",
     "static/media/TalkSeries_DI.png": "/static/media/TalkSeries_DI.569e9047.png",
@@ -50,6 +51,7 @@
     "static/media/Talk_Series_3_IG.png": "/static/media/Talk_Series_3_IG.a6b535fb.png",
     "static/media/main.scss": "/static/media/Wavehaus-95SemiBold.4e467f6b.otf",
     "static/media/WebDev_Committee_IG.png": "/static/media/WebDev_Committee_IG.37e5bf49.png",
+    "static/media/Winter GBM 1 IG.png": "/static/media/Winter GBM 1 IG.5ae3b3f3.png",
     "static/media/WinterSocial.png": "/static/media/WinterSocial.b8339c62.png",
     "static/media/Winter_GBM_IG.png": "/static/media/Winter_GBM_IG.afcba3d5.png",
     "static/media/Wordmark_Dark.9253ace5.svg": "/static/media/Wordmark_Dark.9253ace5.svg",
@@ -159,6 +161,6 @@
     "static/js/runtime-main.4d25ba2e.js",
     "static/js/2.6cb99ffb.chunk.js",
     "static/css/main.aa653a7d.chunk.css",
-    "static/js/main.06164fef.chunk.js"
+    "static/js/main.13cac65c.chunk.js"
   ]
 }
