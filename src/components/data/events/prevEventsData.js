@@ -1,5 +1,12 @@
 const prevEventsData = [
     {
+        id: 16,
+        name: "Study Jam",
+        date: "Tues, 11/29/2022 | 5PM-7PM",
+        img: "fall2022/Study Jam.jpg",
+        url: ""
+    },
+    {
         id: 15,
         name: "Boba Run with Design Co",
         date: "Mon, 11/21/2022 | 6:30 PM",
