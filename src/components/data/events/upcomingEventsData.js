@@ -1,13 +1,6 @@
 // date format: "Weekday, MM/DD/YYYY | xPM-xPM"
 const upcomingEventsData = [
     {
-        id: 4,
-        name: "Showcase Your Portfolio",
-        date: "1/23/2023 | 5PM-6PM",
-        img: "winter2023/Winter Workshop 1.png",
-        url: ""
-    },
-    {
         id: 5,
         name: "Winter Lab Open House",
         date: "1/31/2023 | 6PM-9PM",

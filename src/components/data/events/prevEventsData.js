@@ -1,4 +1,11 @@
 const prevEventsData = [
+      {
+        id: 4,
+        name: "Showcase Your Portfolio",
+        date: "1/23/2023 | 5PM-6PM",
+        img: "winter2023/Winter Workshop 1.png",
+        slides: "https://docs.google.com/presentation/d/1aSYwkLTHiKBAzorekS-pHmhPs7wjCNqzLSgOsvXEKGc/edit#slide=id.ga00b5d1956_1_6"
+    },
     {
         id: 19,
         name: "Game Room Social",
