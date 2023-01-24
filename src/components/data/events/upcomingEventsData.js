@@ -1,29 +1,8 @@
 // date format: "Weekday, MM/DD/YYYY | xPM-xPM"
 const upcomingEventsData = [
     {
-        id: 1,
-        name: "Winter GBM",
-        date: "1/20/2023 | 4PM-5PM",
-        img: "winter2023/Winter GBM 1 IG.png",
-        url: ""
-    },
-    {
-        id: 2,
-        name: "Post GBM Movie Night",
-        date: "1/20/2023 | 5PM-6:30PM",
-        img: "",
-        url: ""
-    },
-    {
-        id: 3,
-        name: "Game Room Social",
-        date: "1/21/2023 | 12PM-4PM",
-        img: "",
-        url: ""
-    },
-    {
         id: 4,
-        name: "Workshop 1: Portfolio",
+        name: "Showcase Your Portfolio",
         date: "1/23/2023 | 5PM-6PM",
         img: "winter2023/Winter Workshop 1.png",
         url: ""
@@ -32,7 +11,7 @@ const upcomingEventsData = [
         id: 5,
         name: "Winter Lab Open House",
         date: "1/31/2023 | 6PM-9PM",
-        img: "",
+        img: "winter2023/LOH_IG.png",
         url: ""
     },
     {

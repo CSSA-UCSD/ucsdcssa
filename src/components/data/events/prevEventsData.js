@@ -1,5 +1,26 @@
 const prevEventsData = [
     {
+        id: 19,
+        name: "Game Room Social",
+        date: "Sat, 1/21/2023 | 12PM-4PM",
+        img: "",
+        url: ""
+    },
+    {
+        id: 18,
+        name: "Post GBM Movie Night",
+        date: "Fri, 1/20/2023 | 5PM-6:30PM",
+        img: "",
+        url: ""
+    },
+    {
+        id: 17,
+        name: "Winter GBM",
+        date: "Fri, 1/20/2023 | 4PM-5PM",
+        img: "winter2023/Winter GBM 1 IG.png",
+        slides: "https://docs.google.com/presentation/d/1oRR_auFe4PmsLxBk3x8DVjXYl-6PgE-TSwtFKpWAow0/edit#slide=id.g9d9be735bb_1_0"
+    },
+    {
         id: 16,
         name: "Study Jam",
         date: "Tues, 11/29/2022 | 5PM-7PM",
