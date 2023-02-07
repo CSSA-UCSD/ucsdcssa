@@ -4,28 +4,28 @@ const upcomingEventsData = [
     {
         id: 6,
         name: "Winter Talk Series #1",
-        date: "2/8/2023 | 5PM-6PM",
-        img: "",
+        date: "Wed, 2/8/2023 | 5PM-6PM",
+        img: "winter2023/wintertalk1.png",
         url: ""
     },
     {
         id: 7,
         name: "Winter Talk Series #2",
-        date: "2/15/2023 | 5PM-6PM",
+        date: "Wed, 2/15/2023 | 5PM-6PM",
         img: "",
         url: ""
     },
     {
         id: 8,
         name: "Winter Talk Series #3",
-        date: "2/22/2023 | 5PM-6PM",
+        date: "Wed, 2/22/2023 | 5PM-6PM",
         img: "",
         url: ""
     },
     {
         id: 9,
         name: "Workshop 2",
-        date: "2/27/2023 | 5PM-6PM",
+        date: "Mon, 2/27/2023 | 5PM-6PM",
         img: "",
         url: ""
     },
