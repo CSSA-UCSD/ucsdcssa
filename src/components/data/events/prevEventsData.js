@@ -1,4 +1,25 @@
 const prevEventsData = [
+      {
+        id: 9,
+        name: "Workshop 2",
+        date: "Mon, 2/27/2023 | 5PM-6PM",
+        img: "winter2023/winterworkshop2.png",
+        slides: "https://docs.google.com/presentation/d/1JxZp1VFbk5fK8MFm9LeJBGOO2CN5dDD5ur9lZ6UjMc8/edit?usp=sharing"
+      },
+      {
+        id: 24,
+        name: "Winter Talk Series #2",
+        date: "Wed, 2/15/2023 | 5PM-6PM",
+        img: "winter2023/wintertalk2.png",
+        url: "https://drive.google.com/file/d/1bjB8ZuoILmV9Xcnr7pCSVBD1aE5pEOak/view?usp=sharing"
+      },
+      {
+        id: 23,
+        name: "Winter Talk Series #1",
+        date: "Wed, 2/8/2023 | 5PM-6PM",
+        img: "winter2023/wintertalk1.png",
+        url: "https://drive.google.com/file/d/1dmhbajWMYPqeXXkhbE1pTGJsmNrSY0A_/view?usp=sharing"
+    },
     {
         id: 22,
         name: "Board Game Night",
