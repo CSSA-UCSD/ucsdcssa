@@ -1,6 +1,13 @@
 const prevEventsData = [
+    {
+        id: 26,
+        name: "Winter Talk Series #3",
+        date: "Wed, 2/22/2023 | 5PM-6PM",
+        img: "winter2023/wintertalk3.png",
+        url: "https://drive.google.com/file/d/1tXcmb-rdbq6eHSUKmZR7GmuhurnYZ_m8/view?usp=sharing"
+    },
       {
-        id: 9,
+        id: 25,
         name: "Workshop 2",
         date: "Mon, 2/27/2023 | 5PM-6PM",
         img: "winter2023/winterworkshop2.png",
