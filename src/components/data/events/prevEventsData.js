@@ -4,7 +4,7 @@ const prevEventsData = [
         name: "Winter Talk Series #3",
         date: "Wed, 2/22/2023 | 5PM-6PM",
         img: "winter2023/wintertalk3.png",
-        url: "https://drive.google.com/file/d/1tXcmb-rdbq6eHSUKmZR7GmuhurnYZ_m8/view?usp=sharing"
+        zoom: "https://drive.google.com/file/d/1tXcmb-rdbq6eHSUKmZR7GmuhurnYZ_m8/view?usp=sharing"
     },
       {
         id: 25,
@@ -18,14 +18,14 @@ const prevEventsData = [
         name: "Winter Talk Series #2",
         date: "Wed, 2/15/2023 | 5PM-6PM",
         img: "winter2023/wintertalk2.png",
-        url: "https://drive.google.com/file/d/1bjB8ZuoILmV9Xcnr7pCSVBD1aE5pEOak/view?usp=sharing"
+        zoom: "https://drive.google.com/file/d/1bjB8ZuoILmV9Xcnr7pCSVBD1aE5pEOak/view?usp=sharing"
       },
       {
         id: 23,
         name: "Winter Talk Series #1",
         date: "Wed, 2/8/2023 | 5PM-6PM",
         img: "winter2023/wintertalk1.png",
-        url: "https://drive.google.com/file/d/1dmhbajWMYPqeXXkhbE1pTGJsmNrSY0A_/view?usp=sharing"
+        zoom: "https://drive.google.com/file/d/1dmhbajWMYPqeXXkhbE1pTGJsmNrSY0A_/view?usp=sharing"
     },
     {
         id: 22,
