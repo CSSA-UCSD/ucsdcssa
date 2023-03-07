@@ -1,5 +1,12 @@
 const prevEventsData = [
     {
+        id: 27,
+        name: "Hike to Torrey Pines",
+        date: "3/5/2023 | 10AM-2PM",
+        img: "",
+        url: ""
+    },
+    {
         id: 26,
         name: "Winter Talk Series #3",
         date: "Wed, 2/22/2023 | 5PM-6PM",
