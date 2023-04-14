@@ -1,5 +1,13 @@
 const prevEventsData = [
     {
+        id: 28,
+        url: "https://fb.me/e/2HnIpaH2W",
+        name: "Spring GBM 1",
+        date: "Thurs, 4/13/2023 | 4PM-5PM",
+        img: "spring2023/Spring GBM IG.png",
+        slides: "https://docs.google.com/presentation/d/17oYKK75BXAyXtiCDhs8RnOTR4ev7sD50kdKPbZzvXKs/edit?usp=sharing"
+    },
+    {
         id: 27,
         name: "Hike to Torrey Pines",
         date: "3/5/2023 | 10AM-2PM",
