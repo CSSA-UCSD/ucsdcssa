@@ -1,10 +1,16 @@
 const highlightsData = [
+    // {
+    //     id: 1,
+    //     title: "Peer Mentorship App",
+    //     type: "Involvement",
+    //     description: "Become a mentor or mentee and foster your connection to the cognitive science community! This is an incredible opportunity for younger students to gain knowledge about careers and classes from a mentor or for older students to gain leadership experience.",
+    //     url: "https://docs.google.com/forms/d/e/1FAIpQLSfKDk8x3FVaCIpXjg9tkoLP_FbpexiT7GZSFfUNb65VIxk5hw/viewform"
+    // },
     {
         id: 1,
-        title: "Peer Mentorship App",
-        type: "Involvement",
-        description: "Become a mentor or mentee and foster your connection to the cognitive science community! This is an incredible opportunity for younger students to gain knowledge about careers and classes from a mentor or for older students to gain leadership experience.",
-        url: "https://docs.google.com/forms/d/e/1FAIpQLSfKDk8x3FVaCIpXjg9tkoLP_FbpexiT7GZSFfUNb65VIxk5hw/viewform"
+        title: "Exec Board Apps",
+        type: "involvement",
+        url: "https://tinyurl.com/cssaexecutiveboard"
     },
     {   
         id: 2,
