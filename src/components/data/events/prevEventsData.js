@@ -1,17 +1,18 @@
 const prevEventsData = [
     {
-        id: 1,
-        url: "https://fb.me/e/2HnIpaH2W",
-        name: "Spring GBM 1",
-        date: "Thurs, 4/13/2023 | 4PM-5PM",
-        img: "spring2023/Spring GBM IG.png"
-    },
-    {
-        id: 2,
+        id: 29,
         name: "Round Table Discussion: Ethics of Machine Learning",
         date: "Mon, 4/17/2023 | 5PM-6PM",
         img: "spring2023/Workshop 1 IG Post.png",
         url: "https://fb.me/e/2KA9GxYer",
+    },
+    {
+        id: 28,
+        url: "https://fb.me/e/2HnIpaH2W",
+        name: "Spring GBM 1",
+        date: "Thurs, 4/13/2023 | 4PM-5PM",
+        img: "spring2023/Spring GBM IG.png",
+        slides: "https://docs.google.com/presentation/d/17oYKK75BXAyXtiCDhs8RnOTR4ev7sD50kdKPbZzvXKs/edit?usp=sharing"
     },
     {
         id: 27,
