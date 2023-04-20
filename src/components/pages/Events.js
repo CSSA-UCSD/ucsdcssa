@@ -19,7 +19,7 @@ class Events extends React.Component {
         const sortedUpcomingEvents = upcomingEventsData.sort((eventA, eventB) => eventA.id - eventB.id);
         const upcomingComponent = sortedUpcomingEvents.map(item => < EventsCard key={item.id} item={item}/>);
         const archivesComponent = archivesData.map(item => < Archives key={item.id} item={item}/>);
-        const previousComponent = prevEventsData.map(item => < PrevEventsCard key={item.id} item={item}/>);
+        const previousComponent = prevEventsData.map((item, key) => < PrevEventsCard key={`${key}: ${item.date.split(" ")[1]}`} item={item}/>);
         return (
             <div className="container events">
                 <div className="row">
