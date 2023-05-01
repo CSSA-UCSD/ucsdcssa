@@ -4,8 +4,8 @@ const presData = [
         name: "Satomi Ito", 
         position: "Co-President",
         year: "2023",
-        img: "exec_2022_2023/satomi.JPG",
-        imgHover: "exec_2022_2023/satomi_hover.JPG",
+        img: "exec_2022_2023/satomi.jpg",
+        imgHover: "exec_2022_2023/satomi_hover.jpg",
         url: "https://www.facebook.com/webraincogsci"
     },
     {
