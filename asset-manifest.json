@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.0cac904e.chunk.css",
-    "main.js": "/static/js/main.32e46ef3.chunk.js",
-    "main.js.map": "/static/js/main.32e46ef3.chunk.js.map",
+    "main.js": "/static/js/main.ea0abb57.chunk.js",
+    "main.js.map": "/static/js/main.ea0abb57.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.a4043764.js",
     "runtime-main.js.map": "/static/js/runtime-main.a4043764.js.map",
     "static/js/2.9c169786.chunk.js": "/static/js/2.9c169786.chunk.js",
@@ -20,6 +20,9 @@
     "static/media/Braver_Roundtable_IG.png": "/static/media/Braver_Roundtable_IG.ea31d1f4.png",
     "static/media/Chipotle_Fundraiser_IG_page1.png": "/static/media/Chipotle_Fundraiser_IG_page1.e31d9d60.png",
     "static/media/Chipotle_Fundraiser_IG_page2.png": "/static/media/Chipotle_Fundraiser_IG_page2.cbbb4cae.png",
+    "static/media/Conference 2023 D1.png": "/static/media/Conference 2023 D1.eb323af5.png",
+    "static/media/Conference 2023 D2.png": "/static/media/Conference 2023 D2.ad478d9d.png",
+    "static/media/Conference 2023 D3.png": "/static/media/Conference 2023 D3.19702765.png",
     "static/media/Conference.png": "/static/media/Conference.aedebbd0.png",
     "static/media/CrossCampus.png": "/static/media/CrossCampus.bc8533b0.png",
     "static/media/CrossCampusSchedule.png": "/static/media/CrossCampusSchedule.55768bf2.png",
@@ -170,6 +173,6 @@
     "static/js/runtime-main.a4043764.js",
     "static/js/2.9c169786.chunk.js",
     "static/css/main.0cac904e.chunk.css",
-    "static/js/main.32e46ef3.chunk.js"
+    "static/js/main.ea0abb57.chunk.js"
   ]
 }
