@@ -1,5 +1,33 @@
 const prevEventsData = [
     {
+        id: 33,
+        name: "Conference Day 3",
+        date: "Wed, 5/3/2023 | 5PM-7:30PM",
+        img: "spring2023/Conference 2023 D3.png",
+        zoom: "https://drive.google.com/drive/u/0/folders/1VJIBb15MFm94AGRSsiQ97DAH28zLe13F",
+    },
+    {
+        id: 32,
+        name: "Conference Day 2",
+        date: "Tue, 5/2/2023 | 5PM-7:30PM",
+        img: "spring2023/Conference 2023 D2.png",
+        zoom: "https://drive.google.com/drive/u/0/folders/1YWa7MFtq37Aa4NxAKDHDomi_JuWTnU1Z",
+    },
+    {
+        id: 31,
+        name: "Conference Day 1",
+        date: "Mon, 5/1/2023 | 5PM-7:30PM",
+        img: "spring2023/Conference 2023 D1.png",
+        url: "",
+    },
+    {
+        id: 30,
+        name: "Executive Board Applications",
+        date: "DUE Wed, 5/10/2023",
+        img: "spring2023/Executive Board.png",
+        url: "https://tinyurl.com/cssaexecutiveboard"
+    },
+    {
         id: 29,
         name: "Round Table Discussion: Ethics of Machine Learning",
         date: "Mon, 4/17/2023 | 5PM-6PM",
