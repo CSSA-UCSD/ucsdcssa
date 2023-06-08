@@ -1,5 +1,19 @@
 const prevEventsData = [
     {
+        id: 35,
+        name: "How to Spend your Summer",
+        date: "Mon, 6/5/2023 | 5PM-6PM",
+        img: "spring2023/summerWorkshop.png",
+        zoom: "https://drive.google.com/file/d/1rn3vYFL4JyHl81ySWZA7OQBGGfV2obnm/view?usp=sharing",
+    },
+    {
+        id: 34,
+        name: "Rapid Prototyping Workshop",
+        date: "Fri, 5/26/2023 | 5PM-6PM",
+        img: "",
+        url: "",
+    },
+    {
         id: 33,
         name: "Conference Day 3",
         date: "Wed, 5/3/2023 | 5PM-7:30PM",
@@ -58,7 +72,7 @@ const prevEventsData = [
     },
       {
         id: 25,
-        name: "Workshop 2",
+        name: "Round Table Discussion",
         date: "Mon, 2/27/2023 | 5PM-6PM",
         img: "winter2023/winterworkshop2.png",
         slides: "https://docs.google.com/presentation/d/1JxZp1VFbk5fK8MFm9LeJBGOO2CN5dDD5ur9lZ6UjMc8/edit?usp=sharing"
