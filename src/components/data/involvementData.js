@@ -9,7 +9,7 @@ const involvementData = [
         //url: "http://eepurl.com/cHcDp1"
     },
     {
-        id: 2,
+        id: 0,
         level: "medium",
         name: "Join Our Discord",
         description: "Join our Discord to get to know and interact with the Cognitive Science community at UCSD.",
@@ -25,14 +25,14 @@ const involvementData = [
         // url: "https://tinyurl.com/extendedboard22"
     },
     {
-        id: 0,
+        id: 2,
         level: "high",
         name: "Executive Board Members",
         description: 
-        // "Become an even more involved part of CSSA, and help organize incredible events working with fellow Cog Sci students and interacting with staff, guest speakers and more! Join our newsletter to be updated when applications are open!",
-        "Applications are OPEN and will close on May 4th, the Wednesday of Week 6. We encourage anyone interested to apply! Find more detailed information on the position duties linked in the Online Application form below.",
-        urltitle: "APPLY for 2023-24 Exec",
-        url: "https://tinyurl.com/cssaexecutiveboard"
+        "Become an even more involved part of CSSA, and help organize incredible events working with fellow Cog Sci students and interacting with staff, guest speakers and more! Join our newsletter to be updated when applications are open!",
+        // "Applications are OPEN and will close on May 4th, the Wednesday of Week 6. We encourage anyone interested to apply! Find more detailed information on the position duties linked in the Online Application form below.",
+        // urltitle: "APPLY for 2023-24 Exec",
+        // url: "https://tinyurl.com/cssaexecutiveboard"
     },
     {
         id: 4,
