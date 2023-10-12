@@ -9,7 +9,7 @@ const involvementData = [
         //url: "http://eepurl.com/cHcDp1"
     },
     {
-        id: 0,
+        id: 2,
         level: "medium",
         name: "Join Our Discord",
         description: "Join our Discord to get to know and interact with the Cognitive Science community at UCSD.",
@@ -17,15 +17,15 @@ const involvementData = [
         url: "https://discord.gg/mEuaWtc"
     },
     {
-        id: 3,
+        id: 0,
         level: "high",
         name: "Committee Members",
-        description: "Be a part of a committee of your choice and assist our executive board members with various responsibilities while getting to know our cognitive science community first hand. Check out our social media for updates!",
-        // urltitle: "Extended Board App",
-        // url: "https://tinyurl.com/extendedboard22"
+        description: "Applications are OPEN! Be a part of the design or content writer committees and assist our executive board members with various responsibilities while getting to know our cognitive science community first hand!",
+        urltitle: "Design Extended Board due Nov 6 @11:59PM",
+        url: "https://forms.gle/MAdyAxcHEhJEz2B19"
     },
     {
-        id: 2,
+        id: 4,
         level: "high",
         name: "Executive Board Members",
         description: 
@@ -35,7 +35,7 @@ const involvementData = [
         // url: "https://tinyurl.com/cssaexecutiveboard"
     },
     {
-        id: 4,
+        id: 3,
         level: "high",
         name: "Peer Mentorship Program",
         description: "Become a mentor or mentee and foster your connection to the cognitive science community! This is an incredible opportunity for younger students to gain knowledge about careers and classes from a mentor or for older students to gain leadership experience. Check out our social media for updates!",

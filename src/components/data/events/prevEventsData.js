@@ -1,5 +1,12 @@
 const prevEventsData = [
     {
+        id: 28,
+        name: "Fall GBM 1",
+        date: "Wed, 10/11/2023 | 5PM-6PM",
+        img: "fall2023/FallGBM.png",
+        slides: "https://docs.google.com/presentation/d/1vwLBJS5TM_JyKqr9lJGWkVGvA82GZZCaE128bz98r1g/edit?usp=sharing"
+    },
+    {
         id: 35,
         name: "How to Spend your Summer",
         date: "Mon, 6/5/2023 | 5PM-6PM",
