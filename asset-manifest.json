@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.0cac904e.chunk.css",
-    "main.js": "/static/js/main.79c22bb1.chunk.js",
-    "main.js.map": "/static/js/main.79c22bb1.chunk.js.map",
+    "main.js": "/static/js/main.bc24c8cf.chunk.js",
+    "main.js.map": "/static/js/main.bc24c8cf.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.9ba3dedb.js",
     "runtime-main.js.map": "/static/js/runtime-main.9ba3dedb.js.map",
     "static/js/2.0d9e9c7d.chunk.js": "/static/js/2.0d9e9c7d.chunk.js",
@@ -140,6 +140,7 @@
     "static/media/luke_hover.jpeg": "/static/media/luke_hover.f153f27f.jpeg",
     "static/media/manda_formal.jpg": "/static/media/manda_formal.b0ec529c.jpg",
     "static/media/manda_fun.jpg": "/static/media/manda_fun.7ac96583.jpg",
+    "static/media/meetgreetWorkshop.png": "/static/media/meetgreetWorkshop.4c6c62dc.png",
     "static/media/mehail_formal.jpg": "/static/media/mehail_formal.cc713991.jpg",
     "static/media/mehail_fun.jpg": "/static/media/mehail_fun.3e732e15.jpg",
     "static/media/michael.jpg": "/static/media/michael.e555d9a4.jpg",
@@ -175,6 +176,6 @@
     "static/js/runtime-main.9ba3dedb.js",
     "static/js/2.0d9e9c7d.chunk.js",
     "static/css/main.0cac904e.chunk.css",
-    "static/js/main.79c22bb1.chunk.js"
+    "static/js/main.bc24c8cf.chunk.js"
   ]
 }
