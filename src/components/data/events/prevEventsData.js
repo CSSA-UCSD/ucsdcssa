@@ -1,6 +1,19 @@
 const prevEventsData = [
     {
-        id: 28,
+        id: 38,
+        name: "Generative AI: Design and Language",
+        date: "Tues, 11/7/2023 | 5PM-6PM",
+        img: "fall2023/Workshop-AI.png"
+    },
+    {
+        id: 37,
+        name: "Transfer Meet & Greet",
+        date: "Fri, 10/27/2023 | 4PM-5PM",
+        img: "fall2023/meetgreetWorkshop.png",
+        slides: "https://www.canva.com/design/DAFxjNTs7-c/aBDA9jYRZDJGprl1QkILTQ/edit?utm_content=DAFxjNTs7-c&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" 
+    },
+    {
+        id: 36,
         name: "Fall GBM 1",
         date: "Wed, 10/11/2023 | 5PM-6PM",
         img: "fall2023/FallGBM.png",
