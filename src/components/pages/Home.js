@@ -1,7 +1,6 @@
 import React from "react";
 import HomeInitial from "../components/home/HomeInitial";
 import Sidebar from "../components/home/Sidebar";
-import Calendar from "../components/home/Calendar";
 import Logo from "../../img/logos/Wordmark_Dark.svg";
 import AOS from "aos";
 import '../../style/main.scss'
