@@ -19,7 +19,7 @@ const involvementData = [
         level: "high",
         name: "Committee Members",
         description: "Applications are OPEN! Be a part of the design or content writer committees and assist our executive board members with various responsibilities while getting to know our cognitive science community first hand!",
-        url: {"Writing Extended Board due Oct 30 @11:59PM" : "https://forms.gle/acN1Hdq6Qtucyi749", "Design Extended Board due Nov 6 @11:59PM" : "https://forms.gle/MAdyAxcHEhJEz2B19"},
+        url: {"Writing Extended Board due Feb 11 @11:59PM" : "https://forms.gle/acN1Hdq6Qtucyi749"},
     },
     {
         id: 4,

@@ -1,5 +1,17 @@
 const prevEventsData = [
     {
+        id: 40,
+        name: "Hike Rancho Peñasquitos",
+        date: "Sun, 12/3/2023 | 9AM-12PM",
+        img: "fall2023/Hike Rancho Peñasquitos.png"
+    },
+    {
+        id: 39,
+        name: "Lab Open House",
+        date: "Tues, 11/21/2023 | 6PM-9PM",
+        img: "fall2023/LOH_IG.png"
+    },
+    {
         id: 38,
         name: "Generative AI: Design and Language",
         date: "Tues, 11/7/2023 | 5PM-6PM",
