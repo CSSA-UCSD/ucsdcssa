@@ -13,7 +13,7 @@ class Member extends React.Component {
 
 
         return (
-            <div className="member col-md-4 pb-5" data-aos="fade-up">
+            <div className="member col-md-6 pb-5" data-aos="fade-up">
                 <div className="member-img" onMouseEnter={this.handleMouseEnter} onMouseLeave={this.handleMouseLeave}>
                     <img
                         src={require(`../../../img/team/${this.props.item.img}`).default }
