@@ -17,7 +17,7 @@ class Team extends React.Component {
                 <div className="container">
                     <h1>Meet the Team</h1>
                     <div className="team-exec">
-                        <h2>2022-2023 Executive Board</h2>
+                        <h2>2023-2024 Executive Board</h2>
                         <hr></hr>
                         <div className="row justify-content-center">
                             {PresComponent}
