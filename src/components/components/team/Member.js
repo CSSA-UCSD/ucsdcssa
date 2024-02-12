@@ -5,7 +5,7 @@ class Member extends React.Component {
 
     componentDidMount() {
         AOS.init({
-            duration : 2000
+            duration : 1750
         });
     }
 
@@ -19,7 +19,7 @@ class Member extends React.Component {
                         src={require(`../../../img/team/${this.props.item.img}`).default }
                         onMouseOver={e => this.props.item.imgHover && (e.currentTarget.src = require(`../../../img/team/${this.props.item.imgHover}`).default )}
                         onMouseOut={e => (e.currentTarget.src =  require(`../../../img/team/${this.props.item.img}`).default )}
-                        alt=""
+                        alt={this.props.item.name}
                     />
                 </div>
                 <div className="member-info">
