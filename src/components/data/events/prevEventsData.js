@@ -1,5 +1,12 @@
 const prevEventsData = [
     {
+        id: 41,
+        name: "Winter GBM",
+        date: "Mon, 1/22/2024 | 4PM-5PM",
+        img: "winter2024/GBM_IG.png",
+        slides: "https://docs.google.com/presentation/d/1jJx1gcAbs_NVsNcFFjxfgvQ107deuoqCrsB1uHG6bRc/edit?usp=sharing"
+    },
+    {
         id: 40,
         name: "Hike Rancho Peñasquitos",
         date: "Sun, 12/3/2023 | 9AM-12PM",
