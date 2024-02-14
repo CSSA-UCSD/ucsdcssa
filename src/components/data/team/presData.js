@@ -4,8 +4,8 @@ const presData = [
         name: "Samantha Sayson", 
         position: "Co-President",
         year: "2025",
-        img: "exec_2023_2024/sam.JPG",
-        imgHover: "exec_2023_2024/sam_hover.JPG",
+        img: "exec_2023_2024/sam.webp",
+        imgHover: "exec_2023_2024/sam_hover.webp",
         url: "https://www.facebook.com/webraincogsci"
     },
     {
@@ -13,8 +13,8 @@ const presData = [
         name: "Yifan (Linda) Lou",
         position: "Co-President",
         year: "2025",
-        img: "exec_2023_2024/linda.JPG",
-        imgHover: "exec_2023_2024/linda_hover.JPG",
+        img: "exec_2023_2024/linda.webp",
+        imgHover: "exec_2023_2024/linda_hover.webp",
         url: "https://www.facebook.com/webraincogsci"
     }
 ]
