@@ -80,15 +80,15 @@ const execData = [
       imgHover: "exec_2023_2024/lucy_hover.webp",
       url: "https://www.facebook.com/webraincogsci"
     },
-    {
-      id: 12,
-      name: "Michael Welsome", 
-      position: "Web Development",
-      year: "2024",
-      img: "exec_2023_2024/michael.webp",
-      imgHover: "exec_2023_2024/michael_hover.webp",
-      url: "https://www.facebook.com/webraincogsci"
-    },
+    // {
+    //   id: 12,
+    //   name: "Michael Welsome", 
+    //   position: "Web Development",
+    //   year: "2024",
+    //   img: "exec_2023_2024/michael.webp",
+    //   imgHover: "exec_2023_2024/michael_hover.webp",
+    //   url: "https://www.facebook.com/webraincogsci"
+    // },
     {
       id: 13,
       name: "Andrew Schmitz", 
