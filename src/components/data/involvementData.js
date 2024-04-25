@@ -1,6 +1,6 @@
 const involvementData = [
     {
-        id: 1,
+        id: 0,
         level: "low",
         name: "General Membership",
         description: "Join our community by staying up to date with our events through our monthly newsletter. No commitment required.",
@@ -8,18 +8,18 @@ const involvementData = [
         url: {"Join Our Newsletter": "https://docs.google.com/forms/d/e/1FAIpQLScIts1c2jST0Ugg90aLlUINk0vKyVjsGCosX81NPVFURvDARQ/viewform"}
     },
     {
-        id: 2,
+        id: 1,
         level: "medium",
         name: "Join Our Discord",
         description: "Join our Discord to get to know and interact with the Cognitive Science community at UCSD.",
         url: {"Discord Link": "https://discord.gg/mEuaWtc"}
     },
     {
-        id: 0,
+        id: 2,
         level: "high",
         name: "Committee Members",
-        description: "Applications are OPEN! Be a part of the design or content writer committees and assist our executive board members with various responsibilities while getting to know our cognitive science community first hand!",
-        url: {"Writing Extended Board" : "https://forms.gle/acN1Hdq6Qtucyi749", "Social Extended Board" : "https://forms.gle/EfuysVG2prSCg8q38"},
+        description: "Be a part of the committees that assist our executive board members with various responsibilities while getting to know our cognitive science community first hand! Check out our newsletter and social media to be updated when applications are open!"
+        //url: {"Writing Extended Board" : "https://forms.gle/acN1Hdq6Qtucyi749", "Social Extended Board" : "https://forms.gle/EfuysVG2prSCg8q38"},
     },
     {
         id: 4,
