@@ -21,7 +21,7 @@ class Navbar extends React.Component {
                                     <Link to='/involvement' className='nav-link'>Involvement</Link>
                                 </li>
                                 <li className='nav-item'>
-                                    <a href='https://cssa-ucsd.github.io/conference2023/' target='_blank' className='nav-link' rel="noopener noreferrer">Conference</a>
+                                    <a href='https://cssa-ucsd.github.io/conference2024/' target='_blank' className='nav-link' rel="noopener noreferrer">Conference</a>
                                 </li>
                             </ul>
                         </div>
