@@ -1,4 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). Use Node v16.20.2 for dependencies to work. 
 
 ## Available Scripts
 Massimo was here!
