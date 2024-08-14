@@ -27,3 +27,21 @@ html {
         font-size: 20px;
     }
 }
+.calendar-container {
+    padding: 20px;
+    
+  }
+  
+  @media (max-width: 768px) {
+    .calendar-container {
+      padding: 10px;
+
+    }
+  }
+  
+  @media (max-width: 480px) {
+    .calendar-container {
+      padding: 5px;
+     
+    }
+  }
