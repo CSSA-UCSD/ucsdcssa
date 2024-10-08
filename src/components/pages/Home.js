@@ -216,7 +216,7 @@ class Home extends React.Component {
                             <p className="words">Dynamic. Professional. Honest.</p>
                         </div>
                         <div className="home-section" data-aos="fade-up">
-                            <p>CSSA is a professional, academic and social organization for students 
+                            <p>TEST TEST TEST CSSA is a professional, academic and social organization for students 
                                 interested in exploring the interdisciplinary field of Cognitive Science. </p>
                         </div>
                         <div className="home-section" data-aos="fade-up">
