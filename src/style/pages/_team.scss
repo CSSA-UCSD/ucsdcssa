@@ -1,0 +1,29 @@
+.team {
+    padding-top: 10%;
+
+    .member {
+        &-img {
+            width: inherit;
+            padding-bottom: 1rem;
+            
+            img {
+                width: inherit;
+                height: 300px;
+                object-fit: cover;
+                border-radius: 1rem;
+            }
+        }
+        &-info {
+            p {
+                margin: 0;
+            }
+        }
+    }
+
+    h2 {
+        padding-top: 3rem;
+    }
+    hr {
+        padding-bottom: 3rem;
+    }
+}

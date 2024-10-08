@@ -1,0 +1,129 @@
+.home-initial {
+    height: calc(100vh - 76px);
+    justify-content: center; 
+    align-items: center;
+    padding: 40vh 10% 0 10%;
+
+    .home-title {
+        display: none;
+        width: 100%;
+
+        h1.title {
+            font-size: 24px;
+            line-height: 36px;
+            margin-bottom: 0;
+        }
+        
+    }
+
+}
+
+.home {
+    &-section {
+        padding-bottom: 1rem;
+        width: inherit;
+
+        .words {
+            text-align: center;
+            font-size: 1.2rem;
+        }
+    }
+
+    &-buttons {
+        padding-top: 10vh;
+    }
+}
+
+#learn-more {
+    img {
+        width: inherit;
+        transform: translateY(-1rem);
+    }
+}
+
+/*
+@include media-sm {
+    .home-initial {
+    
+        .home-title {
+            h1.title {
+                font-size: 2.5rem;
+            }
+        }
+    }
+}
+*/
+
+
+/* Home Page Animation */
+.animation{
+    overflow: hidden;
+    svg {
+        transform: translateY(-20%);
+        height: 100%;
+        width: 100%;
+        position: absolute;
+        z-index: -1;
+
+        .st9{fill:#133B51;}
+        .st25{font-family:'Wavehaus-95SemiBold';}
+        .st26{font-size:60px;}
+    }
+    .path {
+        stroke-dasharray: 1000;
+        stroke-dashoffset: 1000;
+        animation: dash 5s linear alternate infinite;
+      }
+      
+      @keyframes dash {
+        from {
+          stroke-dashoffset: 1000;
+        }
+        to {
+          stroke-dashoffset: 0;
+        }
+      }
+}
+
+@include media-md {
+    .animation {
+        svg {
+            transform: translateY(-10vh);
+        }
+    }
+}
+@include media-lg {
+    .animation {
+        svg {
+            transform: translateY(0vh);
+        }
+    }
+}
+
+
+@include media-md {
+    .home-initial {
+        padding: 55vh 10% 0 15%;
+        .home-title {
+            h1.title {
+                font-size: 52px;
+                line-height: 64px;
+            }
+        }
+    }
+    .home-buttons {
+        padding: 3rem 0;
+        padding-top: 0;
+    }
+}
+
+@include media-lg {
+    .home-initial {
+        .home-title {
+            h1.title {
+                font-size: 48px;
+                line-height: 56px;
+            }
+        }
+    }
+}

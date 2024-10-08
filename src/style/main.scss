@@ -1,0 +1,47 @@
+// imports
+@import 'bootstrap/custom';
+@import 'base/base';
+@import 'base/config';
+@import 'components/navbar';
+@import 'components/button';
+@import 'components/sidebar';
+@import 'components/footer';
+@import 'pages/home';
+@import 'pages/involvement';
+@import 'pages/events';
+@import 'pages/team';
+
+html {
+    scroll-behavior: smooth;
+    --scroll-behavior: smooth;
+}
+
+@include media-md {
+    html {
+        font-size: 18px;
+    }
+}
+
+@include media-lg {
+    html {
+        font-size: 20px;
+    }
+}
+.calendar-container {
+    padding: 20px;
+    
+  }
+  
+  @media (max-width: 768px) {
+    .calendar-container {
+      padding: 10px;
+
+    }
+  }
+  
+  @media (max-width: 480px) {
+    .calendar-container {
+      padding: 5px;
+     
+    }
+  }
