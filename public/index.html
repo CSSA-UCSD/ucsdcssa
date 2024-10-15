@@ -19,8 +19,20 @@
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700&display=swap"/>
     <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
 
-    <!-- FullCalendar CSS from CDN -->
+    <!-- FullCalendar CSS from CDN
     <link href='https://cdn.jsdelivr.net/npm/fullcalendar@6.1.15/daygrid/main.min.css' rel='stylesheet' />
+    <link href="https://unpkg.com/@fullcalendar/common@6.1.15/main.css" rel="stylesheet" />
+    <link href="https://unpkg.com/@fullcalendar/daygrid@6.1.15/main.css" rel="stylesheet" /> -->
+    
+    <!-- FullCalendar CSS from CDN -->
+<link href='https://cdn.jsdelivr.net/npm/fullcalendar@6.1.15/daygrid/main.min.css' rel='stylesheet' />
+<link href="https://unpkg.com/@fullcalendar/common@6.1.15/main.css" rel="stylesheet" />
+
+<!-- FullCalendar JavaScript from CDN -->
+<script src="https://cdn.jsdelivr.net/npm/fullcalendar@6.1.15/index.global.min.js"></script>
+
+
+    
 
     <!-- Manifest -->
     <link rel="manifest" href="%PUBLIC_URL%/manifest.json" />
@@ -33,23 +45,6 @@
 
     <!-- Root div for React app -->
     <div id="root"></div>
-
-    <!-- FullCalendar Container -->
-    <div id="calendar"></div>
-
-    <!-- FullCalendar JavaScript from CDN -->
-    <script src="https://cdn.jsdelivr.net/npm/fullcalendar@6.1.15/index.global.min.js"></script>
-
-    <!-- FullCalendar Initialization -->
-    <script>
-      document.addEventListener('DOMContentLoaded', function() {
-        var calendarEl = document.getElementById('calendar');
-        var calendar = new FullCalendar.Calendar(calendarEl, {
-          initialView: 'dayGridMonth'
-        });
-        calendar.render();
-      });
-    </script>
 
     <!-- AOS Library -->
     <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
