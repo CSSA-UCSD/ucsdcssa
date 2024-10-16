@@ -217,7 +217,7 @@ class Home extends React.Component {
                         </div>
                         <div className="home-section" data-aos="fade-up">
                             <p>CSSA is a professional, academic and social organization for students 
-                                interested in exploring the interdisciplinary field of Cognitive Science. </p>
+                                interested in exploring the interdisciplinary field of Cognitive Science. Join!</p>
                         </div>
                         <div className="home-section" data-aos="fade-up">
                             <p>Our mission is to equip students with the practical skills required to 

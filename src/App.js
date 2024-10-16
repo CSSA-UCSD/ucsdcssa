@@ -38,15 +38,15 @@
 // export default App;
 
 import React from 'react';
-import './style/main.scss'; // Ensure your styles are imported
+// import './style/main.scss'; // Ensure your styles are imported
 
 import Navbar from './components/components/Navbar';
 import Main from './components/Main';
 import Footer from './components/components/Footer';
 
 // Import FullCalendar and the dayGrid plugin
-import FullCalendar from '@fullcalendar/react'; 
-import dayGridPlugin from '@fullcalendar/daygrid'; 
+// import FullCalendar from '@fullcalendar/react'; 
+// import dayGridPlugin from '@fullcalendar/daygrid'; 
 
 function App() {
   return (
@@ -55,14 +55,15 @@ function App() {
      <Main />
 
       {/* FullCalendar Component */}
-      <FullCalendar
+      
+      {/* <FullCalendar
         plugins={[dayGridPlugin]} // Specify the plugins you are using
         initialView="dayGridMonth" // Set the initial view
         events={[ // Example events
           { title: 'Event 1', date: '2024-10-01' },
           { title: 'Event 2', date: '2024-10-05' },
         ]}
-      />
+      /> */}
 <Footer />
     
     </div>
