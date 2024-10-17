@@ -17,11 +17,12 @@ $body: $primary-dark;
     }
 }
 
-// New styles for the active link
-.nav-link.active {
+// New styles for the active link using the updated class name
+.nav-link.active-link {
     text-decoration: underline; // Keep underlined for the active page
 }
 
+// Optional: Keep this if you want standard links to have no underline on hover
 a {
     &:hover {
         text-decoration: none; // Keep this if you want links to have no underline
