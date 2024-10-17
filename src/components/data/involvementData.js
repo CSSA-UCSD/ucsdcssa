@@ -36,8 +36,16 @@ const involvementData = [
         level: "high",
         name: "Peer Mentorship Program",
         description: "Become a mentor or mentee and foster your connection to the cognitive science community! This is an incredible opportunity for younger students to gain knowledge about careers and classes from a mentor or for older students to gain leadership experience. Check out our social media for updates!",
-        // urltitle: "Peer Mentorship App",
-        // url: "https://docs.google.com/forms/d/e/1FAIpQLSfKDk8x3FVaCIpXjg9tkoLP_FbpexiT7GZSFfUNb65VIxk5hw/viewform"
+
+        // embedded button (like newsletter and discord)
+
+        url: {"Peer Mentorship Application": "https://docs.google.com/forms/d/e/1FAIpQLSd5Up9f3fYEVyNPJBfxcAHbqvwcuLQjsax_OUFkHs8T6pSMZA/viewform?usp=sf_link"}
+
+        // url link (deploy whichever looks better)
+
+        // urltitle: "Peer Mentorship Application",
+        // url: "https://docs.google.com/forms/d/e/1FAIpQLSd5Up9f3fYEVyNPJBfxcAHbqvwcuLQjsax_OUFkHs8T6pSMZA/viewform?usp=sf_link"
+
     }
 ]
 
