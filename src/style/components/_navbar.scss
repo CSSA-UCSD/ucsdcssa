@@ -4,7 +4,7 @@
     height: auto;
     z-index: 100;
 
-    .navbar-brand{
+    .navbar-brand {
         display: block;
         margin: auto;
 
@@ -13,8 +13,11 @@
         }
 
         .nav-link {
+            font-weight: bold; // Set to bold by default
+            text-decoration: none; // Ensure no underline by default
+
             &:hover {
-                text-decoration: underline;
+                text-decoration: underline; // Underline on hover
             }
         }
     }
@@ -30,10 +33,12 @@
 @include media-md {
     .navbar {
         height: 76px;
+
         .navbar-brand {
             display: inline-block;
             margin: 0 1rem 0 0; 
         }
+
         .menu {
             margin: 0;
         }

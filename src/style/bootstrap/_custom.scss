@@ -5,16 +5,25 @@ $secondary: $primary-dark;
 
 $body: $primary-dark;
 
-
 @import "../../../node_modules/bootstrap/scss/bootstrap";
+
+// Set nav-link styles
 .nav-link {
+    font-weight: bold; // Set to bold by default
+    text-decoration: none; // Ensure no underline by default
+
     &:hover {
-        text-decoration: underline;
+        text-decoration: underline; // Underline on hover
     }
+}
+
+// New styles for the active link
+.nav-link.active {
+    text-decoration: underline; // Keep underlined for the active page
 }
 
 a {
     &:hover {
-        text-decoration: none;
+        text-decoration: none; // Keep this if you want links to have no underline
     }
 }

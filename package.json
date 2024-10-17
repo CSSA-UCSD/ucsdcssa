@@ -28,7 +28,7 @@
     "react-router-dom": "^5.2.0",
     "react-router-hash-link": "^2.1.0",
     "react-scripts": "^5.0.1",
-    "sass": "^1.75.0",
+    "sass": "^1.79.6",
     "yarn": "^1.22.18"
   },
   "scripts": {
