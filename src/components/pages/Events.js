@@ -8,12 +8,12 @@ import prevEventsData from "../data/events/prevEventsData";
 import upcomingEventsData from "../data/events/upcomingEventsData";
 import AOS from "aos";
 
-/*
+
 // import './style/main.scss'; // Ensure your styles are imported
 // Import FullCalendar and the dayGrid plugin
 import FullCalendar from '@fullcalendar/react'; 
 import dayGridPlugin from '@fullcalendar/daygrid'; 
-*/
+
 
 class Events extends React.Component {
     componentDidMount() {
