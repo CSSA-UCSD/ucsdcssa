@@ -1,17 +1,31 @@
 import React from "react";
-import placeholderImage from "../../../img/events/eventPlaceholder.jpg";
+import placeholderImage from "../../../img/events/eventPlaceholder.jpg"; // Ensure this placeholder exists
 
 class EventsCard extends React.Component {
-
     constructor() {
         super();
         this.state = {
-            imageSrc: placeholderImage
+            imageSrc: placeholderImage // Default to placeholder image
         };
     }
 
-
     render() {
+        let imageUrl, imageHoverUrl;
+
+        // Try to load the image and the hover image, fallback to placeholder if not found
+        try {
+            imageUrl = require(`../../../img/events/${this.props.item.img}`).default;
+        } catch (e) {
+            imageUrl = placeholderImage; // Use placeholder if image is missing
+        }
+
+        if (this.props.item.imgHover) {
+            try {
+                imageHoverUrl = require(`../../../img/events/${this.props.item.imgHover}`).default;
+            } catch (e) {
+                imageHoverUrl = imageUrl; // Fallback to main image if hover image is missing
+            }
+        }
 
         return (
             <div className="events-container col-md-4 col-sm-6">
@@ -20,21 +34,18 @@ class EventsCard extends React.Component {
                         { this.props.item.url ?
                             <a href={this.props.item.url} target="_blank" rel="noopener noreferrer">
                                 <div className="events-image pb-3 events-image-hover">
-                                    {this.props.item.img && this.props.item.imgHover ? 
-                                        <img src={ require(`../../../img/events/${this.props.item.img}`) } 
-                                            onMouseOver={e => (e.currentTarget.src = require(`../../../img/events/${this.props.item.imgHover}`) )}
-                                            onMouseOut={e => (e.currentTarget.src = require(`../../../img/events/${this.props.item.img}`) )}
-                                            alt={this.props.item.name}>
-                                        </img>
-                                        : this.props.item.img && 
-                                            <img src={ require(`../../../img/events/${this.props.item.img}`).default} alt={this.props.item.name}></img>
-                                    }
+                                    <img 
+                                        src={imageUrl} 
+                                        onMouseOver={e => { if (imageHoverUrl) e.currentTarget.src = imageHoverUrl }}
+                                        onMouseOut={e => { e.currentTarget.src = imageUrl }}
+                                        alt={this.props.item.name}>
+                                    </img>
                                 </div>
                             </a>
-                            : this.props.item.img && 
-                                <div className="events-image pb-3">
-                                    <img src={ require(`../../../img/events/${this.props.item.img}`).default} alt={this.props.item.name}></img>
-                                </div>
+                            :
+                            <div className="events-image pb-3">
+                                <img src={imageUrl} alt={this.props.item.name}></img>
+                            </div>
                         }
                         <div className="events-name">
                             <h3>{this.props.item.name}</h3>
