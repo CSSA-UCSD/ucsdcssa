@@ -3,49 +3,29 @@ const involvementData = [
         id: 0,
         level: "low",
         name: "General Membership",
-        description: "Join our community by staying up to date with our events through our monthly newsletter. No commitment required.",
-        //url: "http://eepurl.com/cHcDp1"
+        description: "Join our community by staying up to date with our events through our monthly newsletter. <strong>Stay tuned for our upcoming membership portal where you'll be able to earn points by attending events and redeem them for CSSA merch and stickers!</strong>",
         url: {"Join Our Newsletter": "https://docs.google.com/forms/d/e/1FAIpQLScIts1c2jST0Ugg90aLlUINk0vKyVjsGCosX81NPVFURvDARQ/viewform"}
     },
     {
         id: 1,
         level: "medium",
         name: "Join Our Discord",
-        description: "Join our Discord to get to know and interact with the Cognitive Science community at UCSD.",
+        description: "Join our Discord to connect with the Cognitive Science community at UCSD. Whether you have questions about classes, career paths, or department resources, or just want to meet fellow peers, this is the place to be! See below for the invite.",
         url: {"Discord Link": "https://discord.gg/mEuaWtc"}
     },
     {
         id: 2,
         level: "high",
-        name: "Committee Members",
-        description: "Be a part of the committees that assist our executive board members with various responsibilities while getting to know our cognitive science community first hand! Check out our newsletter and social media to be updated when applications are open!"
-        //url: {"Writing Extended Board" : "https://forms.gle/acN1Hdq6Qtucyi749", "Social Extended Board" : "https://forms.gle/EfuysVG2prSCg8q38"},
-    },
-    {
-        id: 4,
-        level: "high",
         name: "Executive Board Members",
-        description: 
-        "Become an even more involved part of CSSA, and help organize incredible events working with fellow Cog Sci students and interacting with staff, guest speakers and more! Join our newsletter to be updated when applications are open!",
-        // "Applications are OPEN and will close on May 4th, the Wednesday of Week 6. We encourage anyone interested to apply! Find more detailed information on the position duties linked in the Online Application form below.",
-        // urltitle: "APPLY for 2023-24 Exec",
-        // url: "https://tinyurl.com/cssaexecutiveboard"
+        description: "Become a key part of CSSA by joining the Executive Board! Help organize awesome events, collaborate with your fellow peers, and interact with staff, guest speakers, and more. See below to contact any of our incredible current 2024-2025 Executive Board Members.",
+        url: {"Executive Board": "https://cssa-ucsd.org/#/team"}
     },
     {
         id: 3,
         level: "high",
         name: "Peer Mentorship Program",
-        description: "Become a mentor or mentee and foster your connection to the cognitive science community! This is an incredible opportunity for younger students to gain knowledge about careers and classes from a mentor or for older students to gain leadership experience. Check out our social media for updates!",
-
-        // embedded button (like newsletter and discord)
-
-        url: {"Peer Mentorship Application": "https://docs.google.com/forms/d/e/1FAIpQLSd5Up9f3fYEVyNPJBfxcAHbqvwcuLQjsax_OUFkHs8T6pSMZA/viewform?usp=sf_link"}
-
-        // url link (deploy whichever looks better)
-
-        // urltitle: "Peer Mentorship Application",
-        // url: "https://docs.google.com/forms/d/e/1FAIpQLSd5Up9f3fYEVyNPJBfxcAHbqvwcuLQjsax_OUFkHs8T6pSMZA/viewform?usp=sf_link"
-
+        description: "Become a mentor or mentee to foster your connection to the Cognitive Science community. Mentors offer guidance on classes and careers, while mentees gain valuable knowledge. Stay tuned on our social media for updates!",
+        url: {"Mentorship Form": "https://docs.google.com/forms/d/e/1FAIpQLSd5Up9f3fYEVyNPJBfxcAHbqvwcuLQjsax_OUFkHs8T6pSMZA/viewform?usp=sf_link"}
     }
 ]
 
