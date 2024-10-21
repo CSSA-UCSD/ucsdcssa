@@ -1,16 +1,15 @@
 import React from "react";
-
 class InvolvementCard extends React.Component {
     render() {
-        var links = this.props.item.url
-
+        var links = this.props.item.url;
         return (
             <div className="involvement-card col-sm-6" data-aos="fade-up">
                 <h2>{this.props.item.name}</h2>
                 <hr></hr>
-                <p>{this.props.item.description}</p>
+                {/* Enable rendering HTML with dangerouslySetInnerHTML for bold text */}
+                <p dangerouslySetInnerHTML={{ __html: this.props.item.description }}></p>
                 <ul>
-                    {Object.keys(links || {})?.map(key => 
+                    {Object.keys(links || {})?.map(key =>
                         <div key={key} style={{display: links[key] ? "block" : "none"}} className="involvement-card-button">
                             <a className="cta" href={links[key]} target="_blank" rel="noopener noreferrer">
                                 <span>{key}</span>
@@ -25,7 +24,5 @@ class InvolvementCard extends React.Component {
             </div>
         );
     }
-
 }
-
 export default InvolvementCard;
