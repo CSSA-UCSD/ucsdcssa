@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.d788d817.chunk.css",
-    "main.js": "/static/js/main.342f363e.chunk.js",
-    "main.js.map": "/static/js/main.342f363e.chunk.js.map",
+    "main.js": "/static/js/main.198c5fb3.chunk.js",
+    "main.js.map": "/static/js/main.198c5fb3.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.18d39cc5.js",
     "runtime-main.js.map": "/static/js/runtime-main.18d39cc5.js.map",
     "static/js/2.739e440a.chunk.js": "/static/js/2.739e440a.chunk.js",
@@ -25,6 +25,7 @@
     "static/media/Exec_Board_IG.png": "/static/media/Exec_Board_IG.2326f6c1.png",
     "static/media/Executive Board.png": "/static/media/Executive Board.7145ec33.png",
     "static/media/FallGBM.png": "/static/media/FallGBM.d3a2369d.png",
+    "static/media/FallGBM_1.png": "/static/media/FallGBM_1.ba0a803c.png",
     "static/media/Figma_workshop.png": "/static/media/Figma_workshop.2c3c5354.png",
     "static/media/GBM_IG.png": "/static/media/GBM_IG.08841e44.png",
     "static/media/Hike Rancho Peñasquitos.png": "/static/media/Hike Rancho Peñasquitos.4e0e60a2.png",
@@ -170,6 +171,6 @@
     "static/js/runtime-main.18d39cc5.js",
     "static/js/2.739e440a.chunk.js",
     "static/css/main.d788d817.chunk.css",
-    "static/js/main.342f363e.chunk.js"
+    "static/js/main.198c5fb3.chunk.js"
   ]
 }
