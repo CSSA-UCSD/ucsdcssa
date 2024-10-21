@@ -43,8 +43,8 @@ class Events extends React.Component {
                 <FullCalendar plugins={[dayGridPlugin]} // Specify the plugins you are using
                 initialView="dayGridMonth" // Set the initial view
                 events={[ // Example events
-                    { title: 'Event 1', date: '2024-10-01' },
-                    { title: 'Event 2', date: '2024-10-05' },
+                    { title: 'GBM 1', date: '2024-10-24' },
+                    { title: 'Lab Open House', date: '2024-11-19' },
                 ]}
                 />
                 <div className="events-section-title">
