@@ -28,5 +28,4 @@ const involvementData = [
         url: {"Mentorship Form": "https://docs.google.com/forms/d/e/1FAIpQLSd5Up9f3fYEVyNPJBfxcAHbqvwcuLQjsax_OUFkHs8T6pSMZA/viewform?usp=sf_link"}
     }
 ]
-
 export default involvementData;
