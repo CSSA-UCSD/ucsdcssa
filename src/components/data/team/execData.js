@@ -14,7 +14,7 @@ const execData = [
       id: 4,
       name: "Katherine Liang", 
       position: "Treasurer",
-      year: "2024",
+      year: "2027",
       major:"Cognitive Science, Behavorial Neuroscience",
       email: 'k5liang@ucsd.edu',
       img: "exec_2024_2025/Katherine_Normal.JPG",
@@ -23,7 +23,7 @@ const execData = [
     },
     {
       id: 5,
-      name: "Lanka Dinugala", 
+      name: "Lanka Diunugala", 
       position: "Community",
       year: "2025",
       major:"Cognitive Science, Design and Interaction",
@@ -199,7 +199,6 @@ const execData = [
       position: "Marketing",
       year: "2027",
       major:"Cognitive Science, Language and Culture, Linguistics",
-      minor:"Economics",
       email:"jil337@ucsd.edu",
       img: "exec_2024_2025/Jihu_Normal.JPG",
       imgHover: "exec_2024_2025/Jihu_Silly.JPG",
@@ -262,6 +261,29 @@ const execData = [
       email:"a3rahman@ucsd.edu",
       img: "exec_2024_2025/Amita_Normal.JPG",
       imgHover: "exec_2024_2025/Amita_Silly.JPG",
+     url: "https://www.facebook.com/webraincogsci"
+    },
+    {
+      id: 27,
+      name: "Jiayi Li", 
+      position: "Media",
+      year: "2026",
+      major:"Cognitive Science, Design and Interaction",
+      minor: "Design, Computational Social Science",
+      email:"jil318@ucsd.edu",
+      img: "exec_2024_2025/Jiayi_normal.JPG",
+      imgHover: "exec_2024_2025/Jiayi_Silly.JPG",
+     url: "https://www.facebook.com/webraincogsci"
+    },
+    {
+      id: 28,
+      name: "Keerat Kaur", 
+      position: "Media",
+      year: "2026",
+      major:"Cognitive Science, Machine Learning",
+      email:"keeratkaurtt@gmail.com",
+      img: "exec_2024_2025/Keerat_normal.JPG",
+      imgHover: "exec_2024_2025/Keerat_silly.JPG",
      url: "https://www.facebook.com/webraincogsci"
     },
    
