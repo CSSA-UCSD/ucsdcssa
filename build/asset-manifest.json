@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.d788d817.chunk.css",
-    "main.js": "/static/js/main.11c1bb4b.chunk.js",
-    "main.js.map": "/static/js/main.11c1bb4b.chunk.js.map",
+    "main.js": "/static/js/main.c69a92b9.chunk.js",
+    "main.js.map": "/static/js/main.c69a92b9.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.18d39cc5.js",
     "runtime-main.js.map": "/static/js/runtime-main.18d39cc5.js.map",
     "static/js/2.f562f7e4.chunk.js": "/static/js/2.f562f7e4.chunk.js",
@@ -36,10 +36,14 @@
     "static/media/InsideOut.png": "/static/media/InsideOut.1183405d.png",
     "static/media/Ishika_Normal.JPG": "/static/media/Ishika_Normal.06994f91.JPG",
     "static/media/Ishika_Silly.JPG": "/static/media/Ishika_Silly.1c8a0241.JPG",
+    "static/media/Jiayi_normal.JPG": "/static/media/Jiayi_normal.6272fff7.JPG",
+    "static/media/Jiayi_silly.JPG": "/static/media/Jiayi_silly.572f1e1f.JPG",
     "static/media/Jihu_Normal.JPG": "/static/media/Jihu_Normal.6d83b6a9.JPG",
     "static/media/Jihu_Silly.JPG": "/static/media/Jihu_Silly.959a809a.JPG",
     "static/media/Katherine_Normal.JPG": "/static/media/Katherine_Normal.01490874.JPG",
     "static/media/Katherine_Silly.JPG": "/static/media/Katherine_Silly.e17052cb.JPG",
+    "static/media/Keerat_normal.JPG": "/static/media/Keerat_normal.d86d1d47.JPG",
+    "static/media/Keerat_silly.JPG": "/static/media/Keerat_silly.fd69450d.JPG",
     "static/media/Keshav_Normal.JPG": "/static/media/Keshav_Normal.8811d518.JPG",
     "static/media/Keshav_Silly.JPG": "/static/media/Keshav_Silly.831c04ab.JPG",
     "static/media/KoliaKrajewski_Normal.JPG": "/static/media/KoliaKrajewski_Normal.b37f987f.JPG",
@@ -219,6 +223,6 @@
     "static/js/runtime-main.18d39cc5.js",
     "static/js/2.f562f7e4.chunk.js",
     "static/css/main.d788d817.chunk.css",
-    "static/js/main.11c1bb4b.chunk.js"
+    "static/js/main.c69a92b9.chunk.js"
   ]
 }

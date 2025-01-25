@@ -32,11 +32,9 @@ class Events extends React.Component {
                 <div className="row">
                     <div className="col-sm-8 order-sm-2 pb-5">
                         <h1>Events</h1>
-                        <p>We host a range of events throughout the year including 
-                            professional development workshops, academic seminars 
-                            and networking events. Look forward to our annual National 
-                            Cognitive Science Conference in the spring, an event that 
-                            attracts hundreds of attendees from across the country.</p>
+                        <p>We host a variety of events year-round, including professional development workshops, 
+                            academic seminars, and networking opportunities. Join us to learn more about the field of cognitive science, 
+                            connect with like-minded individuals, and grow both academically and professionally</p>
                     </div>
                 </div>
                       {/* FullCalendar Component */}
@@ -45,6 +43,20 @@ class Events extends React.Component {
                 events={[ // Example events
                     { title: 'GBM 1', date: '2024-10-24' },
                     { title: 'Lab Open House', date: '2024-11-19' },
+                    { title: 'Resume Workshop', date: '2025-1-13' },
+                    { title: 'Winter GBM', date: '2025-1-15' },
+                    { title: 'Portfolio Workshop', date: '2025-1-22' },
+                    { title: 'Figma Workshop', date: '2025-1-30' },
+                    { title: 'Logistic Regression Workshop', date: '2025-2-4' },
+                    { title: 'Coffee Chats with Board Members', date: '2025-2-6' },
+                    { title: 'Creativity Workshop', date: '2025-2-10' },
+                    { title: 'Valentines Arts and Crafts', date: '2025-2-12' },
+                    { title: 'Coffee Chats with Board Members', date: '2025-2-6' },
+                    { title: 'Speaker Series', date: '2025-2-19' },
+                    { title: 'Speaker Series', date: '2025-2-20' },
+                    { title: 'Speaker Series', date: '2025-2-21' },
+                    { title: 'Board Game Night', date: '2025-2-27' },
+
                 ]}
                 />
                 <div className="events-section-title">
