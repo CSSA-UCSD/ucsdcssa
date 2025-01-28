@@ -40,6 +40,7 @@ class Events extends React.Component {
                       {/* FullCalendar Component */}
                 <FullCalendar plugins={[dayGridPlugin]} // Specify the plugins you are using
                 initialView="dayGridMonth" // Set the initial view
+                validRange={{ start: '2024-10-01', end: '2025-12-31' }} 
                 events={[ 
                     { title: 'GBM 1', date: '2024-10-24' },
                     { title: 'Lab Open House', date: '2024-11-19' },
@@ -51,7 +52,6 @@ class Events extends React.Component {
                     { title: 'Coffee Chats with Board Members', date: '2025-2-6' },
                     { title: 'Creativity Workshop', date: '2025-2-10' },
                     { title: 'Valentines Arts and Crafts', date: '2025-2-12' },
-                    { title: 'Coffee Chats with Board Members', date: '2025-2-6' },
                     { title: 'Speaker Series', date: '2025-2-19' },
                     { title: 'Speaker Series', date: '2025-2-20' },
                     { title: 'Speaker Series', date: '2025-2-21' },

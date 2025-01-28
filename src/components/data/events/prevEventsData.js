@@ -1,5 +1,11 @@
 const prevEventsData = [
     {
+        id: 42,
+        name: "Fall GBM",
+        date: "Thurs, 10/24/2024 | 5PM-6PM",
+        img: "fall2024/FallGBM_1.png"
+    },
+    {
         id: 43,
         name: "Executive Board Applications",
         date: "DUE Wed 4/24/24",

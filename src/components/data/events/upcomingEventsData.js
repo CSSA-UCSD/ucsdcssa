@@ -2,9 +2,9 @@
 const upcomingEventsData = [
     {
         id: 1,
-        name: "Fall GBM #1",
-        date: "Thurs, 10/24/2024 | 5PM-6PM",
-        img: "fall2024/FallGBM_1.png"
+        name: "Figma Workshop",
+        date: "Thurs, 1/30/2025 | 5:30PM-6:30PM",
+        img: "winter2025/FigmaWorkshop2025.png"
     },
 
 ]
