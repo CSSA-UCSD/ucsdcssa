@@ -68,18 +68,18 @@ const execData = [
       imgHover: "exec_2024_2025/MinaCicekoglu_Silly.JPG",
       url: "https://www.facebook.com/webraincogsci"
     },
-    {
-      id: 9,
-      name: "Maryam Vagharfard ", 
-      position: "Professional Relations",
-      year: "2025",
-      major: "Cognitive Science, Clincal Aspects of Cognition",
-      minor: "Design",
-      email:"mavagharfard@ucsd.edu",
-      img: "exec_2024_2025/Maryam_V_Normal.JPG",
-      imgHover: "exec_2024_2025/Maryam_V_silly.JPG",
-      url: "https://www.facebook.com/webraincogsci"
-    },
+    //{
+      //id: 9,
+      //name: "Maryam Vagharfard ", 
+      //position: "Professional Relations",
+      //year: "2025",
+      //major: "Cognitive Science, Clincal Aspects of Cognition",
+      //minor: "Design",
+      //email:"mavagharfard@ucsd.edu",
+      //img: "exec_2024_2025/Maryam_V_Normal.JPG",
+      //imgHover: "exec_2024_2025/Maryam_V_silly.JPG",
+     // url: "https://www.facebook.com/webraincogsci"
+   // },
     {
       id: 10,
       name: "Melody Lin", 
