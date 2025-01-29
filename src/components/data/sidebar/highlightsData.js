@@ -22,13 +22,13 @@ const highlightsData = [
         id: 2,
         title: "CSSA Newsletter",
         // type: "Newsletter",
-        url: "https://us15.campaign-archive.com/home/?u=0be7335fcd3adf9f817456791&id=0d419c2303"
+        url: "https://ucsd.us15.list-manage.com/subscribe?u=0be7335fcd3adf9f817456791&id=0d419c2303"
     },
     {
         id: 3,
-        title: "2023 Conference",
+        title: "2024 Conference",
         type: "National Cognitive Science Conference",
-        url: "https://cssa-ucsd.github.io/conference2023/",
+        url: "https://cssa-ucsd.github.io/conference2024/"
     },  
     // {
     //     id: 1,

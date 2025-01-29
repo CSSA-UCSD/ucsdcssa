@@ -132,7 +132,7 @@ const execData = [
       year: "2027",
       major:"Cognitive Science, Design and Interaction",
       minor:"Marketing",
-      email:"verinako02@gmail.com",
+      email:"veko@ucsd.edu",
       img: "exec_2024_2025/VerinaKo_Normal.JPG",
       imgHover: "exec_2024_2025/VerinaKo_Silly.JPG",
       url: "https://www.facebook.com/webraincogsci"
@@ -198,7 +198,7 @@ const execData = [
       name: "Jihu Lee", 
       position: "Marketing",
       year: "2027",
-      major:"Cognitive Science, Language and Culture, Linguistics",
+      major:"Cognitive Science, Language & Culture and Linguistics, Speech & Language Sciences",
       email:"jil337@ucsd.edu",
       img: "exec_2024_2025/Jihu_Normal.JPG",
       imgHover: "exec_2024_2025/Jihu_Silly.JPG",

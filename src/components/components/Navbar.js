@@ -12,16 +12,13 @@ class Navbar extends React.Component {
                         <div className="menu">
                             <ul className="nav">
                                 <li className='nav-item'>
-                                    <NavLink to='/' exact className='nav-link' activeClassName='active-link'>Home</NavLink>
-                                </li>
-                                <li className='nav-item'>
                                     <NavLink to='/team' className='nav-link' activeClassName='active-link'>Team</NavLink>
                                 </li>
                                 <li className='nav-item'>
                                     <NavLink to='/events' className='nav-link' activeClassName='active-link'>Events</NavLink>
                                 </li>
                                 <li className='nav-item'>
-                                    <NavLink to='/involvement' className='nav-link' activeClassName='active-link'>Involvement</NavLink>
+                                    <NavLink to='/involvement' className='nav-link' activeClassName='active-link'>Resources</NavLink>
                                 </li>
                                 <li className='nav-item'>
                                     <a href='https://cssa-ucsd-membership.onrender.com/' target='_blank' className='nav-link' rel="noopener noreferrer">Membership</a>

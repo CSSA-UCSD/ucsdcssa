@@ -2,8 +2,8 @@ import React from "react";
 
 import EventsCard from "../components/events/EventsCard";
 import PrevEventsCard from "../components/events/PrevEventsCard";
-import Archives from "../components/events/Archives";
-import archivesData from "../data/events/archivesData";
+// import Archives from "../components/events/Archives";
+// import archivesData from "../data/events/archivesData";
 import prevEventsData from "../data/events/prevEventsData";
 import upcomingEventsData from "../data/events/upcomingEventsData";
 import AOS from "aos";
@@ -25,7 +25,7 @@ class Events extends React.Component {
     render() {
         const sortedUpcomingEvents = upcomingEventsData.sort((eventA, eventB) => eventA.id - eventB.id);
         const upcomingComponent = sortedUpcomingEvents.map(item => < EventsCard key={item.id} item={item}/>);
-        const archivesComponent = archivesData.map(item => < Archives key={item.id} item={item}/>);
+        // const archivesComponent = archivesData.map(item => < Archives key={item.id} item={item}/>);
         const previousComponent = prevEventsData.map((item, key) => < PrevEventsCard key={`${key}: ${item.date.split(" ")[1]}`} item={item}/>);
         return (
             <div className="container events">
@@ -42,22 +42,22 @@ class Events extends React.Component {
                 initialView="dayGridMonth" // Set the initial view
                 validRange={{ start: '2024-10-01', end: '2025-12-31' }} 
                 events={[ 
-                    { title: 'GBM 1', date: '2024-10-24' },
-                    { title: 'Lab Open House', date: '2024-11-19' },
-                    { title: 'Resume Workshop', date: '2025-1-13' },
-                    { title: 'Winter GBM', date: '2025-1-15' },
-                    { title: 'Portfolio Workshop', date: '2025-1-22' },
-                    { title: 'Figma Workshop', date: '2025-1-30' },
-                    { title: 'Logistic Regression Workshop', date: '2025-2-4' },
-                    { title: 'Coffee Chats with Board Members', date: '2025-2-6' },
-                    { title: 'Creativity Workshop', date: '2025-2-10' },
-                    { title: 'Valentines Arts and Crafts', date: '2025-2-12' },
-                    { title: 'Speaker Series', date: '2025-2-19' },
-                    { title: 'Speaker Series', date: '2025-2-20' },
-                    { title: 'Speaker Series', date: '2025-2-21' },
-                    { title: 'Board Game Night', date: '2025-2-27' }
-
+                    { title: 'GBM 1', start: '2024-10-24' },
+                    { title: 'Lab Open House', start: '2024-11-19' },
+                    { title: 'Resume Workshop', start: '2025-01-13' },
+                    { title: 'Winter GBM', start: '2025-01-15' },
+                    { title: 'Portfolio Workshop', start: '2025-01-22' },
+                    { title: 'Figma Workshop', start: '2025-01-30' },
+                    { title: 'Logistic Regression Workshop', start: '2025-02-04' },
+                    { title: 'Coffee Chats with Board Members', start: '2025-02-06' },
+                    { title: 'Creativity Workshop', start: '2025-02-10' },
+                    { title: 'Valentines Arts and Crafts', start: '2025-02-12' },
+                    { title: 'Speaker Series', start: '2025-02-19' },
+                    { title: 'Speaker Series', start: '2025-02-20' },
+                    { title: 'Speaker Series', start: '2025-02-21' },
+                    { title: 'Board Game Night', start: '2025-02-27' }
                 ]}
+                
                 eventsSet={(events) => console.log(events)}  
                 />
                 <div className="events-section-title">
@@ -76,13 +76,14 @@ class Events extends React.Component {
                 <div className="events-section row">
                     {previousComponent}
                 </div>
-                <div className="events-section-title">
+                {/* <div className="events-section-title">
                     <h2>Archives</h2>
                     <hr></hr>
                 </div>
                 <div className="events-section row">
                     {archivesComponent}
-                </div>
+                </div> */}
+            {/* /*for now lets get rid of the archives. lowk dont see a point in them */ }
             </div>
         );
     }
