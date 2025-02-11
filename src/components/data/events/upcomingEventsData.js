@@ -2,9 +2,9 @@
 const upcomingEventsData = [
     {
         id: 1,
-        name: "Figma Workshop",
-        date: "Thurs, 1/30/2025 | 5:30PM-6:30PM",
-        img: "winter2025/FigmaWorkshop2025.png"
+        name: "Valentine's Arts and Crafts",
+        date: "Thurs, 2/13/2025 | 4PM-5PM",
+        img: "winter2025/ValentinesCrafts.png"
     },
 
 ]
