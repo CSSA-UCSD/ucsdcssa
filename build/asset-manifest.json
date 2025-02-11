@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.d788d817.chunk.css",
-    "main.js": "/static/js/main.f2f38bf7.chunk.js",
-    "main.js.map": "/static/js/main.f2f38bf7.chunk.js.map",
+    "main.js": "/static/js/main.b2b73b81.chunk.js",
+    "main.js.map": "/static/js/main.b2b73b81.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.18d39cc5.js",
     "runtime-main.js.map": "/static/js/runtime-main.18d39cc5.js.map",
     "static/js/2.8bc79c0e.chunk.js": "/static/js/2.8bc79c0e.chunk.js",
@@ -78,6 +78,7 @@
     "static/media/MockInterviewWorkshop.png": "/static/media/MockInterviewWorkshop.cea587fe.png",
     "static/media/Oswaldo_Normal.JPG": "/static/media/Oswaldo_Normal.574ecb43.JPG",
     "static/media/Oswaldo_Silly.JPG": "/static/media/Oswaldo_Silly.8dd3eaef.JPG",
+    "static/media/PRBoardApps.png": "/static/media/PRBoardApps.48bb1b52.png",
     "static/media/Phoebe_Normal.JPG": "/static/media/Phoebe_Normal.7ab2b16c.JPG",
     "static/media/Phoebe_Silly.JPG": "/static/media/Phoebe_Silly.167640c3.JPG",
     "static/media/PortfolioReview.png": "/static/media/PortfolioReview.eda53cb3.png",
@@ -305,6 +306,6 @@
     "static/js/runtime-main.18d39cc5.js",
     "static/js/2.8bc79c0e.chunk.js",
     "static/css/main.d788d817.chunk.css",
-    "static/js/main.f2f38bf7.chunk.js"
+    "static/js/main.b2b73b81.chunk.js"
   ]
 }
