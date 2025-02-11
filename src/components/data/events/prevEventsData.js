@@ -1,5 +1,11 @@
 const prevEventsData = [
     {
+        id: 45,
+        name: "CogSci Advisory Board Welcome Party",
+        date: "Fri, 1/31/2025 | 4PM-6PM",
+        img: "winter2025/WelcomeParty.png"
+    },
+    {
         id: 44,
         name: "Figma Workshop",
         date: "Thurs, 1/30/2025 | 5:30PM-6:30PM",

@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.d788d817.chunk.css",
-    "main.js": "/static/js/main.e22a9f06.chunk.js",
-    "main.js.map": "/static/js/main.e22a9f06.chunk.js.map",
+    "main.js": "/static/js/main.f2f38bf7.chunk.js",
+    "main.js.map": "/static/js/main.f2f38bf7.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.18d39cc5.js",
     "runtime-main.js.map": "/static/js/runtime-main.18d39cc5.js.map",
     "static/js/2.8bc79c0e.chunk.js": "/static/js/2.8bc79c0e.chunk.js",
@@ -24,6 +24,7 @@
     "static/media/Braver_Roundtable_IG.png": "/static/media/Braver_Roundtable_IG.ea31d1f4.png",
     "static/media/Chipotle_Fundraiser_IG_page1.png": "/static/media/Chipotle_Fundraiser_IG_page1.e31d9d60.png",
     "static/media/Chipotle_Fundraiser_IG_page2.png": "/static/media/Chipotle_Fundraiser_IG_page2.cbbb4cae.png",
+    "static/media/CodingPortfolio.png": "/static/media/CodingPortfolio.81e5580b.png",
     "static/media/Conference 2023 D1.png": "/static/media/Conference 2023 D1.eb323af5.png",
     "static/media/Conference 2023 D2.png": "/static/media/Conference 2023 D2.ad478d9d.png",
     "static/media/Conference 2023 D3.png": "/static/media/Conference 2023 D3.19702765.png",
@@ -106,12 +107,14 @@
     "static/media/Talk_Series_3_IG.png": "/static/media/Talk_Series_3_IG.a6b535fb.png",
     "static/media/Tommy_Normal.JPG": "/static/media/Tommy_Normal.3e4ed154.JPG",
     "static/media/Tommy_Silly.JPG": "/static/media/Tommy_Silly.ba311985.JPG",
+    "static/media/ValentinesCrafts.png": "/static/media/ValentinesCrafts.9094b02e.png",
     "static/media/Varnika_Normal.JPG": "/static/media/Varnika_Normal.a69795a2.JPG",
     "static/media/Varnika_Silly.JPG": "/static/media/Varnika_Silly.f7a00d1b.JPG",
     "static/media/VerinaKo_Normal.JPG": "/static/media/VerinaKo_Normal.9239ba18.JPG",
     "static/media/VerinaKo_Silly.JPG": "/static/media/VerinaKo_Silly.2d5b5e8c.JPG",
     "static/media/main.scss": "/static/media/Wavehaus-95SemiBold.4e467f6b.otf",
     "static/media/WebDev_Committee_IG.png": "/static/media/WebDev_Committee_IG.37e5bf49.png",
+    "static/media/WelcomeParty.png": "/static/media/WelcomeParty.540491dc.png",
     "static/media/Winter GBM 1 IG.png": "/static/media/Winter GBM 1 IG.5ae3b3f3.png",
     "static/media/Winter Talk Series_1.png": "/static/media/Winter Talk Series_1.d6bf8b2e.png",
     "static/media/Winter Talk Series_2.png": "/static/media/Winter Talk Series_2.17c1a783.png",
@@ -302,6 +305,6 @@
     "static/js/runtime-main.18d39cc5.js",
     "static/js/2.8bc79c0e.chunk.js",
     "static/css/main.d788d817.chunk.css",
-    "static/js/main.e22a9f06.chunk.js"
+    "static/js/main.f2f38bf7.chunk.js"
   ]
 }
