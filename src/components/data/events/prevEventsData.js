@@ -1,5 +1,29 @@
 const prevEventsData = [
     {
+        id: 49,
+        name: "Winter Study Jam",
+        date: "Mon, 3/10/2025 | 6PM-7:30PM",
+        img: "winter2025/WinterStudyJam.png"
+    },
+    {
+        id: 48,
+        name: "Winter Talk Series Day 2",
+        date: "Thurs, 2/27/2025 | 2PM-4PM",
+        img: "winter2025/WinterTalkSeries2.png"
+    },
+    {
+        id: 47,
+        name: "Winter Talk Series Day 1",
+        date: "Mon, 2/24/2025 | 4PM-5PM",
+        img: "winter2025/WinterTalkSeries1.png"
+    },
+    {
+        id: 46,
+        name: "Valentine's Arts & Crafts",
+        date: "Thurs, 2/13/2025 | 4PM-5PM",
+        img: "winter2025/ValentinesCrafts.png"
+    },
+    {
         id: 45,
         name: "CogSci Advisory Board Welcome Party",
         date: "Fri, 1/31/2025 | 4PM-6PM",
