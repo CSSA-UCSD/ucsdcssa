@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.d788d817.chunk.css",
-    "main.js": "/static/js/main.57d641d5.chunk.js",
-    "main.js.map": "/static/js/main.57d641d5.chunk.js.map",
+    "main.js": "/static/js/main.11bf41c2.chunk.js",
+    "main.js.map": "/static/js/main.11bf41c2.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.18d39cc5.js",
     "runtime-main.js.map": "/static/js/runtime-main.18d39cc5.js.map",
     "static/js/2.8bc79c0e.chunk.js": "/static/js/2.8bc79c0e.chunk.js",
@@ -93,6 +93,7 @@
     "static/media/Social1_IG.png": "/static/media/Social1_IG.e84c8569.png",
     "static/media/Spring GBM IG.png": "/static/media/Spring GBM IG.7a18f0da.png",
     "static/media/Spring GBM.png": "/static/media/Spring GBM.5aa37308.png",
+    "static/media/SpringQuarterGBM2025.png": "/static/media/SpringQuarterGBM2025.0e402738.png",
     "static/media/Spring_GBM_IG.png": "/static/media/Spring_GBM_IG.402e9484.png",
     "static/media/Study Jam.jpg": "/static/media/Study Jam.09d29fe4.jpg",
     "static/media/StudyJam_IG.png": "/static/media/StudyJam_IG.ae509572.png",
@@ -123,6 +124,9 @@
     "static/media/Winter Talk Series_4.png": "/static/media/Winter Talk Series_4.8cf6e02d.png",
     "static/media/Winter Workshop 1.png": "/static/media/Winter Workshop 1.6eb5754d.png",
     "static/media/WinterSocial.png": "/static/media/WinterSocial.b8339c62.png",
+    "static/media/WinterStudyJam.png": "/static/media/WinterStudyJam.a12bf746.png",
+    "static/media/WinterTalkSeries1.png": "/static/media/WinterTalkSeries1.907942de.png",
+    "static/media/WinterTalkSeries2.png": "/static/media/WinterTalkSeries2.6e6faf62.png",
     "static/media/Winter_GBM_IG.png": "/static/media/Winter_GBM_IG.afcba3d5.png",
     "static/media/Wordmark_Dark.9253ace5.svg": "/static/media/Wordmark_Dark.9253ace5.svg",
     "static/media/Workshop 1 IG Post.png": "/static/media/Workshop 1 IG Post.d6650b9e.png",
@@ -306,6 +310,6 @@
     "static/js/runtime-main.18d39cc5.js",
     "static/js/2.8bc79c0e.chunk.js",
     "static/css/main.d788d817.chunk.css",
-    "static/js/main.57d641d5.chunk.js"
+    "static/js/main.11bf41c2.chunk.js"
   ]
 }
