@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.5eb47b4c.css",
-    "main.js": "/static/js/main.175f2aa8.js",
+    "main.js": "/static/js/main.6eb3b823.js",
     "static/media/sam_hover.JPG": "/static/media/sam_hover.26c267e72412b18ea57e.JPG",
     "static/media/anjalim_hover.JPG": "/static/media/anjalim_hover.a28e8fbb9d7dd970cba5.JPG",
     "static/media/mina.JPG": "/static/media/mina.b64827885c16a5cea94d.JPG",
@@ -163,7 +163,6 @@
     "static/media/Winter Talk Series_3.png": "/static/media/Winter Talk Series_3.a4de4c199255258c93c3.png",
     "static/media/Winter Talk Series_2.png": "/static/media/Winter Talk Series_2.17c1a783426ad50f3e5e.png",
     "static/media/andrina_hover.JPG": "/static/media/andrina_hover.a045a2ec4d96b431e1db.JPG",
-    "static/media/SpringConference.png": "/static/media/SpringConference.cff8a740f6be8eec86cc.png",
     "static/media/simran_fun.jpg": "/static/media/simran_fun.5cee78941a4bc4252837.jpg",
     "static/media/luke_fun.jpg": "/static/media/luke_fun.02c4414cb808358051e7.jpg",
     "static/media/samantha_formal.jpg": "/static/media/samantha_formal.224001a48877dcd3432c.jpg",
@@ -300,10 +299,10 @@
     "static/media/Wordmark_Dark.svg": "/static/media/Wordmark_Dark.9253ace535e71d1d834e97de6b9e317a.svg",
     "index.html": "/index.html",
     "main.5eb47b4c.css.map": "/static/css/main.5eb47b4c.css.map",
-    "main.175f2aa8.js.map": "/static/js/main.175f2aa8.js.map"
+    "main.6eb3b823.js.map": "/static/js/main.6eb3b823.js.map"
   },
   "entrypoints": [
     "static/css/main.5eb47b4c.css",
-    "static/js/main.175f2aa8.js"
+    "static/js/main.6eb3b823.js"
   ]
 }
