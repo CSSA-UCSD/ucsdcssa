@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.5eb47b4c.css",
-    "main.js": "/static/js/main.6eb3b823.js",
+    "main.css": "/static/css/main.b73112b4.css",
+    "main.js": "/static/js/main.c3b976e6.js",
     "static/media/sam_hover.JPG": "/static/media/sam_hover.26c267e72412b18ea57e.JPG",
     "static/media/anjalim_hover.JPG": "/static/media/anjalim_hover.a28e8fbb9d7dd970cba5.JPG",
     "static/media/mina.JPG": "/static/media/mina.b64827885c16a5cea94d.JPG",
@@ -298,11 +298,11 @@
     "static/media/Wavehaus-95SemiBold.otf": "/static/media/Wavehaus-95SemiBold.4e467f6bcb702a6e39a6.otf",
     "static/media/Wordmark_Dark.svg": "/static/media/Wordmark_Dark.9253ace535e71d1d834e97de6b9e317a.svg",
     "index.html": "/index.html",
-    "main.5eb47b4c.css.map": "/static/css/main.5eb47b4c.css.map",
-    "main.6eb3b823.js.map": "/static/js/main.6eb3b823.js.map"
+    "main.b73112b4.css.map": "/static/css/main.b73112b4.css.map",
+    "main.c3b976e6.js.map": "/static/js/main.c3b976e6.js.map"
   },
   "entrypoints": [
-    "static/css/main.5eb47b4c.css",
-    "static/js/main.6eb3b823.js"
+    "static/css/main.b73112b4.css",
+    "static/js/main.c3b976e6.js"
   ]
 }
