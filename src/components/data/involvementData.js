@@ -51,13 +51,6 @@ const involvementData = [
         description: "Find all upcoming events in the Events tab, including workshops, GBMs, networking nights, the Spring Conference, and more. Check out our Instagram and our Events tab for a full calendar of upcoming events.",
         url: {"Events Calendar": "https://cssa-ucsd.org/#/events"}
     },
-    {
-        id: 7,
-        level: "medium",
-        name: "PR Board Applications",
-        description: "Apply for a chance to network with alumni and professors through involvement with UCSD's Cognitive Science Community. Due Mon, 2/17/25",
-        url: {"Events Calendar": "https://cssa-ucsd.org/#/events"}
-    }
 ];
 
 export default involvementData;

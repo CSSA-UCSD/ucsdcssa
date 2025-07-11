@@ -2,9 +2,9 @@
 const upcomingEventsData = [
     {
         id: 1,
-        name: "Spring Quarter GBM",
-        date: "Thurs, 4/3/2025 | 4PM-5PM",
-        img: "spring2025/SpringQuarterGBM2025.png"
+        name: "Fall Quarter 2025 GBM",
+        date: "Wed, 10/8/2025 | 5PM-6PM",
+        img: "placeholder.png"
     }
 
 ]

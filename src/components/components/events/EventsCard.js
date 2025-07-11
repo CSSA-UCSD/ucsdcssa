@@ -1,5 +1,5 @@
 import React from "react";
-import placeholderImage from "../../../img/events/eventPlaceholder.jpg"; // Ensure this placeholder exists
+import placeholderImage from "../../../img/events/fall2024/FallGBM_1.png"; // Ensure this placeholder exists
 
 class EventsCard extends React.Component {
     constructor() {

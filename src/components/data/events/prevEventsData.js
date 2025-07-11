@@ -1,5 +1,12 @@
 const prevEventsData = [
     {
+        id: 1,
+        name: "Spring Quarter GBM",
+        date: "Thurs, 4/3/2025 | 4PM-5PM",
+        img: "spring2025/SpringQuarterGBM2025.png"
+    },
+    
+    {
         id: 49,
         name: "Winter Study Jam",
         date: "Mon, 3/10/2025 | 6PM-7:30PM",

@@ -55,7 +55,11 @@ class Events extends React.Component {
                     { title: 'Speaker Series', start: '2025-02-19' },
                     { title: 'Speaker Series', start: '2025-02-20' },
                     { title: 'Speaker Series', start: '2025-02-21' },
-                    { title: 'Board Game Night', start: '2025-02-27' }
+                    { title: 'Board Game Night', start: '2025-02-27' },
+                    { title: 'Fireworks', start: '2025-07-04' },                    
+                    { title: 'Tommys Birthday', start: '2025-09-29' },
+                    { title: 'Fall Quarter GBM', start: '2025-10-08' }
+     
                 ]}
                 
                 eventsSet={(events) => console.log(events)}  
