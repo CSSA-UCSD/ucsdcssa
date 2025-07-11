@@ -16,12 +16,14 @@ jobs:
       - name: Setup Node.js
         uses: actions/setup-node@v3
         with:
-          node-version: 18
+          node-version: 16
 
-      - name: Install dependencies
+      - name: Install dependencies (ignore engine check)
         run: yarn install
+        env:
+          YARN_IGNORE_ENGINES: 1
 
-      - name: Build app
+      - name: Build the React app
         run: yarn build
 
       - name: Deploy to GitHub Pages
