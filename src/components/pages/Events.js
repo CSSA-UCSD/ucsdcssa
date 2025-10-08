@@ -31,7 +31,7 @@ class Events extends React.Component {
     const events = [
       { title: "Roots & Routes", start: "2025-10-02" },
       { title: "Project Applications Open", start: "2025-10-06", end: "2025-10-11" },
-      { title: "Tapex Fundraiser", start: "2025-10-07" },
+      { title: "Tapex Fundraiser", start: "2025-10-14" },
       { title: "Fall GBM #1", start: "2025-10-07" },
       { title: "Sunset Potluck Social", start: "2025-10-11" },
       { title: "Cog Sci Specialization Deep Dive #1", start: "2025-10-14" },
@@ -40,7 +40,7 @@ class Events extends React.Component {
       { title: "Midterm Mind-Mash", start: "2025-10-29" },
       { title: "Cram Jam", start: "2025-12-02" },
     ];
-
+    
     return (
       <div className="container events">
         {/* Inline styles for the calendar */}

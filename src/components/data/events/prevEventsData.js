@@ -47,13 +47,7 @@ const prevEventsData = [
         name: "Intro to Coding: Portfolio Workshop",
         date: "Wed, 1/22/2025 | 5PM-6PM",
         img: "winter2025/CodingPortfolio.png"
-    },
-    {
-        id: 42,
-        name: "Fall GBM",
-        date: "Thurs, 10/24/2024 | 5PM-6PM",
-        img: "fall2024/FallGBM_1.png"
-    },
+    }
 ]
 
 export default prevEventsData;
