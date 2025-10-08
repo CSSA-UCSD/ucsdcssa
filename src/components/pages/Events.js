@@ -38,9 +38,11 @@ class Events extends React.Component {
       { title: "Cog Sci Specialization Deep Dive #2", start: "2025-10-15" },
       { title: "Lab Open House", start: "2025-11-18" },
       { title: "Midterm Mind-Mash", start: "2025-10-29" },
+      { title: "Intro to R and Linear Regressions", start: "2025-11-06" },
+      { title: "Intro to R and Neural Networks", start: "2025-11-13" },
       { title: "Cram Jam", start: "2025-12-02" },
     ];
-    
+
     return (
       <div className="container events">
         {/* Inline styles for the calendar */}
