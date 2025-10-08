@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.f61bfbe8.chunk.css",
-    "main.js": "/static/js/main.a22a6d4d.chunk.js",
-    "main.js.map": "/static/js/main.a22a6d4d.chunk.js.map",
+    "main.js": "/static/js/main.cd78fb91.chunk.js",
+    "main.js.map": "/static/js/main.cd78fb91.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.18d39cc5.js",
     "runtime-main.js.map": "/static/js/runtime-main.18d39cc5.js.map",
     "static/js/2.98698b21.chunk.js": "/static/js/2.98698b21.chunk.js",
@@ -15,7 +15,7 @@
     "static/media/Amita_Normal.JPG": "/static/media/Amita_Normal.21188275.JPG",
     "static/media/Amita_Silly.JPG": "/static/media/Amita_Silly.a2b7c04c.JPG",
     "static/media/CodingPortfolio.png": "/static/media/CodingPortfolio.81e5580b.png",
-    "static/media/FallGBM_1.png": "/static/media/FallGBM_1.ba0a803c.png",
+    "static/media/FallGBM_1.png": "/static/media/FallGBM_1.fd727922.png",
     "static/media/FigmaWorkshop2025.png": "/static/media/FigmaWorkshop2025.a8db3afd.png",
     "static/media/Jiayi_normal.JPG": "/static/media/Jiayi_normal.6272fff7.JPG",
     "static/media/Jiayi_silly.JPG": "/static/media/Jiayi_silly.572f1e1f.JPG",
@@ -67,8 +67,10 @@
     "static/media/rohan.png": "/static/media/rohan.64b40eca.png",
     "static/media/rollan_normal.JPG": "/static/media/rollan_normal.f2a80834.JPG",
     "static/media/rollan_silly.JPG": "/static/media/rollan_silly.487f2d58.JPG",
+    "static/media/roots.png": "/static/media/roots.02df1d76.png",
     "static/media/shamei.png": "/static/media/shamei.02d279b0.png",
     "static/media/siddhant.png": "/static/media/siddhant.c8dab29c.png",
+    "static/media/sunset.png": "/static/media/sunset.ae99373b.png",
     "static/media/tanmayi.png": "/static/media/tanmayi.ba147292.png",
     "static/media/yash.png": "/static/media/yash.417c5f94.png",
     "static/media/yuvika.png": "/static/media/yuvika.4fc0f00e.png",
@@ -78,6 +80,6 @@
     "static/js/runtime-main.18d39cc5.js",
     "static/js/2.98698b21.chunk.js",
     "static/css/main.f61bfbe8.chunk.css",
-    "static/js/main.a22a6d4d.chunk.js"
+    "static/js/main.cd78fb91.chunk.js"
   ]
 }
