@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.f61bfbe8.chunk.css",
-    "main.js": "/static/js/main.cd78fb91.chunk.js",
-    "main.js.map": "/static/js/main.cd78fb91.chunk.js.map",
+    "main.js": "/static/js/main.2a6c0053.chunk.js",
+    "main.js.map": "/static/js/main.2a6c0053.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.18d39cc5.js",
     "runtime-main.js.map": "/static/js/runtime-main.18d39cc5.js.map",
     "static/js/2.98698b21.chunk.js": "/static/js/2.98698b21.chunk.js",
@@ -51,6 +51,8 @@
     "static/media/beatty.png": "/static/media/beatty.bf51260d.png",
     "static/media/blank.png": "/static/media/blank.7a6a6c54.png",
     "static/media/cindy.png": "/static/media/cindy.9a05f983.png",
+    "static/media/day1.png": "/static/media/day1.ab14d893.png",
+    "static/media/day2.png": "/static/media/day2.bc942605.png",
     "static/media/evan.png": "/static/media/evan.81bf2220.png",
     "static/media/fallgbm.png": "/static/media/fallgbm.11003888.png",
     "static/media/harini.png": "/static/media/harini.47e36b76.png",
@@ -72,6 +74,7 @@
     "static/media/siddhant.png": "/static/media/siddhant.c8dab29c.png",
     "static/media/sunset.png": "/static/media/sunset.ae99373b.png",
     "static/media/tanmayi.png": "/static/media/tanmayi.ba147292.png",
+    "static/media/tap.png": "/static/media/tap.8f750ec7.png",
     "static/media/yash.png": "/static/media/yash.417c5f94.png",
     "static/media/yuvika.png": "/static/media/yuvika.4fc0f00e.png",
     "static/media/zoe.png": "/static/media/zoe.a125a386.png"
@@ -80,6 +83,6 @@
     "static/js/runtime-main.18d39cc5.js",
     "static/js/2.98698b21.chunk.js",
     "static/css/main.f61bfbe8.chunk.css",
-    "static/js/main.cd78fb91.chunk.js"
+    "static/js/main.2a6c0053.chunk.js"
   ]
 }
