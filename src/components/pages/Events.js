@@ -41,6 +41,7 @@ class Events extends React.Component {
       { title: "Intro to R and Linear Regressions", start: "2025-11-06" },
       { title: "Intro to R and Neural Networks", start: "2025-11-13" },
       { title: "Cram Jam", start: "2025-12-02" },
+      { title: "Mentor-Mentee Program Applications Due", start: "2025-10-18" },
     ];
 
     return (

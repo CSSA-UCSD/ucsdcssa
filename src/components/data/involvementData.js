@@ -1,30 +1,16 @@
 const involvementData = [
     {
         id: 0,
-        level: "high",
-        name: "Projects",
-        description: `Quarter-long, team based project program where you get to collab in small groups to design and build a project around this quarter's theme: <em>Mental Health</em>.<br><br>
-        There are 3 tracks you can apply for:<br>
-        - Machine Learning<br>
-        - Bio / Neuroscience / Psych<br>
-        - Software Engineering (UI/UX + Backend)<br><br>
-        The app is due Friday, Oct 10th @ 11:59pm, so make sure to get it in!`,
-        url: {
-            "Apply for Projects": "https://docs.google.com/forms/d/e/1FAIpQLSdqMJQYEorQldnh46DjNnp3K9zhF4xfpQr-FaMqynODmu1FOQ/viewform"
-        }
-    },
-    {
-        id: 1,
         level: "medium",
         name: "Mentor-Mentee Program",
         description: `Interested in passing down your cogs knowledge or getting advice from someone who's been thru it? This is a great way to meet people with similar passions and goals.<br><br>
         We also host fun socials and events so you can get to know your mentor/mentee outside of academics too!`,
         url: {
-            "Apply for Mentor-Mentee Program": "https://docs.google.com/forms/d/e/1FAIpQLSf8aFAr1irC4_a0VF5HPIAwvPEv09u9a16uctX-jhwi6YDnUA/viewform"
+            "Apply for Mentor-Mentee Program": "https://forms.gle/DvbYgjtGBsSwyrbB9"
         }
     },
     {
-        id: 2,
+        id: 1,
         level: "high",
         name: "Executive Board Members",
         description: `Become a key part of CSSA by joining our Executive Board! Help plan events, collab with other students, and meet amazing speakers, faculty, and alumni.<br><br>
@@ -34,7 +20,7 @@ const involvementData = [
         }
     },
     {
-        id: 3,
+        id: 2,
         level: "low",
         name: "General Membership",
         description: `Join our <a href='https://cssa-ucsd-membership.onrender.com/' target='_blank'>membership portal</a> to earn points at every event! Enter codes, collect points, and get merch or stickers. It's still a new system, but it works and we're improving it every quarter.`,
@@ -43,7 +29,7 @@ const involvementData = [
         }
     },
     {
-        id: 4,
+        id: 3,
         level: "medium",
         name: "Instagram",
         description: `One of the main ways we stay connected with our members is through our Instagram! We're always posting updates about fundraisers, GBMs, professional events, and everything else going on. So make sure to follow us since that's where you'll see all the latest stuff first.`,
@@ -52,7 +38,7 @@ const involvementData = [
         }
     },
     {
-        id: 5,
+        id: 4,
         level: "medium",
         name: "Upcoming Events",
         description: `Check out what's coming up this quarter like GBMs, workshops, networking nights, and our Spring Conference. You can find everything on our Events tab or on Instagram.`,
@@ -61,7 +47,7 @@ const involvementData = [
         }
     },
     {
-        id: 6,
+        id: 5,
         level: "low",
         name: "Linktree + Recordings",
         description: `Missed a GBM or workshop? We probably got the slides or recording shared on our Linktree and YouTube. Tons of great resources there to learn from and our marketing team worked really hard on them so def check it out!`,
@@ -71,13 +57,24 @@ const involvementData = [
         }
     },
     {
-        id: 7,
+        id: 6,
         level: "medium",
         name: "Join Our Discord",
         description: `Join our Discord to connect with the UCSD CogSci community! Ask about classes, internships, or just chat with other students. Super chill place to hang and stay updated.`,
         url: {
             "Discord Link": "https://discord.gg/mEuaWtc"
         }
+    },
+    {
+        id: 7,
+        level: "high",
+        name: "Projects",
+        description: `Quarter-long, team-based project program where you get to collab in small groups to design and build a project around this quarter's theme: <em>Mental Health</em>.<br><br>
+        There are 3 tracks you can apply for:<br>
+        - Machine Learning<br>
+        - Bio / Neuroscience / Psych<br>
+        - Software Engineering (UI/UX + Backend)<br><br>
+        Applications are now closed, but we do new projects each quarter.`
     },
     {
         id: 8,

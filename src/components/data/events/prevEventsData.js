@@ -1,5 +1,11 @@
 const prevEventsData = [
     {
+        id: 10,
+        name: "Sunset Potluck Social",
+        date: "Saturday, 10/11/2025 | 5PM-8PM",
+        img: "fall2025/sunset.png"
+    },
+    {
         id: 1,
         name: "Fall Quarter GBM",
         date: "Tues, 10/7/2025 | 6PM-7-30PM",
@@ -23,12 +29,6 @@ const prevEventsData = [
         name: "Winter Study Jam",
         date: "Mon, 3/10/2025 | 6PM-7:30PM",
         img: "winter2025/WinterStudyJam.png"
-    },
-    {
-        id: 5,
-        name: "Winter Talk Series Day 2",
-        date: "Thurs, 2/27/2025 | 2PM-4PM",
-        img: "winter2025/WinterTalkSeries2.png"
     },
     {
         id: 6,
