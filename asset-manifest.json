@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.f61bfbe8.chunk.css",
-    "main.js": "/static/js/main.2a6c0053.chunk.js",
-    "main.js.map": "/static/js/main.2a6c0053.chunk.js.map",
+    "main.js": "/static/js/main.190744a6.chunk.js",
+    "main.js.map": "/static/js/main.190744a6.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.18d39cc5.js",
     "runtime-main.js.map": "/static/js/runtime-main.18d39cc5.js.map",
     "static/js/2.98698b21.chunk.js": "/static/js/2.98698b21.chunk.js",
@@ -61,6 +61,7 @@
     "static/media/laraRangel_old.jpg": "/static/media/laraRangel_old.791e7642.jpg",
     "static/media/nada.png": "/static/media/nada.8235eb2a.png",
     "static/media/nicole.png": "/static/media/nicole.e348f346.png",
+    "static/media/noevents.png": "/static/media/noevents.a60370a3.png",
     "static/media/oishani_normal.JPG": "/static/media/oishani_normal.a8f9e460.JPG",
     "static/media/oishani_silly.JPG": "/static/media/oishani_silly.6f6eabdf.JPG",
     "static/media/philip.png": "/static/media/philip.9a443f58.png",
@@ -83,6 +84,6 @@
     "static/js/runtime-main.18d39cc5.js",
     "static/js/2.98698b21.chunk.js",
     "static/css/main.f61bfbe8.chunk.css",
-    "static/js/main.2a6c0053.chunk.js"
+    "static/js/main.190744a6.chunk.js"
   ]
 }
