@@ -1,5 +1,17 @@
 const prevEventsData = [
     {
+        id: 12,
+        name: "Specialization Deep Dive - Day 2",
+        date: "Wednesday, 10/15/2025 | 6PM-7:30PM",
+        img: "fall2025/day2.png"
+    },
+    {
+        id: 11,
+        name: "Specialization Deep Dive - Day 1",
+        date: "Tuesday, 10/14/2025 | 6PM-7:30PM",
+        img: "fall2025/day1.png"
+    },
+    {
         id: 10,
         name: "Sunset Potluck Social",
         date: "Saturday, 10/11/2025 | 5PM-8PM",
@@ -23,19 +35,7 @@ const prevEventsData = [
         date: "Thurs, 4/3/2025 | 4PM-5PM",
         img: "spring2025/SpringQuarterGBM2025.png"
     },
-    
-    {
-        id: 4,
-        name: "Winter Study Jam",
-        date: "Mon, 3/10/2025 | 6PM-7:30PM",
-        img: "winter2025/WinterStudyJam.png"
-    },
-    {
-        id: 6,
-        name: "Winter Talk Series Day 1",
-        date: "Mon, 2/24/2025 | 4PM-5PM",
-        img: "winter2025/WinterTalkSeries1.png"
-    },
+
     {
         id: 7,
         name: "Valentine's Arts & Crafts",
