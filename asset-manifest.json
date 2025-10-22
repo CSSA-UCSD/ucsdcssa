@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.f61bfbe8.chunk.css",
-    "main.js": "/static/js/main.190744a6.chunk.js",
-    "main.js.map": "/static/js/main.190744a6.chunk.js.map",
+    "main.js": "/static/js/main.7969bbfd.chunk.js",
+    "main.js.map": "/static/js/main.7969bbfd.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.18d39cc5.js",
     "runtime-main.js.map": "/static/js/runtime-main.18d39cc5.js.map",
     "static/js/2.98698b21.chunk.js": "/static/js/2.98698b21.chunk.js",
@@ -56,6 +56,7 @@
     "static/media/evan.png": "/static/media/evan.81bf2220.png",
     "static/media/fallgbm.png": "/static/media/fallgbm.11003888.png",
     "static/media/harini.png": "/static/media/harini.47e36b76.png",
+    "static/media/haunted.png": "/static/media/haunted.8fd28ab6.png",
     "static/media/keerat.png": "/static/media/keerat.a1fc3eab.png",
     "static/media/laraRangel.jpg": "/static/media/laraRangel.dd3b8ee2.jpg",
     "static/media/laraRangel_old.jpg": "/static/media/laraRangel_old.791e7642.jpg",
@@ -84,6 +85,6 @@
     "static/js/runtime-main.18d39cc5.js",
     "static/js/2.98698b21.chunk.js",
     "static/css/main.f61bfbe8.chunk.css",
-    "static/js/main.190744a6.chunk.js"
+    "static/js/main.7969bbfd.chunk.js"
   ]
 }
