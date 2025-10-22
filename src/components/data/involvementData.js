@@ -1,15 +1,5 @@
 const involvementData = [
     {
-        id: 0,
-        level: "medium",
-        name: "Mentor-Mentee Program",
-        description: `Interested in passing down your cogs knowledge or getting advice from someone who's been thru it? This is a great way to meet people with similar passions and goals.<br><br>
-        We also host fun socials and events so you can get to know your mentor/mentee outside of academics too!`,
-        url: {
-            "Apply for Mentor-Mentee Program": "https://forms.gle/DvbYgjtGBsSwyrbB9"
-        }
-    },
-    {
         id: 1,
         level: "high",
         name: "Executive Board Members",
@@ -74,10 +64,18 @@ const involvementData = [
         - Machine Learning<br>
         - Bio / Neuroscience / Psych<br>
         - Software Engineering (UI/UX + Backend)<br><br>
-        Applications are now closed, but we do new projects each quarter.`
+       <strong>Applications are now closed.</strong>, but we do new projects each quarter.`
     },
     {
         id: 8,
+        level: "medium",
+        name: "Mentor-Mentee Program",
+        description: `Interested in passing down your cogs knowledge or getting advice from someone who's been thru it? This is a great way to meet people with similar passions and goals.<br><br>
+        We also host fun socials and events so you can get to know your mentor/mentee outside of academics too!<br><br>
+        <strong>Applications are now closed.</strong> If you have any questions, feel free to message us on <a href='https://www.instagram.com/cssaatucsd/' target='_blank'>Instagram</a> for more information.`
+    },
+    {
+        id: 9,
         level: "low",
         name: "Contact Info",
         description: `Here's some contact info for people connected to the UCSD Cognitive Science Department. They're super helpful if you ever got major or career related questions.<br><br>

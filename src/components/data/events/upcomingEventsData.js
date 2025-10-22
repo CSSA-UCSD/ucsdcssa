@@ -2,9 +2,9 @@
 const upcomingEventsData = [
     {
         id: 1,
-        name: "No events this week",
-        date: "Monday, 10/20/2025 | XXPM-XXPM",
-        img: "fall2025/noevents.png"
+        name: "Haunted Trails Social",
+        date: "Saturday, 10/25/2025 | 6:30PM",
+        img: "fall2025/haunted.png"
     }
 ]
 
