@@ -1,5 +1,11 @@
 const prevEventsData = [
     {
+        id: 13,
+        name: "Haunted Trails Social",
+        date: "Saturday, 10/25/2025 | 6:30PM",
+        img: "fall2025/haunted.png"
+    },
+    {
         id: 12,
         name: "Specialization Deep Dive - Day 2",
         date: "Wednesday, 10/15/2025 | 6PM-7:30PM",
@@ -29,13 +35,6 @@ const prevEventsData = [
         date: "Tues, 10/2/2025 | 1PM-4PM",
         img: "fall2025/roots.png"
     },
-    {
-        id: 3,
-        name: "Spring Quarter GBM",
-        date: "Thurs, 4/3/2025 | 4PM-5PM",
-        img: "spring2025/SpringQuarterGBM2025.png"
-    },
-
     {
         id: 7,
         name: "Valentine's Arts & Crafts",
