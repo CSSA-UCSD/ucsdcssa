@@ -2,9 +2,15 @@
 const upcomingEventsData = [
     {
         id: 1,
-        name: "Midterm Mind-Mash",
-        date: "Wednesday, 10/29/2025 | 6PM-8:30PM",
-        img: "fall2025/midterm.png"
+        name: "Intro to R & Linear Regressions",
+        date: "Thursday, 11/6/2025 | 8PM-9:00PM",
+        img: "fall2025/workshop1.png"
+    },
+    {
+        id: 2,
+        name: "Intro to R & Neural Networks",
+        date: "Thursday, 11/13/2025 | 8PM-9:00PM",
+        img: "fall2025/workshop2.png"
     }
 ]
 
