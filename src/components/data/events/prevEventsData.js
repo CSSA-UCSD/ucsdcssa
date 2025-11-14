@@ -1,5 +1,17 @@
 const prevEventsData = [
     {
+        id: 11,
+        name: "Intro to R & Neural Networks",
+        date: "Thursday, 11/13/2025 | 8PM-9:00PM",
+        img: "fall2025/workshop2.png"
+    },
+    {
+        id: 10,
+        name: "Intro to R & Linear Regressions",
+        date: "Thursday, 11/6/2025 | 8PM-9:00PM",
+        img: "fall2025/workshop1.png"
+    },
+    {
         id: 9,
         name: "Midterm Mind-Mash",
         date: "Wednesday, 10/29/2025 | 6PM-8:30PM",
@@ -40,18 +52,6 @@ const prevEventsData = [
         name: "Roots & Routes",
         date: "Tues, 10/2/2025 | 1PM-4PM",
         img: "fall2025/roots.png"
-    },
-    {
-        id: 2,
-        name: "Figma Workshop",
-        date: "Thurs, 1/30/2025 | 5:30PM-6:30PM",
-        img: "winter2025/FigmaWorkshop2025.png"
-    },
-    {
-        id: 1,
-        name: "Intro to Coding: Portfolio Workshop",
-        date: "Wed, 1/22/2025 | 5PM-6PM",
-        img: "winter2025/CodingPortfolio.png"
     }
 ]
 
