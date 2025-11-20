@@ -1,46 +1,88 @@
 .navbar {
-    background-color: $primary-light;
-    color: $primary-dark;
-    height: auto;
-    z-index: 100;
+  background-color: $primary-light;
+  color: $primary-dark;
+  height: auto;
+  z-index: 100;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0.5rem 1rem;
 
-    .navbar-brand {
-        display: block;
-        margin: auto;
+  .navbar-brand {
+    display: flex;
+    align-items: center;
 
-        img {
-            height: 50px;
-        }
-
-        .nav-link {
-            font-weight: bold; // Set to bold by default
-            text-decoration: none; // Ensure no underline by default
-
-            &:hover {
-                text-decoration: underline; // Underline on hover
-            }
-        }
-    }
-    .menu {
-        margin: auto;
+    img {
+      height: 50px; // default logo height
+      transition: height 0.2s ease;
     }
 
-    li {
-        display: inline;
+    .nav-link {
+      font-weight: bold;
+      text-decoration: none;
+
+      &:hover {
+        text-decoration: underline;
+      }
     }
+  }
+
+  .menu {
+    display: flex;
+    gap: 1rem; // spacing between menu items
+    align-items: center;
+  }
+
+  li {
+    display: inline-block;
+  }
 }
 
-@include media-md {
-    .navbar {
-        height: 76px;
+// Medium screens (tablet)
+@media (min-width: 768px) and (max-width: 1024px) {
+  .navbar {
+    height: 76px;
 
-        .navbar-brand {
-            display: inline-block;
-            margin: 0 1rem 0 0; 
-        }
-
-        .menu {
-            margin: 0;
-        }
+    .navbar-brand {
+      margin-right: 1rem;
     }
+
+    .menu {
+      margin: 0;
+    }
+  }
+}
+
+// Mobile screens (380px – 767px)
+@media (min-width: 380px) and (max-width: 767px) {
+  .navbar {
+    display: flex;
+    flex-direction: column; // stack logo and menu if needed
+    align-items: center;
+    padding: 0; // remove left/right padding to avoid gaps
+
+    .navbar-brand {
+      display: flex;
+      width: 100%;          // allow logo to center in full width
+      justify-content: center; // center the logo
+      align-items: center;
+
+      img {
+        height: 40px; // shrink logo slightly
+      }
+
+      .nav-link {
+        font-size: 0.75rem;
+        margin-left: 0.5rem; // optional spacing if any links are inside brand
+      }
+    }
+
+    .menu {
+      display: flex;
+      gap: 0.25rem;
+      font-size: 0.8rem;
+      align-items: center;
+      margin-top: 0.5rem; // optional spacing below logo
+    }
+  }
 }
