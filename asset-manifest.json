@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/static/css/main.f61bfbe8.chunk.css",
-    "main.js": "/static/js/main.c5c244fa.chunk.js",
-    "main.js.map": "/static/js/main.c5c244fa.chunk.js.map",
+    "main.css": "/static/css/main.7147b134.chunk.css",
+    "main.js": "/static/js/main.5a5917ad.chunk.js",
+    "main.js.map": "/static/js/main.5a5917ad.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.18d39cc5.js",
     "runtime-main.js.map": "/static/js/runtime-main.18d39cc5.js.map",
     "static/js/2.98698b21.chunk.js": "/static/js/2.98698b21.chunk.js",
     "static/js/2.98698b21.chunk.js.map": "/static/js/2.98698b21.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.f61bfbe8.chunk.css.map": "/static/css/main.f61bfbe8.chunk.css.map",
+    "static/css/main.7147b134.chunk.css.map": "/static/css/main.7147b134.chunk.css.map",
     "static/js/2.98698b21.chunk.js.LICENSE.txt": "/static/js/2.98698b21.chunk.js.LICENSE.txt",
     "static/media/CodingPortfolio.png": "/static/media/CodingPortfolio.81e5580b.png",
     "static/media/FallGBM_1.png": "/static/media/FallGBM_1.fd727922.png",
@@ -96,7 +96,7 @@
   "entrypoints": [
     "static/js/runtime-main.18d39cc5.js",
     "static/js/2.98698b21.chunk.js",
-    "static/css/main.f61bfbe8.chunk.css",
-    "static/js/main.c5c244fa.chunk.js"
+    "static/css/main.7147b134.chunk.css",
+    "static/js/main.5a5917ad.chunk.js"
   ]
 }
