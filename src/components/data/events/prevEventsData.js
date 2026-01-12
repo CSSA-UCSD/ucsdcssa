@@ -1,5 +1,23 @@
 const prevEventsData = [
     {
+        id: 14,
+        name: "Yogurt World Fundraiser",
+        date: "Friday, 1/09/2026 | 6PM-8PM",
+        img: "winter2026/yogurt.png"
+    },
+    {
+        id: 13,
+        name: "Fall Quarter Projects Showcase",
+        date: "Friday, 1/09/2026 | 6PM-8PM",
+        img: "winter2026/fallprojects.png"
+    },
+    {
+        id: 12,
+        name: "Pizookies and PJ's Social",
+        date: "Tuesday, 12/02/2025 | 6PM-8PM",
+        img: "fall2025/pizookie.png"
+    },
+    {
         id: 11,
         name: "Intro to R & Neural Networks",
         date: "Thursday, 11/13/2025 | 8PM-9:00PM",

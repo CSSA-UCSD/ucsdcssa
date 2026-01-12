@@ -63,6 +63,10 @@ const events = [
   { title: "Presidents' Day Holiday", start: "2026-02-16" },
   { title: "Final Exams", start: "2026-03-14", end: "2026-03-22" },
   { title: "Winter Quarter Ends", start: "2026-03-21" },
+    { title: "Fall Quarter Projects Showcase", start: "2026-01-09" },
+  { title: "Yogurt World Fundraiser", start: "2026-01-09" },
+  { title: "Ice Skating Social", start: "2026-01-16" },
+  { title: "Winter Quarter GBM #2", start: "2026-01-20" },
 
   // --- SPRING 2026 ---
   { title: "César Chávez Holiday", start: "2026-03-27" },
