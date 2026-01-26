@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.7147b134.chunk.css",
-    "main.js": "/static/js/main.cea685d4.chunk.js",
-    "main.js.map": "/static/js/main.cea685d4.chunk.js.map",
+    "main.js": "/static/js/main.438cd03c.chunk.js",
+    "main.js.map": "/static/js/main.438cd03c.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.18d39cc5.js",
     "runtime-main.js.map": "/static/js/runtime-main.18d39cc5.js.map",
     "static/js/2.98698b21.chunk.js": "/static/js/2.98698b21.chunk.js",
@@ -39,7 +39,10 @@
     "static/media/evan.png": "/static/media/evan.54c901dc.png",
     "static/media/evan_s.png": "/static/media/evan_s.b31e632d.png",
     "static/media/fallgbm.png": "/static/media/fallgbm.11003888.png",
+    "static/media/fallprojects.png": "/static/media/fallprojects.08c60277.png",
+    "static/media/gbm.png": "/static/media/gbm.f3667070.png",
     "static/media/haunted.png": "/static/media/haunted.8fd28ab6.png",
+    "static/media/ice.png": "/static/media/ice.4fe673d5.png",
     "static/media/jiayi.png": "/static/media/jiayi.a83a4672.png",
     "static/media/jiayi_s.png": "/static/media/jiayi_s.b45a89b9.png",
     "static/media/jihu.png": "/static/media/jihu.537acef6.png",
@@ -48,6 +51,7 @@
     "static/media/katherine_s.png": "/static/media/katherine_s.71c3a16a.png",
     "static/media/keerat.png": "/static/media/keerat.06ef3d31.png",
     "static/media/keerat_s.png": "/static/media/keerat_s.f1b5cef9.png",
+    "static/media/lab.png": "/static/media/lab.1f3691a4.png",
     "static/media/laraRangel.jpg": "/static/media/laraRangel.dd3b8ee2.jpg",
     "static/media/laraRangel_old.jpg": "/static/media/laraRangel_old.791e7642.jpg",
     "static/media/melody.png": "/static/media/melody.ae5988cd.png",
@@ -89,6 +93,7 @@
     "static/media/workshop2.png": "/static/media/workshop2.bd729f4d.png",
     "static/media/yash.png": "/static/media/yash.5362cad9.png",
     "static/media/yash_s.png": "/static/media/yash_s.b420159f.png",
+    "static/media/yogurt.png": "/static/media/yogurt.12ce7fe0.png",
     "static/media/yuvika.png": "/static/media/yuvika.66000217.png",
     "static/media/yuvika_s.png": "/static/media/yuvika_s.37d62e16.png",
     "static/media/zoe.png": "/static/media/zoe.58d7d383.png",
@@ -98,6 +103,6 @@
     "static/js/runtime-main.18d39cc5.js",
     "static/js/2.98698b21.chunk.js",
     "static/css/main.7147b134.chunk.css",
-    "static/js/main.cea685d4.chunk.js"
+    "static/js/main.438cd03c.chunk.js"
   ]
 }

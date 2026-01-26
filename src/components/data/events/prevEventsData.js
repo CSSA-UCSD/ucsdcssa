@@ -1,5 +1,17 @@
 const prevEventsData = [
     {
+        id: 16,
+        name: "Ice Skating Social",
+        date: "Friday, 1/16/2026 | 7:20PM-9:20PM",
+        img: "winter2026/ice.png"
+    },
+    {
+        id: 15,
+        name: "Winter Quarter GBM #2",
+        date: "Tuesday, 1/20/2026 | 6PM-7PM",
+        img: "winter2026/gbm.png"
+    },
+    {
         id: 14,
         name: "Yogurt World Fundraiser",
         date: "Friday, 1/09/2026 | 6PM-8PM",
