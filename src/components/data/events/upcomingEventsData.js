@@ -2,9 +2,9 @@
 const upcomingEventsData = [
     {
         id: 1,
-        name: "Lab Open House",
-        date: "Wednesday, 1/28/2026 | 5PM-8PM",
-        img: "winter2026/lab.png"
+        name: "Project Mentor Applications Due",
+        date: "Friday, 2/20/2026 | 5PM-8PM",
+        img: "winter2026/project.png"
     }
 ]
 

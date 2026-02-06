@@ -67,7 +67,8 @@ const events = [
   { title: "Yogurt World Fundraiser", start: "2026-01-09" },
   { title: "Ice Skating Social", start: "2026-01-16" },
   { title: "Winter Quarter GBM #2", start: "2026-01-20" },
-
+  { title: "Movie Night", start: "2026-01-30" },
+  { title: "Project Mentor Applications Due", start: "2026-02-20" },
   // --- SPRING 2026 ---
   { title: "César Chávez Holiday", start: "2026-03-27" },
   { title: "Instruction Begins", start: "2026-03-30" },
