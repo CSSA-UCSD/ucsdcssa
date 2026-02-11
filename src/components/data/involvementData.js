@@ -70,9 +70,8 @@ const involvementData = [
         id: 8,
         level: "medium",
         name: "Mentor-Mentee Program",
-        description: `Interested in passing down your cogs knowledge or getting advice from someone who's been thru it? This is a great way to meet people with similar passions and goals.<br><br>
-        We also host fun socials and events so you can get to know your mentor/mentee outside of academics too!<br><br>
-        <strong>Applications are now closed.</strong> If you have any questions, feel free to message us on <a href='https://www.instagram.com/cssaatucsd/' target='_blank'>Instagram</a> for more information.`
+        description: `Interested in passing down your cogs knowledge or getting advice from someone who's been thru it? This is a great way to meet people with similar passions and goals.<br><br> We also host fun socials and events so you can get to know your mentor/mentee outside of academics too!<br><br> 
+        Applications are open and due on February 20th, 2026! You can apply as a mentor or mentee at <strong><a href="https://docs.google.com/forms/d/e/1FAIpQLSdHK7nMdTOfz4_Abh9ZK0AAFmcbD4OKiW9AdR07o1_UBHQ_ow/viewform">here</a></strong>.`
     },
     {
         id: 9,
