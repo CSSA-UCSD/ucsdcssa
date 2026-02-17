@@ -1,5 +1,11 @@
 const prevEventsData = [
     {
+        id: 19,
+        name: "Midterm Mind-Mash",
+        date: "Wednesday, 2/11/2026 | 6PM-8:30PM",
+        img: "winter2026/midterm2.png"
+    },
+    {
         id: 18,
         name: "Movie Night: Memento",
         date: "Friday, 1/30/2026 | 6PM-8:30PM",

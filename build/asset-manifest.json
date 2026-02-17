@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.7147b134.chunk.css",
-    "main.js": "/static/js/main.61714e82.chunk.js",
-    "main.js.map": "/static/js/main.61714e82.chunk.js.map",
+    "main.js": "/static/js/main.6abdac06.chunk.js",
+    "main.js.map": "/static/js/main.6abdac06.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.18d39cc5.js",
     "runtime-main.js.map": "/static/js/runtime-main.18d39cc5.js.map",
     "static/js/2.98698b21.chunk.js": "/static/js/2.98698b21.chunk.js",
@@ -57,6 +57,7 @@
     "static/media/melody.png": "/static/media/melody.ae5988cd.png",
     "static/media/melody_s.png": "/static/media/melody_s.8f579282.png",
     "static/media/midterm.png": "/static/media/midterm.001990c4.png",
+    "static/media/midterm2.png": "/static/media/midterm2.f45aea8c.png",
     "static/media/movie.png": "/static/media/movie.a490da4a.png",
     "static/media/nada.png": "/static/media/nada.5f97c7e8.png",
     "static/media/nada_s.png": "/static/media/nada_s.5fc03e07.png",
@@ -72,6 +73,7 @@
     "static/media/project.png": "/static/media/project.f59652f5.png",
     "static/media/rayleen.png": "/static/media/rayleen.722ee33a.png",
     "static/media/rayleen_s.png": "/static/media/rayleen_s.d0cebca8.png",
+    "static/media/resume.png": "/static/media/resume.cee475a5.png",
     "static/media/rohan.png": "/static/media/rohan.a7f35f02.png",
     "static/media/rohan_s.png": "/static/media/rohan_s.c336c99a.png",
     "static/media/rollan.png": "/static/media/rollan.f2a695e6.png",
@@ -105,6 +107,6 @@
     "static/js/runtime-main.18d39cc5.js",
     "static/js/2.98698b21.chunk.js",
     "static/css/main.7147b134.chunk.css",
-    "static/js/main.61714e82.chunk.js"
+    "static/js/main.6abdac06.chunk.js"
   ]
 }
