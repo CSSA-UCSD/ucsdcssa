@@ -1,4 +1,5 @@
 import React from 'react';
+import 'bootstrap/dist/js/bootstrap.bundle.min';
 
 import Navbar from './components/components/Navbar';
 import Main from './components/Main';

@@ -1,6 +1,7 @@
 import React from "react";
 import HomeInitial from "../components/home/HomeInitial";
 import Sidebar from "../components/home/Sidebar";
+import HomeCarousel from "../components/home/HomeCarousel";
 import Logo from "../../img/logos/Wordmark_Dark.svg";
 import AOS from "aos";
 import '../../style/main.scss'
@@ -225,6 +226,7 @@ class Home extends React.Component {
                                 We aim to encourage growth and opportunity by building an integrated 
                                 community of students with similar goals and interests.</p>
                         </div>
+                        <HomeCarousel />
                     </div>
                     <div className="col-sm-4 order-sm-1">
                         < Sidebar/>
