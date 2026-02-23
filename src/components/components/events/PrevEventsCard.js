@@ -8,7 +8,7 @@ class PrevEventsCard extends React.Component {
 
         try {
             // Attempt to load the image if it exists
-            imageUrl = require(`../../../img/events/${img}`).default;
+            imageUrl = require(`../../../img/events/${img}`);
         } catch (e) {
             // If the image doesn't exist, use a placeholder or null
             imageUrl = '/path/to/placeholder.png'; // Provide a valid placeholder image path

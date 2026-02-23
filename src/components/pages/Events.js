@@ -71,6 +71,8 @@ const events = [
   { title: "Midterm Mind-Mash", start: "2026-02-11" },
   { title: "Project Mentor Applications Due", start: "2026-02-20" },
   { title: "Resume Workshop", start: "2026-02-18" },
+  { title: "Peer-2-Peer", start: "2026-02-25" },
+  { title: "Mentor Mentee Study Sesh", start: "2026-03-12" },
   // --- SPRING 2026 ---
   { title: "César Chávez Holiday", start: "2026-03-27" },
   { title: "Instruction Begins", start: "2026-03-30" },

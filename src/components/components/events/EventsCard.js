@@ -1,5 +1,5 @@
 import React from "react";
-import placeholderImage from "../../../img/events/fall2024/FallGBM_1.png"; // Ensure this placeholder exists
+import placeholderImage from "../../../img/events/fall2025/day1.png"; // Ensure this placeholder exists
 
 class EventsCard extends React.Component {
     constructor() {
@@ -14,14 +14,14 @@ class EventsCard extends React.Component {
 
         // Try to load the image and the hover image, fallback to placeholder if not found
         try {
-            imageUrl = require(`../../../img/events/${this.props.item.img}`).default;
+            imageUrl = require(`../../../img/events/${this.props.item.img}`);
         } catch (e) {
             imageUrl = placeholderImage; // Use placeholder if image is missing
         }
 
         if (this.props.item.imgHover) {
             try {
-                imageHoverUrl = require(`../../../img/events/${this.props.item.imgHover}`).default;
+                imageHoverUrl = require(`../../../img/events/${this.props.item.imgHover}`);
             } catch (e) {
                 imageHoverUrl = imageUrl; // Fallback to main image if hover image is missing
             }

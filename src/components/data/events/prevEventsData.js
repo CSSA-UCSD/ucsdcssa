@@ -1,5 +1,11 @@
 const prevEventsData = [
     {
+        id: 20,
+        name: "Resume Workshop",
+        date: "Wednesday, 2/18/2026 | 4PM-5PM",
+        img: "winter2026/resume.png"
+    },
+    {
         id: 19,
         name: "Midterm Mind-Mash",
         date: "Wednesday, 2/11/2026 | 6PM-8:30PM",

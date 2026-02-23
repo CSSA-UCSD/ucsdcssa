@@ -5,7 +5,7 @@ $secondary: $primary-dark;
 
 $body: $primary-dark;
 
-@import "../../../node_modules/bootstrap/scss/bootstrap";
+@import "~bootstrap/scss/bootstrap";
 
 // Set nav-link styles
 .nav-link {

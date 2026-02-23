@@ -15,9 +15,9 @@ class Member extends React.Component {
                 <div className="member col-md-6 pb-5" data-aos="fade-up">
                     <div className="member-img" onMouseEnter={this.handleMouseEnter} onMouseLeave={this.handleMouseLeave}>
                         <img
-                            src={require(`../../../img/team/${this.props.item.img}`).default}
-                            onMouseOver={e => this.props.item.imgHover && (e.currentTarget.src = require(`../../../img/team/${this.props.item.imgHover}`).default)}
-                            onMouseOut={e => (e.currentTarget.src =  require(`../../../img/team/${this.props.item.img}`).default)}
+                            src={require(`../../../img/team/${this.props.item.img}`)}
+                            onMouseOver={e => this.props.item.imgHover && (e.currentTarget.src = require(`../../../img/team/${this.props.item.imgHover}`))}
+                            onMouseOut={e => (e.currentTarget.src =  require(`../../../img/team/${this.props.item.img}`))}
                             alt={this.props.item.name}
                         />
                     </div>

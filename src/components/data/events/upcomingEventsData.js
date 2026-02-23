@@ -2,14 +2,14 @@
 const upcomingEventsData = [
     {
         id: 1,
-        name: "Resume Workshop",
-        date: "Wednesday, 2/18/2026 | 4PM-5PM",
-        img: "winter2026/resume.png"
+        name: "Peer-2-Peer",
+        date: "Wednesday, 2/25/2026 | 5PM-6PM",
+        img: "winter2026/peers.png"
     },
     {   id: 2,
-        name: "Project Mentor Applications Due",
-        date: "Friday, 2/20/2026 | 5PM-8PM",
-        img: "winter2026/project.png"
+        name: "Mentor Mentee Study Sesh",
+        date: "Thursday, 3/12/2026 | 6PM-8PM",
+        img: "winter2026/sesh.png"
     },
 
 ]
@@ -26,3 +26,7 @@ export default upcomingEventsData;
 // ]
 
 // export default upcomingEventsData;
+
+// id 1 goes first on the left
+// id 2 goes second on the right
+// id 1 is probably for the events closer in time
