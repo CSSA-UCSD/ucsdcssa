@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.7306c18a.css",
-    "main.js": "/static/js/main.ae7bb2a7.js",
+    "main.css": "/static/css/main.0e725b34.css",
+    "main.js": "/static/js/main.5cd092e2.js",
     "static/media/laraRangel.jpg": "/static/media/laraRangel.dd3b8ee25d01e8ff09b2.jpg",
     "static/media/c1.png": "/static/media/c1.8c9deb66c6d57994de5d.png",
     "static/media/c2.png": "/static/media/c2.6a87376bbfd0520febb3.png",
@@ -103,11 +103,11 @@
     "static/media/Wavehaus-95SemiBold.otf": "/static/media/Wavehaus-95SemiBold.4e467f6bcb702a6e39a6.otf",
     "static/media/Wordmark_Dark.svg": "/static/media/Wordmark_Dark.ccefd2b4fcb8689eb2edcb627ef59b1e.svg",
     "index.html": "/index.html",
-    "main.7306c18a.css.map": "/static/css/main.7306c18a.css.map",
-    "main.ae7bb2a7.js.map": "/static/js/main.ae7bb2a7.js.map"
+    "main.0e725b34.css.map": "/static/css/main.0e725b34.css.map",
+    "main.5cd092e2.js.map": "/static/js/main.5cd092e2.js.map"
   },
   "entrypoints": [
-    "static/css/main.7306c18a.css",
-    "static/js/main.ae7bb2a7.js"
+    "static/css/main.0e725b34.css",
+    "static/js/main.5cd092e2.js"
   ]
 }
