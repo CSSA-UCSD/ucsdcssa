@@ -1,12 +1,15 @@
+// ==============================
+// NAVBAR
+// ==============================
 .navbar {
   background-color: $primary-light;
   color: $primary-dark;
-  height: auto;
   z-index: 100;
   display: flex;
   align-items: center;
   justify-content: space-between;
   padding: 0.5rem 1rem;
+  height: auto; // let it size naturally
 
   .navbar-brand {
     display: flex;
@@ -29,7 +32,7 @@
 
   .menu {
     display: flex;
-    gap: 1rem; // spacing between menu items
+    gap: 1rem;
     align-items: center;
   }
 
@@ -38,7 +41,9 @@
   }
 }
 
-// Medium screens (tablet)
+// ==============================
+// MEDIUM SCREENS (TABLET)
+// ==============================
 @media (min-width: 768px) and (max-width: 1024px) {
   .navbar {
     height: 76px;
@@ -53,27 +58,31 @@
   }
 }
 
-// Mobile screens (380px – 767px)
+// ==============================
+// MOBILE SCREENS (380px – 767px)
+// ==============================
 @media (min-width: 380px) and (max-width: 767px) {
   .navbar {
-    display: flex;
-    flex-direction: column; // stack logo and menu if needed
+    flex-direction: column; // stack logo + menu
     align-items: center;
-    padding: 0; // remove left/right padding to avoid gaps
+    padding: 0; // remove horizontal padding
+    margin: 0;  // remove any default margin
+    height: auto; // shrink to fit children
 
     .navbar-brand {
       display: flex;
-      width: 100%;          // allow logo to center in full width
-      justify-content: center; // center the logo
+      width: 100%;
+      justify-content: center;
       align-items: center;
+      padding: 0.25rem 0; // small vertical padding only
 
       img {
-        height: 40px; // shrink logo slightly
+        height: 40px; // shrink logo
       }
 
       .nav-link {
         font-size: 0.75rem;
-        margin-left: 0.5rem; // optional spacing if any links are inside brand
+        margin-left: 0.5rem;
       }
     }
 
@@ -82,7 +91,7 @@
       gap: 0.25rem;
       font-size: 0.8rem;
       align-items: center;
-      margin-top: 0.5rem; // optional spacing below logo
+      margin: 0.25rem 0 0 0; // very small top margin
     }
   }
 }

@@ -1,5 +1,5 @@
 import React from "react";
-import { HashLink as Link } from 'react-router-hash-link';
+// import { HashLink as Link } from 'react-router-hash-link';
 
 class HomeInitial extends React.Component {
 
@@ -13,29 +13,6 @@ class HomeInitial extends React.Component {
                         <h1 className="title">Cognitive Science <wbr></wbr>Student&nbsp;Association</h1>
                         <h1 className="title pb-3">at UC San Diego</h1>
                     </div>
-                    <div className="home-buttons">
-                        <div className="row">
-                            <div className="col-md-auto py-4">
-                                
-                                <Link to="#learn-more" className="cta">
-                                    <span>Learn More</span>
-                                    <svg width="13px" height="10px" viewBox="0 0 13 10">
-                                        <path d="M1,5 L11,5"></path>
-                                        <polyline points="8 1 12 5 8 9"></polyline>
-                                    </svg>
-                                </Link>
-                            </div>
-                            <div className="col-md-auto py-4">
-                                <Link to='/involvement' className='cta'>
-                                    <span>Get Involved</span>
-                                    <svg width="13px" height="10px" viewBox="0 0 13 10">
-                                        <path d="M1,5 L11,5"></path>
-                                        <polyline points="8 1 12 5 8 9"></polyline>
-                                    </svg>
-                                </Link>
-                            </div>
-                        </div>
-                    </div>
                 </div>
             </div>
         )
@@ -43,3 +20,20 @@ class HomeInitial extends React.Component {
 
 }
 export default HomeInitial;
+
+
+//    <div className="home-buttons">
+//                         <div className="row justify-content-center justify-content-md-start"> 
+//                             <div className="col-auto py-2 py-md-4">
+//                                     <span>Learn More</span>
+                                  
+//                                 </Link>
+//                             </div>
+//                             <div className="col-auto py-2 py-md-4"> 
+//                                 <Link to='/involvement' className='cta'>
+//                                     <span>Get Involved</span>
+                                  
+//                                 </Link>
+//                             </div>
+//                         </div>
+//                     </div>

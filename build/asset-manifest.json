@@ -1,10 +1,16 @@
 {
   "files": {
     "main.css": "/static/css/main.7306c18a.css",
-    "main.js": "/static/js/main.7af4400c.js",
+    "main.js": "/static/js/main.ae7bb2a7.js",
     "static/media/laraRangel.jpg": "/static/media/laraRangel.dd3b8ee25d01e8ff09b2.jpg",
+    "static/media/c1.png": "/static/media/c1.8c9deb66c6d57994de5d.png",
+    "static/media/c2.png": "/static/media/c2.6a87376bbfd0520febb3.png",
+    "static/media/c6.png": "/static/media/c6.905ffb4c79cff0ad20b9.png",
+    "static/media/c5.png": "/static/media/c5.a5d27f75aca03daa6082.png",
     "static/media/amita_s.png": "/static/media/amita_s.81d62e289860acba2d2c.png",
+    "static/media/c8.png": "/static/media/c8.1390507f0bd327c4877b.png",
     "static/media/amita.png": "/static/media/amita.8441a2788526dddb9f0f.png",
+    "static/media/c3.png": "/static/media/c3.6e907a1fcaef579e0bba.png",
     "static/media/nicole_s.png": "/static/media/nicole_s.1b0380cb2a79ad9bc420.png",
     "static/media/melody_s.png": "/static/media/melody_s.8f5792820b46a86d4a32.png",
     "static/media/jihu.png": "/static/media/jihu.537acef6659cd90df079.png",
@@ -12,6 +18,7 @@
     "static/media/jihu_s.png": "/static/media/jihu_s.1861510642ff8844ca4d.png",
     "static/media/sidd.png": "/static/media/sidd.996e5b2302d339a07e26.png",
     "static/media/yuvika_s.png": "/static/media/yuvika_s.37d62e160255c4915024.png",
+    "static/media/c4.png": "/static/media/c4.25633ca8c03d8279570b.png",
     "static/media/tommy.png": "/static/media/tommy.db6bd0df476aa7f98112.png",
     "static/media/rollan.png": "/static/media/rollan.f2a695e602450cad03a8.png",
     "static/media/tommy_s.png": "/static/media/tommy_s.70df75cfca413ceabae0.png",
@@ -27,6 +34,7 @@
     "static/media/yash_s.png": "/static/media/yash_s.b420159fb7b111cb2f66.png",
     "static/media/jiayi.png": "/static/media/jiayi.a83a4672ba05c4d067dd.png",
     "static/media/rayleen.png": "/static/media/rayleen.722ee33ad493db543839.png",
+    "static/media/c7.png": "/static/media/c7.b5af454ca2168f93112c.png",
     "static/media/jiayi_s.png": "/static/media/jiayi_s.b45a89b9f485d716ab60.png",
     "static/media/shamei_s.png": "/static/media/shamei_s.2dae7321d1981fb8ebe9.png",
     "static/media/shivani.png": "/static/media/shivani.124b348299306ee44059.png",
@@ -96,10 +104,10 @@
     "static/media/Wordmark_Dark.svg": "/static/media/Wordmark_Dark.ccefd2b4fcb8689eb2edcb627ef59b1e.svg",
     "index.html": "/index.html",
     "main.7306c18a.css.map": "/static/css/main.7306c18a.css.map",
-    "main.7af4400c.js.map": "/static/js/main.7af4400c.js.map"
+    "main.ae7bb2a7.js.map": "/static/js/main.ae7bb2a7.js.map"
   },
   "entrypoints": [
     "static/css/main.7306c18a.css",
-    "static/js/main.7af4400c.js"
+    "static/js/main.ae7bb2a7.js"
   ]
 }

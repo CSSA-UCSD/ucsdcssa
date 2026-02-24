@@ -2,7 +2,6 @@ import React from "react";
 import HomeInitial from "../components/home/HomeInitial";
 import Sidebar from "../components/home/Sidebar";
 import HomeCarousel from "../components/home/HomeCarousel";
-import Logo from "../../img/logos/Wordmark_Dark.svg";
 import AOS from "aos";
 import '../../style/main.scss'
 // import { Calendar } from "@fullcalendar/core";
@@ -210,9 +209,6 @@ class Home extends React.Component {
                 < HomeInitial/>
                 <div className="row py-5" id="learn-more">
                     <div className="col-sm-8 order-sm-2">
-                        <div className="home-section" data-aos="fade-up">
-                            <img className="pb-3" src={Logo} alt="CSSA @ UCSD"></img>
-                        </div>
                         <div className="home-section" data-aos="fade-up">
                             <p className="words">Dynamic. Professional. Honest.</p>
                         </div>

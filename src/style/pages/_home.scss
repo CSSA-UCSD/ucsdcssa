@@ -1,8 +1,11 @@
 .home-initial {
-    height: calc(100vh - 76px);
-    justify-content: center; 
+    // MOBILE: Remove the 100vh forced height to kill the white space below
+    min-height: 350px; 
+    justify-content: flex-start; 
     align-items: center;
-    padding: 40vh 10% 0 10%;
+    
+    // MOBILE: Small top padding (40px) removes the giant white space above
+    padding: 40px 10% 0 10%;
 
     .home-title {
         display: none;
@@ -13,14 +16,12 @@
             line-height: 36px;
             margin-bottom: 0;
         }
-        
     }
-
 }
 
 .home {
     &-section {
-        padding-bottom: 1rem;
+        padding-bottom: 1.5rem;
         width: inherit;
 
         .words {
@@ -30,7 +31,8 @@
     }
 
     &-buttons {
-        padding-top: 10vh;
+        // Keeps buttons close to text on mobile
+        padding-top: 1.5rem;
     }
 }
 
@@ -41,22 +43,8 @@
     }
 }
 
-/*
-@include media-sm {
-    .home-initial {
-    
-        .home-title {
-            h1.title {
-                font-size: 2.5rem;
-            }
-        }
-    }
-}
-*/
-
-
 /* Home Page Animation */
-.animation{
+.animation {
     overflow: hidden;
     svg {
         transform: translateY(-20%);
@@ -65,45 +53,35 @@
         position: absolute;
         z-index: -1;
 
-        .st9{fill:#133B51;}
-        .st25{font-family:'Wavehaus-95SemiBold';}
-        .st26{font-size:60px;}
+        .st9 { fill: #133B51; }
+        .st25 { font-family: 'Wavehaus-95SemiBold'; }
+        .st26 { font-size: 60px; }
     }
     .path {
         stroke-dasharray: 1000;
         stroke-dashoffset: 1000;
         animation: dash 5s linear alternate infinite;
-      }
+    }
       
-      @keyframes dash {
-        from {
-          stroke-dashoffset: 1000;
-        }
-        to {
-          stroke-dashoffset: 0;
-        }
-      }
+    @keyframes dash {
+        from { stroke-dashoffset: 1000; }
+        to { stroke-dashoffset: 0; }
+    }
+    margin-bottom: 1rem;
+    margin-top: -6rem;
 }
 
-@include media-md {
-    .animation {
-        svg {
-            transform: translateY(-10vh);
-        }
-    }
-}
-@include media-lg {
-    .animation {
-        svg {
-            transform: translateY(0vh);
-        }
-    }
-}
-
+// ======================================================
+// DESKTOP OVERRIDES (Restores your original look for PC)
+// ======================================================
 
 @include media-md {
     .home-initial {
-        padding: 55vh 10% 0 15%;
+        // Restores full-screen height
+        height: calc(100vh - 76px); 
+        // Restores the large top gap you liked on desktop
+        padding: 40vh 10% 0 15%; 
+
         .home-title {
             h1.title {
                 font-size: 52px;
@@ -111,13 +89,25 @@
             }
         }
     }
+
     .home-buttons {
         padding: 3rem 0;
         padding-top: 0;
     }
+
+    .animation {
+        svg {
+            transform: translateY(-10vh);
+        }
+    }
 }
 
 @include media-lg {
+    .animation {
+        svg {
+            transform: translateY(0vh);
+        }
+    }
     .home-initial {
         .home-title {
             h1.title {

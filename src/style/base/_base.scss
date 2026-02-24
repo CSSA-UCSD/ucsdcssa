@@ -28,12 +28,12 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 h1 {
-    font-size: 60px;
+    font-size: 40px;
     line-height: 72px;
 }
 
 h2 {
-    font-size: 34px;
+    font-size: 32px;
     line-height: 44px;
 }
 
@@ -56,3 +56,14 @@ a {
     accent3: $accent-3;
   }
   
+@media (min-width: 768px) {
+    h1 {
+        font-size: 60px;   // Back to your original big size
+        line-height: 72px;
+    }
+
+    h2 {
+        font-size: 34px;   // Back to your original size
+        line-height: 44px;
+    }
+}
