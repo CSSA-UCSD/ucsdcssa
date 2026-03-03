@@ -1,12 +1,16 @@
 // date format: Day, MM/DD/YYYY | xPM-xPM
 const upcomingEventsData = [
-    {
-        id: 1,
-        name: "Peer-2-Peer",
-        date: "Wednesday, 2/25/2026 | 5PM-6PM",
-        img: "winter2026/peers.png"
+    {   id: 1,
+        name: "Panda Express Fundraiser",
+        date: "Wednesday, 3/4/2026",
+        img: "winter2026/panda.png"
     },
     {   id: 2,
+        name: "Handel's Fundraiser",
+        date: "Thursday, 3/5/2026",
+        img: "winter2026/handel.png"
+    },
+    {   id: 3,
         name: "Mentor Mentee Study Sesh",
         date: "Thursday, 3/12/2026 | 6PM-8PM",
         img: "winter2026/sesh.png"

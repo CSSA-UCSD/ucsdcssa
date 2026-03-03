@@ -1,7 +1,6 @@
 import React, { useEffect } from 'react';
 const HomeCarousel = () => {
-  // 1. List your images here. 
-  // Just add or remove strings from this array as needed!
+  // if you want to add more images, just add them to the 'Carousel' images folder and then add a line here with the same format as the others
   const images = [
     require('../../../img/Carousel/c1.png'), // Remember: no .default because of Node 16
     require('../../../img/Carousel/c2.png'),
@@ -10,7 +9,8 @@ const HomeCarousel = () => {
     require('../../../img/Carousel/c5.png'),
     require('../../../img/Carousel/c6.png'),
     require('../../../img/Carousel/c7.png'),
-    require('../../../img/Carousel/c8.png'),
+    // require('../../../img/Carousel/c8.png'),
+    require('../../../img/Carousel/c9.png'),
   ];
 
 // 2. Styles

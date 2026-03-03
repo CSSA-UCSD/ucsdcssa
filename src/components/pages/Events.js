@@ -72,6 +72,8 @@ const events = [
   { title: "Project Mentor Applications Due", start: "2026-02-20" },
   { title: "Resume Workshop", start: "2026-02-18" },
   { title: "Peer-2-Peer", start: "2026-02-25" },
+  { title: "Panda Express Fundraiser", start: "2026-03-04" },
+  { title: "Handel's Fundraiser", start: "2026-03-05" },
   { title: "Mentor Mentee Study Sesh", start: "2026-03-12" },
   // --- SPRING 2026 ---
   { title: "César Chávez Holiday", start: "2026-03-27" },
