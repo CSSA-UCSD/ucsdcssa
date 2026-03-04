@@ -1,14 +1,15 @@
 {
   "files": {
     "main.css": "/static/css/main.953dfc1d.css",
-    "main.js": "/static/js/main.5cd092e2.js",
+    "main.js": "/static/js/main.4345a806.js",
+    "static/media/c9.png": "/static/media/c9.2499ab197ee05ffc88ad.png",
+    "static/media/panda.png": "/static/media/panda.042b16e78065a7e24cf6.png",
     "static/media/laraRangel.jpg": "/static/media/laraRangel.dd3b8ee25d01e8ff09b2.jpg",
     "static/media/c1.png": "/static/media/c1.8c9deb66c6d57994de5d.png",
     "static/media/c2.png": "/static/media/c2.6a87376bbfd0520febb3.png",
     "static/media/c6.png": "/static/media/c6.905ffb4c79cff0ad20b9.png",
     "static/media/c5.png": "/static/media/c5.a5d27f75aca03daa6082.png",
     "static/media/amita_s.png": "/static/media/amita_s.81d62e289860acba2d2c.png",
-    "static/media/c8.png": "/static/media/c8.1390507f0bd327c4877b.png",
     "static/media/amita.png": "/static/media/amita.8441a2788526dddb9f0f.png",
     "static/media/c3.png": "/static/media/c3.6e907a1fcaef579e0bba.png",
     "static/media/nicole_s.png": "/static/media/nicole_s.1b0380cb2a79ad9bc420.png",
@@ -65,6 +66,7 @@
     "static/media/CodingPortfolio.png": "/static/media/CodingPortfolio.81e5580bf13dae286121.png",
     "static/media/haunted.png": "/static/media/haunted.8fd28ab673d2bc4b0549.png",
     "static/media/cindy.png": "/static/media/cindy.179f7bce689f23cfb7ac.png",
+    "static/media/handel.png": "/static/media/handel.2a8538084d33dd73dfff.png",
     "static/media/katherine_s.png": "/static/media/katherine_s.71c3a16aaf9c367aa1da.png",
     "static/media/sunset.png": "/static/media/sunset.ae99373be16f988caca8.png",
     "static/media/WelcomeParty.png": "/static/media/WelcomeParty.540491dc8dd2aa31d148.png",
@@ -104,10 +106,10 @@
     "static/media/Wordmark_Dark.svg": "/static/media/Wordmark_Dark.ccefd2b4fcb8689eb2edcb627ef59b1e.svg",
     "index.html": "/index.html",
     "main.953dfc1d.css.map": "/static/css/main.953dfc1d.css.map",
-    "main.5cd092e2.js.map": "/static/js/main.5cd092e2.js.map"
+    "main.4345a806.js.map": "/static/js/main.4345a806.js.map"
   },
   "entrypoints": [
     "static/css/main.953dfc1d.css",
-    "static/js/main.5cd092e2.js"
+    "static/js/main.4345a806.js"
   ]
 }

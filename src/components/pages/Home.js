@@ -209,18 +209,23 @@ class Home extends React.Component {
                 < HomeInitial/>
                 <div className="row py-5" id="learn-more">
                     <div className="col-sm-8 order-sm-2">
-                        <div className="home-section" data-aos="fade-up">
+                        {/* <div className="home-section" data-aos="fade-up">
                             <p className="words">Dynamic. Professional. Honest.</p>
+                        </div> */}
+                        <div className="home-section" data-aos="fade-up">
+                            <p>
+                                Cognitive Science is a diverse and interdisciplinary major, and CSSA is here to help you narrow it down. 
+                                We are a professional, academic, and social organization that provides the insight you need to understand your specialization and the many career 
+                                paths available to you.
+                            </p>
                         </div>
                         <div className="home-section" data-aos="fade-up">
-                            <p>CSSA is a professional, academic and social organization for students 
-                                interested in exploring the interdisciplinary field of Cognitive Science.</p>
-                        </div>
-                        <div className="home-section" data-aos="fade-up">
-                            <p>Our mission is to equip students with the practical skills required to 
-                                succeed in the various career paths that a cognitive science degree offers. 
-                                We aim to encourage growth and opportunity by building an integrated 
-                                community of students with similar goals and interests.</p>
+                            <p>
+                                Our club is all about creating connections. Through events like Lab Open Houses and 
+                                our Spring Conference, you'll meet recruiters, industry professionals, and fellow 
+                                CogSci majors. We host a variety of socials and professional events to help you 
+                                learn and grow within the community, so make sure to check out our calendar and join us at an event!
+                            </p>
                         </div>
                         <HomeCarousel />
                     </div>
