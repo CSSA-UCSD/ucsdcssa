@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.953dfc1d.css",
+    "main.css": "/static/css/main.8513607d.css",
     "main.js": "/static/js/main.04c30aae.js",
     "static/media/c9.png": "/static/media/c9.2499ab197ee05ffc88ad.png",
     "static/media/panda.png": "/static/media/panda.042b16e78065a7e24cf6.png",
@@ -105,11 +105,11 @@
     "static/media/Wavehaus-95SemiBold.otf": "/static/media/Wavehaus-95SemiBold.4e467f6bcb702a6e39a6.otf",
     "static/media/Wordmark_Dark.svg": "/static/media/Wordmark_Dark.ccefd2b4fcb8689eb2edcb627ef59b1e.svg",
     "index.html": "/index.html",
-    "main.953dfc1d.css.map": "/static/css/main.953dfc1d.css.map",
+    "main.8513607d.css.map": "/static/css/main.8513607d.css.map",
     "main.04c30aae.js.map": "/static/js/main.04c30aae.js.map"
   },
   "entrypoints": [
-    "static/css/main.953dfc1d.css",
+    "static/css/main.8513607d.css",
     "static/js/main.04c30aae.js"
   ]
 }

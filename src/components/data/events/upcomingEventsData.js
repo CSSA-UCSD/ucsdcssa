@@ -1,10 +1,5 @@
 // date format: Day, MM/DD/YYYY | xPM-xPM
 const upcomingEventsData = [
-    {   id: 1,
-        name: "Panda Express Fundraiser",
-        date: "Wednesday, 3/4/2026",
-        img: "winter2026/panda.png"
-    },
     {   id: 2,
         name: "Handel's Fundraiser",
         date: "Thursday, 3/5/2026",

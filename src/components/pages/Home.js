@@ -212,14 +212,14 @@ class Home extends React.Component {
                         {/* <div className="home-section" data-aos="fade-up">
                             <p className="words">Dynamic. Professional. Honest.</p>
                         </div> */}
-                        <div className="home-section" data-aos="fade-up">
+                        <div className="home-section">
                             <p>
                                 Cognitive Science is a diverse and interdisciplinary major, and CSSA is here to help you narrow it down. 
                                 We are a professional, academic, and social organization that provides the insight you need to understand your specialization and the many career 
                                 paths available to you.
                             </p>
                         </div>
-                        <div className="home-section" data-aos="fade-up">
+                        <div className="home-section">
                             <p>
                                 Our club is all about creating connections. Through events like Lab Open Houses and 
                                 our Spring Conference, you'll meet recruiters, industry professionals, and fellow 
