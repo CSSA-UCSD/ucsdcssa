@@ -1,9 +1,8 @@
 {
   "files": {
-    "main.css": "/static/css/main.8513607d.css",
-    "main.js": "/static/js/main.04c30aae.js",
+    "main.css": "/static/css/main.a1f10081.css",
+    "main.js": "/static/js/main.d04e27eb.js",
     "static/media/c9.png": "/static/media/c9.2499ab197ee05ffc88ad.png",
-    "static/media/panda.png": "/static/media/panda.042b16e78065a7e24cf6.png",
     "static/media/laraRangel.jpg": "/static/media/laraRangel.dd3b8ee25d01e8ff09b2.jpg",
     "static/media/c1.png": "/static/media/c1.8c9deb66c6d57994de5d.png",
     "static/media/c2.png": "/static/media/c2.6a87376bbfd0520febb3.png",
@@ -105,11 +104,11 @@
     "static/media/Wavehaus-95SemiBold.otf": "/static/media/Wavehaus-95SemiBold.4e467f6bcb702a6e39a6.otf",
     "static/media/Wordmark_Dark.svg": "/static/media/Wordmark_Dark.ccefd2b4fcb8689eb2edcb627ef59b1e.svg",
     "index.html": "/index.html",
-    "main.8513607d.css.map": "/static/css/main.8513607d.css.map",
-    "main.04c30aae.js.map": "/static/js/main.04c30aae.js.map"
+    "main.a1f10081.css.map": "/static/css/main.a1f10081.css.map",
+    "main.d04e27eb.js.map": "/static/js/main.d04e27eb.js.map"
   },
   "entrypoints": [
-    "static/css/main.8513607d.css",
-    "static/js/main.04c30aae.js"
+    "static/css/main.a1f10081.css",
+    "static/js/main.d04e27eb.js"
   ]
 }
