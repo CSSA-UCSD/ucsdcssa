@@ -75,6 +75,7 @@ const events = [
   { title: "Panda Express Fundraiser", start: "2026-03-04" },
   { title: "Handel's Fundraiser", start: "2026-03-05" },
   { title: "Mentor Mentee Study Sesh", start: "2026-03-05" },
+  
   // --- SPRING 2026 ---
   { title: "César Chávez Holiday", start: "2026-03-27" },
   { title: "Instruction Begins", start: "2026-03-30" },
