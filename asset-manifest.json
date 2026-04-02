@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.a1f10081.css",
-    "main.js": "/static/js/main.d8a3cc85.js",
+    "main.js": "/static/js/main.77d286be.js",
     "static/media/c9.png": "/static/media/c9.2499ab197ee05ffc88ad.png",
     "static/media/laraRangel.jpg": "/static/media/laraRangel.dd3b8ee25d01e8ff09b2.jpg",
     "static/media/c1.png": "/static/media/c1.8c9deb66c6d57994de5d.png",
@@ -110,10 +110,10 @@
     "static/media/Wordmark_Dark.svg": "/static/media/Wordmark_Dark.ccefd2b4fcb8689eb2edcb627ef59b1e.svg",
     "index.html": "/index.html",
     "main.a1f10081.css.map": "/static/css/main.a1f10081.css.map",
-    "main.d8a3cc85.js.map": "/static/js/main.d8a3cc85.js.map"
+    "main.77d286be.js.map": "/static/js/main.77d286be.js.map"
   },
   "entrypoints": [
     "static/css/main.a1f10081.css",
-    "static/js/main.d8a3cc85.js"
+    "static/js/main.77d286be.js"
   ]
 }
