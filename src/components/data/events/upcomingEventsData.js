@@ -1,16 +1,20 @@
 // date format: Day, MM/DD/YYYY | xPM-xPM
 const upcomingEventsData = [
+    {   id: 1,
+        name: "Somi Somi Fundraiser",
+        date: "Thursday, 4/3/2026",
+        img: "spring2026/somi.png"
+    },
     {   id: 2,
-        name: "Handel's Fundraiser",
-        date: "Thursday, 3/5/2026",
-        img: "winter2026/handel.png"
+        name: "Spring Quarter GBM",
+        date: "Thursday, 4/7/2026",
+        img: "spring2026/springgbm.png"
     },
     {   id: 3,
-        name: "Mentor Mentee Study Sesh",
-        date: "Thursday, 3/12/2026 | 6PM-8PM",
-        img: "winter2026/sesh.png"
-    },
-
+        name: "DataFest Collab: Presenting Data",
+        date: "Thursday, 4/9/2026",
+        img: "spring2026/datafest.png"
+    }
 ]
 
 export default upcomingEventsData;

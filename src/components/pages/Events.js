@@ -75,8 +75,13 @@ const events = [
   { title: "Panda Express Fundraiser", start: "2026-03-04" },
   { title: "Handel's Fundraiser", start: "2026-03-05" },
   { title: "Mentor Mentee Study Sesh", start: "2026-03-05" },
-  
+  { title: "Headshots Workshop", start: "2026-03-06" },
+  { title: "Dolce Monacelli Fundraiser", start: "2026-03-11" },
+  { title: "Study Jam", start: "2026-03-12" },
   // --- SPRING 2026 ---
+  { title: "Somi Somi Fundraiser", start: "2026-04-03" },
+  { title: "Spring Quarter GBM", start: "2026-04-07" },
+  { title: "DataFest Collab: Presenting Data", start: "2026-04-09" },
   { title: "César Chávez Holiday", start: "2026-03-27" },
   { title: "Instruction Begins", start: "2026-03-30" },
   { title: "Memorial Day", start: "2026-05-25" },

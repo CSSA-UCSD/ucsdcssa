@@ -1,4 +1,19 @@
 const prevEventsData = [
+    {   id: 24,
+        name: "Study Jam",
+        date: "Thursday, 3/11/2026 | 6PM-8PM",
+        img: "winter2026/jam.png"
+    },
+    {   id: 23,
+        name: "Headshots Workshop",
+        date: "Thursday, 3/6/2026 | 11AM-1PM",
+        img: "winter2026/headshots.png"
+    },
+    {   id: 22,
+        name: "Mentor Mentee Study Sesh",
+        date: "Thursday, 3/5/2026 | 6PM-8PM",
+        img: "winter2026/sesh.png"
+    },    
     {
         id: 21,
         name: "Peer-2-Peer",
