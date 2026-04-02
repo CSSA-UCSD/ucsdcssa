@@ -2,12 +2,12 @@
 const upcomingEventsData = [
     {   id: 1,
         name: "Somi Somi Fundraiser",
-        date: "Thursday, 4/3/2026",
+        date: "Friday, 4/3/2026",
         img: "spring2026/somi.png"
     },
     {   id: 2,
         name: "Spring Quarter GBM",
-        date: "Thursday, 4/7/2026",
+        date: "Tuesday, 4/7/2026",
         img: "spring2026/springgbm.png"
     },
     {   id: 3,

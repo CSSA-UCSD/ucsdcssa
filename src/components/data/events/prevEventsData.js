@@ -6,7 +6,7 @@ const prevEventsData = [
     },
     {   id: 23,
         name: "Headshots Workshop",
-        date: "Thursday, 3/6/2026 | 11AM-1PM",
+        date: "Friday, 3/6/2026 | 11AM-1PM",
         img: "winter2026/headshots.png"
     },
     {   id: 22,

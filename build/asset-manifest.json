@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.a1f10081.css",
-    "main.js": "/static/js/main.d04e27eb.js",
+    "main.js": "/static/js/main.d8a3cc85.js",
     "static/media/c9.png": "/static/media/c9.2499ab197ee05ffc88ad.png",
     "static/media/laraRangel.jpg": "/static/media/laraRangel.dd3b8ee25d01e8ff09b2.jpg",
     "static/media/c1.png": "/static/media/c1.8c9deb66c6d57994de5d.png",
@@ -82,6 +82,7 @@
     "static/media/phoebe_s.png": "/static/media/phoebe_s.8facfc3b47d5c8faa198.png",
     "static/media/movie.png": "/static/media/movie.a490da4ac7b117594430.png",
     "static/media/sesh.png": "/static/media/sesh.0dd16bec0f40634b32f7.png",
+    "static/media/datafest.png": "/static/media/datafest.7ff00e188adf1f0d0618.png",
     "static/media/midterm2.png": "/static/media/midterm2.f45aea8c9beffdec5558.png",
     "static/media/gbm.png": "/static/media/gbm.f36670707068820df993.png",
     "static/media/workshop2.png": "/static/media/workshop2.bd729f4d62194af0b7f6.png",
@@ -89,8 +90,12 @@
     "static/media/fallprojects.png": "/static/media/fallprojects.08c60277a3412a5aeb4c.png",
     "static/media/tap.png": "/static/media/tap.8f750ec77d605a39878c.png",
     "static/media/lab.png": "/static/media/lab.1f3691a46eb99d3d61c3.png",
+    "static/media/somi.png": "/static/media/somi.f50800176c76dd9d5554.png",
+    "static/media/springgbm.png": "/static/media/springgbm.d821196e4edb4db47fcf.png",
     "static/media/workshop1.png": "/static/media/workshop1.dbfa0bb3ba614b01abdf.png",
     "static/media/yogurt.png": "/static/media/yogurt.12ce7fe021a97baa39fc.png",
+    "static/media/jam.png": "/static/media/jam.47584a47f9ab7e03a8aa.png",
+    "static/media/headshots.png": "/static/media/headshots.dc138798751913b66393.png",
     "static/media/noevents.png": "/static/media/noevents.a60370a32a246b478266.png",
     "static/media/WinterStudyJam.png": "/static/media/WinterStudyJam.a12bf746ddcf86045648.png",
     "static/media/ValentinesCrafts.png": "/static/media/ValentinesCrafts.9094b02ef2839f7fe959.png",
@@ -105,10 +110,10 @@
     "static/media/Wordmark_Dark.svg": "/static/media/Wordmark_Dark.ccefd2b4fcb8689eb2edcb627ef59b1e.svg",
     "index.html": "/index.html",
     "main.a1f10081.css.map": "/static/css/main.a1f10081.css.map",
-    "main.d04e27eb.js.map": "/static/js/main.d04e27eb.js.map"
+    "main.d8a3cc85.js.map": "/static/js/main.d8a3cc85.js.map"
   },
   "entrypoints": [
     "static/css/main.a1f10081.css",
-    "static/js/main.d04e27eb.js"
+    "static/js/main.d8a3cc85.js"
   ]
 }
