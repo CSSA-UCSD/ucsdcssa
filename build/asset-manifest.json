@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.a1f10081.css",
-    "main.js": "/static/js/main.d8a3cc85.js",
+    "main.css": "/static/css/main.b3b48474.css",
+    "main.js": "/static/js/main.90cafbb7.js",
     "static/media/c9.png": "/static/media/c9.2499ab197ee05ffc88ad.png",
     "static/media/laraRangel.jpg": "/static/media/laraRangel.dd3b8ee25d01e8ff09b2.jpg",
     "static/media/c1.png": "/static/media/c1.8c9deb66c6d57994de5d.png",
@@ -66,11 +66,13 @@
     "static/media/haunted.png": "/static/media/haunted.8fd28ab673d2bc4b0549.png",
     "static/media/cindy.png": "/static/media/cindy.179f7bce689f23cfb7ac.png",
     "static/media/handel.png": "/static/media/handel.2a8538084d33dd73dfff.png",
+    "static/media/conference.png": "/static/media/conference.55ff90beaa3780f176d7.png",
     "static/media/katherine_s.png": "/static/media/katherine_s.71c3a16aaf9c367aa1da.png",
     "static/media/sunset.png": "/static/media/sunset.ae99373be16f988caca8.png",
     "static/media/WelcomeParty.png": "/static/media/WelcomeParty.540491dc8dd2aa31d148.png",
     "static/media/midterm.png": "/static/media/midterm.001990c4a5fa9b327312.png",
     "static/media/beatty.png": "/static/media/beatty.bf51260d4c116cf7a7f2.png",
+    "static/media/marugame.png": "/static/media/marugame.38acd5247dd48015e2b1.png",
     "static/media/roots.png": "/static/media/roots.02df1d765dd02dbb56c5.png",
     "static/media/day2.png": "/static/media/day2.bc942605ee1134f9bfcd.png",
     "static/media/peers.png": "/static/media/peers.18962e47c942e5070bfc.png",
@@ -85,9 +87,11 @@
     "static/media/datafest.png": "/static/media/datafest.7ff00e188adf1f0d0618.png",
     "static/media/midterm2.png": "/static/media/midterm2.f45aea8c9beffdec5558.png",
     "static/media/gbm.png": "/static/media/gbm.f36670707068820df993.png",
+    "static/media/icecreamsocial.png": "/static/media/icecreamsocial.55f0a427c3e021ffe03e.png",
     "static/media/workshop2.png": "/static/media/workshop2.bd729f4d62194af0b7f6.png",
     "static/media/project.png": "/static/media/project.f59652f55bcc2c8c6645.png",
     "static/media/fallprojects.png": "/static/media/fallprojects.08c60277a3412a5aeb4c.png",
+    "static/media/midtermspring.png": "/static/media/midtermspring.81b81262bb507fe0125f.png",
     "static/media/tap.png": "/static/media/tap.8f750ec77d605a39878c.png",
     "static/media/lab.png": "/static/media/lab.1f3691a46eb99d3d61c3.png",
     "static/media/somi.png": "/static/media/somi.f50800176c76dd9d5554.png",
@@ -107,13 +111,13 @@
     "static/media/placeholder.png": "/static/media/placeholder.7b8acde97cfeb9e03457.png",
     "static/media/blank.png": "/static/media/blank.7a6a6c54279a54d1977c.png",
     "static/media/Wavehaus-95SemiBold.otf": "/static/media/Wavehaus-95SemiBold.4e467f6bcb702a6e39a6.otf",
-    "static/media/Wordmark_Dark.svg": "/static/media/Wordmark_Dark.ccefd2b4fcb8689eb2edcb627ef59b1e.svg",
+    "static/media/Logo_White.svg": "/static/media/Logo_White.a83e0c1a310636856df8ff8162b0aa08.svg",
     "index.html": "/index.html",
-    "main.a1f10081.css.map": "/static/css/main.a1f10081.css.map",
-    "main.d8a3cc85.js.map": "/static/js/main.d8a3cc85.js.map"
+    "main.b3b48474.css.map": "/static/css/main.b3b48474.css.map",
+    "main.90cafbb7.js.map": "/static/js/main.90cafbb7.js.map"
   },
   "entrypoints": [
-    "static/css/main.a1f10081.css",
-    "static/js/main.d8a3cc85.js"
+    "static/css/main.b3b48474.css",
+    "static/js/main.90cafbb7.js"
   ]
 }

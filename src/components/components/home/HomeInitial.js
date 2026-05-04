@@ -9,10 +9,6 @@ class HomeInitial extends React.Component {
             <div>
                 {/* You can render <Route> and <NavTabs /> here */}
                 <div className="home-initial" id="particles-js">
-                    <div className="home-title pb-3">
-                        <h1 className="title">Cognitive Science <wbr></wbr>Student&nbsp;Association</h1>
-                        <h1 className="title pb-3">at UC San Diego</h1>
-                    </div>
                 </div>
             </div>
         )

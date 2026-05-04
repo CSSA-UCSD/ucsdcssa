@@ -26,9 +26,9 @@ const highlightsData = [
     },
     {
         id: 3,
-        title: "2025 Conference",
+        title: "2026 Conference",
         type: "National Cognitive Science Conference",
-        url: "https://cssa-ucsd.github.io/conference2025/"
+        url: "https://cssa-ucsd.github.io/conference2026/"
     },  
     // {
     //     id: 1,

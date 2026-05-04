@@ -1,4 +1,24 @@
 const prevEventsData = [
+    {   id: 28,
+        name: "Midterm Mind-Mash",
+        date: "Tuesday, 4/28/2026",
+        img: "spring2026/midtermspring.png"
+    },  
+    {   id: 27,
+        name: "Somi Somi Fundraiser",
+        date: "Friday, 4/3/2026",
+        img: "spring2026/somi.png"
+    },
+    {   id: 26,
+        name: "Spring Quarter GBM",
+        date: "Tuesday, 4/7/2026",
+        img: "spring2026/springgbm.png"
+    },
+    {   id: 25,
+        name: "DataFest Collab: Presenting Data",
+        date: "Thursday, 4/9/2026",
+        img: "spring2026/datafest.png"
+    },
     {   id: 24,
         name: "Study Jam",
         date: "Thursday, 3/11/2026 | 6PM-8PM",

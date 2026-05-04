@@ -1,20 +1,17 @@
 .home-initial {
-    // MOBILE: Remove the 100vh forced height to kill the white space below
-    min-height: 350px; 
-    justify-content: flex-start; 
+    min-height: 280px;
+    justify-content: flex-start;
     align-items: center;
-    
-    // MOBILE: Small top padding (40px) removes the giant white space above
-    padding: 40px 10% 0 10%;
+    padding: 18px 8% 0 8%;
 
     .home-title {
-        display: none;
+        display: block;
         width: 100%;
 
         h1.title {
             font-size: 24px;
-            line-height: 36px;
-            margin-bottom: 0;
+            line-height: 34px;
+            margin-bottom: 0.3rem;
         }
     }
 }
@@ -67,8 +64,8 @@
         from { stroke-dashoffset: 1000; }
         to { stroke-dashoffset: 0; }
     }
-    margin-top: -2rem;
-    margin-bottom: -3rem;
+    margin-top: -4rem;
+    margin-bottom: 1rem;
 }
 
 // ======================================================
