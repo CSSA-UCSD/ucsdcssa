@@ -1,19 +1,9 @@
 // date format: Day, MM/DD/YYYY | xPM-xPM
 const upcomingEventsData = [
     {   id: 1,
-        name: "Lanterns of Innovation",
-        date: "Friday, 5/8/2026",
-        img: "spring2026/conference.png"
-    },
-    {   id: 3,
-        name: "Marugame Fundraiser",
-        date: "Tuesday, 5/5/2026",
-        img: "spring2026/marugame.png"
-    },
-    {   id: 4,
-        name: "CSSA X COGSci Ice Cream Social",
-        date: "Wednesday, 5/13/2026",
-        img: "spring2026/icecreamsocial.png"
+        name: "Merch Design Competition",
+        date: "Friday, 7/10/2026",
+        img: "summer2026/merchdesign.png"
     }
 ]
 
