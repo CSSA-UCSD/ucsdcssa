@@ -30,75 +30,19 @@ class Events extends React.Component {
 
 const events = [
   // --- YOUR EXISTING EVENTS ---
-  { title: "Roots & Routes", start: "2025-10-02" },
-  { title: "Project Applications Open", start: "2025-10-06", end: "2025-10-11" },
-  { title: "Tapex Fundraiser", start: "2025-10-14" },
-  { title: "Fall GBM #1", start: "2025-10-07" },
-  { title: "Sunset Potluck Social", start: "2025-10-11" },
-  { title: "Cog Sci Specialization Deep Dive #1", start: "2025-10-14" },
-  { title: "Cog Sci Specialization Deep Dive #2", start: "2025-10-15" },
-  { title: "Lab Open House", start: "2026-01-28" },
-  { title: "Final Cram Jam", start: "2025-12-03" },
-  { title: "Midterm Mind-Mash", start: "2025-10-29" },
-  { title: "Intro to R and Linear Regressions", start: "2025-11-06" },
-  { title: "Intro to R and Neural Networks", start: "2025-11-13" },
-  { title: "Pizookies and PJ's Social", start: "2025-12-02" },
-  { title: "Mentor-Mentee Program Applications Due", start: "2025-10-18" },
-  { title: "Haunted Trails Social", start: "2025-10-25" },
+  { title: "Merch Design Competition Start", start: "2026-07-10" },
+  { title: "Merch Design Submissions Due", start: "2026-08-08" },
 
-  // --- FALL 2025 ---
-  { title: "Fall Quarter Begins", start: "2025-09-22" },
-  { title: "Instruction Begins", start: "2025-09-25" },
-  { title: "Veterans Day Holiday", start: "2025-11-11" },
-  { title: "Thanksgiving Holiday", start: "2025-11-27", end: "2025-11-29" },
-  { title: "Instruction Ends", start: "2025-12-05" },
-  { title: "Final Exams", start: "2025-12-06", end: "2025-12-14" },
-  { title: "Fall Quarter Ends", start: "2025-12-13" },
-  { title: "Winter Break", start: "2025-12-13", end: "2026-01-05" },
-  { title: "New Year Holiday", start: "2025-01-01" },
+  // --- FALL 2026 ---
+  
 
-  // --- WINTER 2026 ---
-  { title: "Instruction Begins", start: "2026-01-05" },
-  { title: "Martin Luther King, Jr. Holiday", start: "2026-01-19" },
-  { title: "Presidents' Day Holiday", start: "2026-02-16" },
-  { title: "Final Exams", start: "2026-03-14", end: "2026-03-22" },
-  { title: "Winter Quarter Ends", start: "2026-03-21" },
-  { title: "Fall Quarter Projects Showcase", start: "2026-01-09" },
-  { title: "Yogurt World Fundraiser", start: "2026-01-09" },
-  { title: "Ice Skating Social", start: "2026-01-16" },
-  { title: "Winter Quarter GBM #2", start: "2026-01-20" },
-  { title: "Movie Night", start: "2026-01-30" },
-  { title: "Midterm Mind-Mash", start: "2026-02-11" },
-  { title: "Project Mentor Applications Due", start: "2026-02-20" },
-  { title: "Resume Workshop", start: "2026-02-18" },
-  { title: "Peer-2-Peer", start: "2026-02-25" },
-  { title: "Panda Express Fundraiser", start: "2026-03-04" },
-  { title: "Handel's Fundraiser", start: "2026-03-05" },
-  { title: "Mentor Mentee Study Sesh", start: "2026-03-05" },
-  { title: "Headshots Workshop", start: "2026-03-06" },
-  { title: "Dolce Monacelli Fundraiser", start: "2026-03-11" },
-  { title: "Study Jam", start: "2026-03-12" },
-  // --- SPRING 2026 ---
-  { title: "Somi Somi Fundraiser", start: "2026-04-03" },
-  { title: "Spring Quarter GBM", start: "2026-04-07" },
-  { title: "DataFest Collab: Presenting Data", start: "2026-04-09" },
-  { title: "Midterm Mind-Mash", start: "2026-04-28" },
-  { title: "", start: "2026-04-09" },
-  { title: "DataFest Collab: Presenting Data", start: "2026-04-09" },
-  { title: "DataFest Collab: Presenting Data", start: "2026-04-09" },
-  { title: "César Chávez Holiday", start: "2026-03-27" },
-  { title: "Instruction Begins", start: "2026-03-30" },
-  { title: "Marugame Fundraiser", start: "2026-05-05" },
-  { title: "Lanterns of Innovation", start: "2026-05-08" },
-  { title: "CSSA X COGSci Ice Cream Social", start: "2026-05-13" },
-  { title: "Memorial Day", start: "2026-05-25" },
-  { title: "Instruction Ends", start: "2026-06-05" },
-  { title: "Final Exams", start: "2026-06-06", end: "2026-06-13" },
-  { title: "Spring Quarter Ends", start: "2026-06-12" },
-  { title: "Commencement Weekend", start: "2026-06-13", end: "2026-06-15" },
+  // --- WINTER 2027 ---
+  
+  // --- SPRING 2027 ---
+  
 
   // --- SUMMER 2026 ---
-  { title: "Juneteenth Holiday", start: "2026-06-19" },
+  
 
   // Session I
   { title: "Session I Instruction Begins", start: "2026-06-29" },
@@ -213,7 +157,7 @@ const events = [
         <FullCalendar
           plugins={[dayGridPlugin]}
           initialView="dayGridMonth"
-          validRange={{ start: "2025-09-01", end: "2026-06-31" }}
+          validRange={{ start: "2025-09-01", end: "2026-09-31" }}
           events={events}
           eventContent={(arg) => {
             const fullTitle = arg.event.title;
