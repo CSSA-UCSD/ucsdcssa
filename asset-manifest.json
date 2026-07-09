@@ -1,10 +1,16 @@
 {
   "files": {
     "main.css": "/static/css/main.8c07c171.css",
-    "main.js": "/static/js/main.e0691e23.js",
+    "main.js": "/static/js/main.a99aaebb.js",
     "static/media/c9.png": "/static/media/c9.2499ab197ee05ffc88ad.png",
+    "static/media/tanmayi.png": "/static/media/tanmayi.7d4befc9fead79f0e03a.png",
+    "static/media/tse.png": "/static/media/tse.fc9861f5c54eaa030b35.png",
+    "static/media/siddhant.png": "/static/media/siddhant.31d5f83135e443659003.png",
+    "static/media/yash.jpg": "/static/media/yash.afa6e74112b707367541.jpg",
     "static/media/laraRangel.jpg": "/static/media/laraRangel.dd3b8ee25d01e8ff09b2.jpg",
     "static/media/c1.png": "/static/media/c1.8c9deb66c6d57994de5d.png",
+    "static/media/ryan.png": "/static/media/ryan.cb1e6b671d5e3f506104.png",
+    "static/media/anusha.png": "/static/media/anusha.82b04bfecd9089cb2faa.png",
     "static/media/c2.png": "/static/media/c2.6a87376bbfd0520febb3.png",
     "static/media/c6.png": "/static/media/c6.905ffb4c79cff0ad20b9.png",
     "static/media/c5.png": "/static/media/c5.a5d27f75aca03daa6082.png",
@@ -15,6 +21,8 @@
     "static/media/melody_s.png": "/static/media/melody_s.8f5792820b46a86d4a32.png",
     "static/media/jihu.png": "/static/media/jihu.537acef6659cd90df079.png",
     "static/media/melody.png": "/static/media/melody.ae5988cdc6db87141bba.png",
+    "static/media/wesley.jpg": "/static/media/wesley.532752eac65f508ca208.jpg",
+    "static/media/elizabeth.jpg": "/static/media/elizabeth.eb146398ebbaea03cd8a.jpg",
     "static/media/jihu_s.png": "/static/media/jihu_s.1861510642ff8844ca4d.png",
     "static/media/sidd.png": "/static/media/sidd.996e5b2302d339a07e26.png",
     "static/media/yuvika_s.png": "/static/media/yuvika_s.37d62e160255c4915024.png",
@@ -29,7 +37,6 @@
     "static/media/rayleen_s.png": "/static/media/rayleen_s.d0cebca811010bce053f.png",
     "static/media/yash.png": "/static/media/yash.5362cad928059cb4c28f.png",
     "static/media/anaya.png": "/static/media/anaya.2854b8b3a729f717c9b5.png",
-    "static/media/tanmayi.png": "/static/media/tanmayi.7d4befc9fead79f0e03a.png",
     "static/media/rollan_s.png": "/static/media/rollan_s.0399cd3abca07ad355a9.png",
     "static/media/yash_s.png": "/static/media/yash_s.b420159fb7b111cb2f66.png",
     "static/media/jiayi.png": "/static/media/jiayi.a83a4672ba05c4d067dd.png",
@@ -40,7 +47,7 @@
     "static/media/shivani.png": "/static/media/shivani.124b348299306ee44059.png",
     "static/media/sidd_s.png": "/static/media/sidd_s.3db0f217a302eb392ffe.png",
     "static/media/verina_s.png": "/static/media/verina_s.698af76ef930a519298e.png",
-    "static/media/nada.png": "/static/media/nada.5f97c7e895bcad377565.png",
+    "static/media/nada.png": "/static/media/nada.e5ef1e266c16ca3a6f7b.png",
     "static/media/rohan_s.png": "/static/media/rohan_s.c336c99ab05a949198c2.png",
     "static/media/rohan.png": "/static/media/rohan.a7f35f025723cd0d0d6f.png",
     "static/media/evan_s.png": "/static/media/evan_s.b31e632d98ba4f15d2fb.png",
@@ -63,6 +70,7 @@
     "static/media/phoebe.png": "/static/media/phoebe.46a6defeea5f4ba8bb7b.png",
     "static/media/zoe_s.png": "/static/media/zoe_s.a4b7a4d32d9195626165.png",
     "static/media/CodingPortfolio.png": "/static/media/CodingPortfolio.81e5580bf13dae286121.png",
+    "static/media/laurie.jpg": "/static/media/laurie.3272d42b87db788d9146.jpg",
     "static/media/haunted.png": "/static/media/haunted.8fd28ab673d2bc4b0549.png",
     "static/media/cindy.png": "/static/media/cindy.179f7bce689f23cfb7ac.png",
     "static/media/handel.png": "/static/media/handel.2a8538084d33dd73dfff.png",
@@ -92,6 +100,7 @@
     "static/media/project.png": "/static/media/project.f59652f55bcc2c8c6645.png",
     "static/media/fallprojects.png": "/static/media/fallprojects.08c60277a3412a5aeb4c.png",
     "static/media/midtermspring.png": "/static/media/midtermspring.81b81262bb507fe0125f.png",
+    "static/media/isabelle.jpg": "/static/media/isabelle.a3ec3b8269d956714f7b.jpg",
     "static/media/tap.png": "/static/media/tap.8f750ec77d605a39878c.png",
     "static/media/lab.png": "/static/media/lab.1f3691a46eb99d3d61c3.png",
     "static/media/somi.png": "/static/media/somi.f50800176c76dd9d5554.png",
@@ -101,11 +110,13 @@
     "static/media/jam.png": "/static/media/jam.47584a47f9ab7e03a8aa.png",
     "static/media/headshots.png": "/static/media/headshots.dc138798751913b66393.png",
     "static/media/noevents.png": "/static/media/noevents.a60370a32a246b478266.png",
+    "static/media/merchdesign.png": "/static/media/merchdesign.29adfbc9ab9ac8319427.png",
     "static/media/WinterStudyJam.png": "/static/media/WinterStudyJam.a12bf746ddcf86045648.png",
     "static/media/ValentinesCrafts.png": "/static/media/ValentinesCrafts.9094b02ef2839f7fe959.png",
     "static/media/WinterTalkSeries1.png": "/static/media/WinterTalkSeries1.907942ded9dcc95a65f5.png",
     "static/media/PRBoardApps.png": "/static/media/PRBoardApps.48bb1b52780c0926d176.png",
     "static/media/WinterTalkSeries2.png": "/static/media/WinterTalkSeries2.6e6faf62a171d1eb81f4.png",
+    "static/media/joy.jpg": "/static/media/joy.2625c1fe6ff1831c66c6.jpg",
     "static/media/FigmaWorkshop2025.png": "/static/media/FigmaWorkshop2025.a8db3afd7b9265101ce3.png",
     "static/media/laraRangel_old.jpg": "/static/media/laraRangel_old.791e76425782cbda5cce.jpg",
     "static/media/placeholder.png": "/static/media/placeholder.7b8acde97cfeb9e03457.png",
@@ -114,10 +125,10 @@
     "static/media/Logo_White.svg": "/static/media/Logo_White.a83e0c1a310636856df8ff8162b0aa08.svg",
     "index.html": "/index.html",
     "main.8c07c171.css.map": "/static/css/main.8c07c171.css.map",
-    "main.e0691e23.js.map": "/static/js/main.e0691e23.js.map"
+    "main.a99aaebb.js.map": "/static/js/main.a99aaebb.js.map"
   },
   "entrypoints": [
     "static/css/main.8c07c171.css",
-    "static/js/main.e0691e23.js"
+    "static/js/main.a99aaebb.js"
   ]
 }
