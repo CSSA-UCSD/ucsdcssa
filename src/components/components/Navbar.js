@@ -94,11 +94,6 @@ class Navbar extends React.Component {
                                         Membership
                                     </a>
                                 </li>
-                                <li className="nav-item">
-                                    <a href="https://cssa-ucsd.github.io/conference2026/" target="_blank" rel="noopener noreferrer" className="nav-link" onClick={this.closeMenu}>
-                                        Conference
-                                    </a>
-                                </li>
                             </ul>
                         </div>
                     </div>
