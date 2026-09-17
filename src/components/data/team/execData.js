@@ -160,8 +160,8 @@ const execData = [
     year: "2028",
     major: "CogSci (ML) & Computer Science",
     email: "tbhat@ucsd.edu",
-    img: "exec_2026_2027/placeholder.png",
-    imgHover: "exec_2026_2027/placeholder.png",
+    img: "exec_2026_2027/tanya.jpg",
+    imgHover: "exec_2026_2027/tanya.jpg",
     url: "https://www.facebook.com/webraincogsci"
   },
   {
