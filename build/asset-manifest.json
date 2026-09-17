@@ -1,10 +1,9 @@
 {
   "files": {
-    "main.css": "/static/css/main.8c07c171.css",
-    "main.js": "/static/js/main.422c1887.js",
+    "main.css": "/static/css/main.32d5b8c3.css",
+    "main.js": "/static/js/main.bdfc1ef4.js",
     "static/media/c9.png": "/static/media/c9.2499ab197ee05ffc88ad.png",
     "static/media/tanmayi.png": "/static/media/tanmayi.7d4befc9fead79f0e03a.png",
-    "static/media/leeloo.jpg": "/static/media/leeloo.189bdbc99c4110b8542e.jpg",
     "static/media/tse.png": "/static/media/tse.fc9861f5c54eaa030b35.png",
     "static/media/siddhant.png": "/static/media/siddhant.31d5f83135e443659003.png",
     "static/media/yash.jpg": "/static/media/yash.afa6e74112b707367541.jpg",
@@ -16,6 +15,7 @@
     "static/media/c2.png": "/static/media/c2.6a87376bbfd0520febb3.png",
     "static/media/c6.png": "/static/media/c6.905ffb4c79cff0ad20b9.png",
     "static/media/c5.png": "/static/media/c5.a5d27f75aca03daa6082.png",
+    "static/media/leeloo.jpg": "/static/media/leeloo.f61af5f759b0c0cc0537.jpg",
     "static/media/amita_s.png": "/static/media/amita_s.81d62e289860acba2d2c.png",
     "static/media/amita.png": "/static/media/amita.8441a2788526dddb9f0f.png",
     "static/media/c3.png": "/static/media/c3.6e907a1fcaef579e0bba.png",
@@ -63,7 +63,6 @@
     "static/media/shamei.png": "/static/media/shamei.4f489eb052e17a623409.png",
     "static/media/aatyanth_s.png": "/static/media/aatyanth_s.5ee3758523d550634fd3.png",
     "static/media/philip.png": "/static/media/philip.a1d7d82a17c84e3188fb.png",
-    "static/media/skye.jpg": "/static/media/skye.35bcd84ad2b6ffdec8eb.jpg",
     "static/media/tanmayi_s.png": "/static/media/tanmayi_s.c9be3d3c4029164c8319.png",
     "static/media/emery.jpg": "/static/media/emery.223f53377830229cc921.jpg",
     "static/media/philip_s.png": "/static/media/philip_s.89bfc8af525f07296042.png",
@@ -98,6 +97,7 @@
     "static/media/sesh.png": "/static/media/sesh.0dd16bec0f40634b32f7.png",
     "static/media/datafest.png": "/static/media/datafest.7ff00e188adf1f0d0618.png",
     "static/media/midterm2.png": "/static/media/midterm2.f45aea8c9beffdec5558.png",
+    "static/media/skye.jpg": "/static/media/skye.26910b3ce562bd8232fa.jpg",
     "static/media/gbm.png": "/static/media/gbm.f36670707068820df993.png",
     "static/media/icecreamsocial.png": "/static/media/icecreamsocial.55f0a427c3e021ffe03e.png",
     "static/media/workshop2.png": "/static/media/workshop2.bd729f4d62194af0b7f6.png",
@@ -128,11 +128,11 @@
     "static/media/Wavehaus-95SemiBold.otf": "/static/media/Wavehaus-95SemiBold.4e467f6bcb702a6e39a6.otf",
     "static/media/Logo_White.svg": "/static/media/Logo_White.a83e0c1a310636856df8ff8162b0aa08.svg",
     "index.html": "/index.html",
-    "main.8c07c171.css.map": "/static/css/main.8c07c171.css.map",
-    "main.422c1887.js.map": "/static/js/main.422c1887.js.map"
+    "main.32d5b8c3.css.map": "/static/css/main.32d5b8c3.css.map",
+    "main.bdfc1ef4.js.map": "/static/js/main.bdfc1ef4.js.map"
   },
   "entrypoints": [
-    "static/css/main.8c07c171.css",
-    "static/js/main.422c1887.js"
+    "static/css/main.32d5b8c3.css",
+    "static/js/main.bdfc1ef4.js"
   ]
 }
