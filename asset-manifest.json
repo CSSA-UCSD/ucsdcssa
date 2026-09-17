@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.32d5b8c3.css",
-    "main.js": "/static/js/main.ad5da9df.js",
+    "main.js": "/static/js/main.d411c21b.js",
     "static/media/c9.png": "/static/media/c9.2499ab197ee05ffc88ad.png",
     "static/media/tanmayi.png": "/static/media/tanmayi.7d4befc9fead79f0e03a.png",
     "static/media/tse.png": "/static/media/tse.fc9861f5c54eaa030b35.png",
@@ -116,6 +116,7 @@
     "static/media/noevents.png": "/static/media/noevents.a60370a32a246b478266.png",
     "static/media/merchdesign.png": "/static/media/merchdesign.29adfbc9ab9ac8319427.png",
     "static/media/WinterStudyJam.png": "/static/media/WinterStudyJam.a12bf746ddcf86045648.png",
+    "static/media/tanya.jpg": "/static/media/tanya.5b45ff3ddb781019c71a.jpg",
     "static/media/ValentinesCrafts.png": "/static/media/ValentinesCrafts.9094b02ef2839f7fe959.png",
     "static/media/WinterTalkSeries1.png": "/static/media/WinterTalkSeries1.907942ded9dcc95a65f5.png",
     "static/media/PRBoardApps.png": "/static/media/PRBoardApps.48bb1b52780c0926d176.png",
@@ -129,10 +130,10 @@
     "static/media/Logo_White.svg": "/static/media/Logo_White.a83e0c1a310636856df8ff8162b0aa08.svg",
     "index.html": "/index.html",
     "main.32d5b8c3.css.map": "/static/css/main.32d5b8c3.css.map",
-    "main.ad5da9df.js.map": "/static/js/main.ad5da9df.js.map"
+    "main.d411c21b.js.map": "/static/js/main.d411c21b.js.map"
   },
   "entrypoints": [
     "static/css/main.32d5b8c3.css",
-    "static/js/main.ad5da9df.js"
+    "static/js/main.d411c21b.js"
   ]
 }
