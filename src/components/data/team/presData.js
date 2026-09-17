@@ -1,24 +1,24 @@
 const presData = [
     {
         id: 1,
-        name: "Zoe Chiu", 
+        name: "Elizabeth Kao", 
         position: "Co-President",
         year: "2027",
-        major: "CogsSci (ML)",
-        email: "zochiu@ucsd.edu",
-        img: "exec_2025_2026/zoe.png",
-        imgHover: "exec_2025_2026/zoe_s.png",
+        major: "CogsSci (ML) & Data Science",
+        email: "elkao@ucsd.edu",
+        img: "exec_2026_2027/elizabeth.jpg",
+        imgHover: "exec_2026_2027/elizabeth.jpg",
         url: "https://www.facebook.com/webraincogsci"
     },
     {
         id: 2,
-        name: "Katherine Liang",
+        name: "Siddhant Bhardwaj",
         position: "Co-President",
         year: "2027",
-        major:"CogsSci (CBN) & Psychology",
-        email:"k5liang@ucsd.edu",
-        img: "exec_2025_2026/katherine.png",
-        imgHover: "exec_2025_2026/katherine_s.png",
+        major:"CogsSci (ML) & Data Science",
+        email:"sibhardwaj@ucsd.edu",
+        img: "exec_2026_2027/siddhant.png",
+        imgHover: "exec_2026_2027/siddhant.png",
         url: "https://www.facebook.com/webraincogsci"
     }
 ]
