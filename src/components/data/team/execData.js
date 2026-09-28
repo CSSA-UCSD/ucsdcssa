@@ -16,7 +16,7 @@ const execData = [
     position: "Co-Secretary",
     year: "2028",
     major: "CogSci (Design) & Business Analytics",
-    email: "cyl025@ucsd.edu",
+    email: "xil278@ucsd.edu",
     img: "exec_2026_2027/berenic.jpg",
     imgHover: "exec_2026_2027/berenic.jpg",
     url: "https://www.facebook.com/webraincogsci"
