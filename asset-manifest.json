@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.32d5b8c3.css",
-    "main.js": "/static/js/main.d411c21b.js",
+    "main.js": "/static/js/main.d3327890.js",
     "static/media/c9.png": "/static/media/c9.2499ab197ee05ffc88ad.png",
     "static/media/tanmayi.png": "/static/media/tanmayi.7d4befc9fead79f0e03a.png",
     "static/media/tse.png": "/static/media/tse.fc9861f5c54eaa030b35.png",
@@ -14,6 +14,7 @@
     "static/media/anusha.png": "/static/media/anusha.82b04bfecd9089cb2faa.png",
     "static/media/c2.png": "/static/media/c2.6a87376bbfd0520febb3.png",
     "static/media/c6.png": "/static/media/c6.905ffb4c79cff0ad20b9.png",
+    "static/media/berenic.jpg": "/static/media/berenic.5687ef5712dec27fcb08.jpg",
     "static/media/c5.png": "/static/media/c5.a5d27f75aca03daa6082.png",
     "static/media/leeloo.jpg": "/static/media/leeloo.f61af5f759b0c0cc0537.jpg",
     "static/media/amita_s.png": "/static/media/amita_s.81d62e289860acba2d2c.png",
@@ -130,10 +131,10 @@
     "static/media/Logo_White.svg": "/static/media/Logo_White.a83e0c1a310636856df8ff8162b0aa08.svg",
     "index.html": "/index.html",
     "main.32d5b8c3.css.map": "/static/css/main.32d5b8c3.css.map",
-    "main.d411c21b.js.map": "/static/js/main.d411c21b.js.map"
+    "main.d3327890.js.map": "/static/js/main.d3327890.js.map"
   },
   "entrypoints": [
     "static/css/main.32d5b8c3.css",
-    "static/js/main.d411c21b.js"
+    "static/js/main.d3327890.js"
   ]
 }
