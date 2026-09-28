@@ -12,7 +12,7 @@ const execData = [
   },
   {
     id: 4,
-    name: "Berenic Liu",
+    name: "Xinyi Liu",
     position: "Co-Secretary",
     year: "2028",
     major: "CogSci (Design) & Business Analytics",
@@ -23,7 +23,7 @@ const execData = [
   },
   {
     id: 5,
-    name: "Wesley Liu",
+    name: "Cyrus Liu",
     position: "Treasurer",
     year: "2027",
     major: "Political Science & Chinese Studies",
