@@ -57,7 +57,7 @@ const execData = [
   {
     id: 8,
     name: "Zice Sun",
-    position: "Sponsorship Chair",
+    position: "Marketing & Media Lead",
     year: "2028",
     major: "CogSci & Japanese",
     email: "szc@ucsd.edu",
@@ -145,7 +145,7 @@ const execData = [
   {
     id: 16,
     name: "Takuhiro Nishimura",
-    position: "Professional Relations Shadow",
+    position: "Prof. Relations Shadow",
     year: "2029",
     major: "CogSci (CBN) & Education Studies ",
     email: "tanishimura@ucsd.edu",
