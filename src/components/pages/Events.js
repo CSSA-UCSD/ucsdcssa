@@ -35,8 +35,8 @@ const events = [
 
   // --- FALL 2026 ---
   {title: "Fall GBM 1", start: "2026-10-09"},
-  {title: "Tapioca Express Fundraiser", start: "2026-10-15"},
-  {title: "Intern Applications Due", start: "2026-10-16"},
+  // {title: "Tapioca Express Fundraiser", start: "2026-10-15"}, **remove this comment after post**
+  // {title: "Intern Applications Due", start: "2026-10-16"}, **remove this post after GBM**
 
   // --- WINTER 2027 ---
   
