@@ -12,7 +12,7 @@ const execData = [
   },
   {
     id: 4,
-    name: "Xinyi Liu",
+    name: "Berenic Liu",
     position: "Co-Secretary",
     year: "2028",
     major: "CogSci (Design) & Business Analytics",
@@ -23,7 +23,7 @@ const execData = [
   },
   {
     id: 5,
-    name: "Cyrus Liu",
+    name: "Wesley Liu",
     position: "Treasurer",
     year: "2027",
     major: "Political Science & Chinese Studies",
@@ -39,23 +39,12 @@ const execData = [
     year: "2027",
     major: "CogSci (Neuroscience) & Economics",
     email: "satito@ucsd.edu",
-    img: "exec_2026_2027/placeholder.png",
-    imgHover: "exec_2026_2027/placeholder.png",
+    img: "exec_2026_2027/sarah.jpg",
+    imgHover: "exec_2026_2027/sarah.jpg",
     url: "https://www.facebook.com/webraincogsci"
   },
   {
     id: 7,
-    name: "Nada Hendy",
-    position: "Sponsorship Chair",
-    year: "2027",
-    major: "CogSci (ML) & Computer Science",
-    email: "nhendy@ucsd.edu",
-    img: "exec_2026_2027/nada.png",
-    imgHover: "exec_2026_2027/nada.png",
-    url: "https://www.facebook.com/webraincogsci"
-  },
-  {
-    id: 8,
     name: "Zice Sun",
     position: "Marketing & Media Lead",
     year: "2028",
@@ -66,7 +55,7 @@ const execData = [
     url: "https://www.facebook.com/webraincogsci"
   },
   {
-    id: 9,
+    id: 8,
     name: "Leeloo Chow",
     position: "Content & Media Associate",
     year: "2027",
@@ -77,7 +66,7 @@ const execData = [
     url: "https://www.facebook.com/webraincogsci"
   },
   {
-    id: 10,
+    id: 9,
     name: "Isabelle Wang",
     position: "Content & Media Associate",
     year: "2029",
@@ -88,7 +77,7 @@ const execData = [
     url: "https://www.facebook.com/webraincogsci"
   },
   {
-    id: 11,
+    id: 10,
     name: "Ryan Tran",
     position: "Design & Web Associate",
     year: "2027",
@@ -99,7 +88,7 @@ const execData = [
     url: "https://www.facebook.com/webraincogsci"
   },
   {
-    id: 12,
+    id: 11,
     name: "Skye Belsher",
     position: "Prof. Relations Lead",
     year: "2029",
@@ -110,7 +99,7 @@ const execData = [
     url: "https://www.facebook.com/webraincogsci"
   },
   {
-    id: 13,
+    id: 12,
     name: "Joy Chien",
     position: "Prof. Relations Associate",
     year: "2029",
@@ -121,7 +110,7 @@ const execData = [
     url: "https://www.facebook.com/webraincogsci"
   },
   {
-    id: 14,
+    id: 13,
     name: "Anusha Shinde",
     position: "Prof. Relations Associate",
     year: "2029",
@@ -132,7 +121,7 @@ const execData = [
     url: "https://www.facebook.com/webraincogsci"
   },
   {
-    id: 15,
+    id: 14,
     name: "Laurie Wu",
     position: "Prof. Relations Associate",
     year: "2028",
@@ -143,7 +132,7 @@ const execData = [
     url: "https://www.facebook.com/webraincogsci"
   },
   {
-    id: 16,
+    id: 15,
     name: "Takuhiro Nishimura",
     position: "Prof. Relations Shadow",
     year: "2029",
@@ -154,7 +143,7 @@ const execData = [
     url: "https://www.facebook.com/webraincogsci"
   },
   {
-    id: 17,
+    id: 16,
     name: "Yash Date",
     position: "Community Chair",
     year: "2028",
@@ -165,7 +154,7 @@ const execData = [
     url: "https://www.facebook.com/webraincogsci"
   },
   {
-    id: 18,
+    id: 17,
     name: "Tanya Bhat",
     position: "Programs Director",
     year: "2028",
@@ -176,7 +165,7 @@ const execData = [
     url: "https://www.facebook.com/webraincogsci"
   },
   {
-    id: 19,
+    id: 18,
     name: "Tanmayi Kademani",
     position: "Content Writer",
     year: "2028",

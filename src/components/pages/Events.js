@@ -34,14 +34,13 @@ const events = [
   { title: "Merch Design Submissions Due", start: "2026-08-08" },
 
   // --- FALL 2026 ---
-  
+  {title: "Fall GBM 1", start: "2026-10-09"},
+  {title: "Tapioca Express Fundraiser", start: "2026-10-15"},
+  {title: "Intern Applications Due", start: "2026-10-16"},
 
   // --- WINTER 2027 ---
   
   // --- SPRING 2027 ---
-  
-
-  // --- SUMMER 2026 ---
   
 
   // Session I
@@ -157,7 +156,7 @@ const events = [
         <FullCalendar
           plugins={[dayGridPlugin]}
           initialView="dayGridMonth"
-          validRange={{ start: "2025-09-01", end: "2026-09-31" }}
+          validRange={{ start: "2026-09-01", end: "2026-12-31" }}
           events={events}
           eventContent={(arg) => {
             const fullTitle = arg.event.title;
