@@ -2,7 +2,7 @@
   "name": "my-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://cssa-ucsd.org",
+  "homepage": "https://cssa-at-ucsd.org",
   "dependencies": {
     "@babel/runtime": "^7.11.2",
     "@fullcalendar/common": "^5.11.5",
