@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.32d5b8c3.css",
-    "main.js": "/static/js/main.fbbcc294.js",
+    "main.js": "/static/js/main.4eef3d1d.js",
     "static/media/c9.png": "/static/media/c9.2499ab197ee05ffc88ad.png",
     "static/media/tanmayi.png": "/static/media/tanmayi.7d4befc9fead79f0e03a.png",
     "static/media/tse.png": "/static/media/tse.fc9861f5c54eaa030b35.png",
@@ -50,7 +50,7 @@
     "static/media/shivani.png": "/static/media/shivani.124b348299306ee44059.png",
     "static/media/sidd_s.png": "/static/media/sidd_s.3db0f217a302eb392ffe.png",
     "static/media/verina_s.png": "/static/media/verina_s.698af76ef930a519298e.png",
-    "static/media/nada.png": "/static/media/nada.e5ef1e266c16ca3a6f7b.png",
+    "static/media/nada.png": "/static/media/nada.5f97c7e895bcad377565.png",
     "static/media/rohan_s.png": "/static/media/rohan_s.c336c99ab05a949198c2.png",
     "static/media/rohan.png": "/static/media/rohan.a7f35f025723cd0d0d6f.png",
     "static/media/evan_s.png": "/static/media/evan_s.b31e632d98ba4f15d2fb.png",
@@ -63,6 +63,7 @@
     "static/media/alela.png": "/static/media/alela.92da9173e3c3f7b78781.png",
     "static/media/shamei.png": "/static/media/shamei.4f489eb052e17a623409.png",
     "static/media/aatyanth_s.png": "/static/media/aatyanth_s.5ee3758523d550634fd3.png",
+    "static/media/fall_gbm_1.png": "/static/media/fall_gbm_1.81e6e59c80e89a1a6455.png",
     "static/media/philip.png": "/static/media/philip.a1d7d82a17c84e3188fb.png",
     "static/media/tanmayi_s.png": "/static/media/tanmayi_s.c9be3d3c4029164c8319.png",
     "static/media/emery.jpg": "/static/media/emery.223f53377830229cc921.jpg",
@@ -110,12 +111,14 @@
     "static/media/lab.png": "/static/media/lab.1f3691a46eb99d3d61c3.png",
     "static/media/somi.png": "/static/media/somi.f50800176c76dd9d5554.png",
     "static/media/springgbm.png": "/static/media/springgbm.d821196e4edb4db47fcf.png",
+    "static/media/tapex_fund.png": "/static/media/tapex_fund.2d00facf2c8b074f7356.png",
     "static/media/workshop1.png": "/static/media/workshop1.dbfa0bb3ba614b01abdf.png",
     "static/media/yogurt.png": "/static/media/yogurt.12ce7fe021a97baa39fc.png",
     "static/media/jam.png": "/static/media/jam.47584a47f9ab7e03a8aa.png",
     "static/media/headshots.png": "/static/media/headshots.dc138798751913b66393.png",
     "static/media/noevents.png": "/static/media/noevents.a60370a32a246b478266.png",
     "static/media/merchdesign.png": "/static/media/merchdesign.29adfbc9ab9ac8319427.png",
+    "static/media/intern_app.png": "/static/media/intern_app.3221f891f25972f3a2f1.png",
     "static/media/WinterStudyJam.png": "/static/media/WinterStudyJam.a12bf746ddcf86045648.png",
     "static/media/tanya.jpg": "/static/media/tanya.5b45ff3ddb781019c71a.jpg",
     "static/media/ValentinesCrafts.png": "/static/media/ValentinesCrafts.9094b02ef2839f7fe959.png",
@@ -125,16 +128,17 @@
     "static/media/joy.jpg": "/static/media/joy.2625c1fe6ff1831c66c6.jpg",
     "static/media/FigmaWorkshop2025.png": "/static/media/FigmaWorkshop2025.a8db3afd7b9265101ce3.png",
     "static/media/laraRangel_old.jpg": "/static/media/laraRangel_old.791e76425782cbda5cce.jpg",
+    "static/media/sarah.jpg": "/static/media/sarah.c49f05983923cac41287.jpg",
     "static/media/placeholder.png": "/static/media/placeholder.7b8acde97cfeb9e03457.png",
     "static/media/blank.png": "/static/media/blank.7a6a6c54279a54d1977c.png",
     "static/media/Wavehaus-95SemiBold.otf": "/static/media/Wavehaus-95SemiBold.4e467f6bcb702a6e39a6.otf",
     "static/media/Logo_White.svg": "/static/media/Logo_White.a83e0c1a310636856df8ff8162b0aa08.svg",
     "index.html": "/index.html",
     "main.32d5b8c3.css.map": "/static/css/main.32d5b8c3.css.map",
-    "main.fbbcc294.js.map": "/static/js/main.fbbcc294.js.map"
+    "main.4eef3d1d.js.map": "/static/js/main.4eef3d1d.js.map"
   },
   "entrypoints": [
     "static/css/main.32d5b8c3.css",
-    "static/js/main.fbbcc294.js"
+    "static/js/main.4eef3d1d.js"
   ]
 }
