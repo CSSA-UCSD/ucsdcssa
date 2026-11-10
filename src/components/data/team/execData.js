@@ -115,7 +115,7 @@ const execData = [
     position: "Prof. Relations Associate",
     year: "2029",
     major: "CogSci (ML) & Data Science",
-    email: "nhendy@ucsd.edu",
+    email: "anshinde@ucsd.edu",
     img: "exec_2026_2027/anusha.png",
     imgHover: "exec_2026_2027/anusha.png",
     url: "https://www.facebook.com/webraincogsci"
